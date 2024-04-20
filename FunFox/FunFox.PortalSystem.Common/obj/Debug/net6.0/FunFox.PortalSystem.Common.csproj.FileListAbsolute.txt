@@ -1,0 +1,12 @@
+E:\TechnicalTasks\FunFox\FunFox.PortalSystem.Common\bin\Debug\net6.0\FunFox.PortalSystem.Common.deps.json
+E:\TechnicalTasks\FunFox\FunFox.PortalSystem.Common\bin\Debug\net6.0\FunFox.PortalSystem.Common.dll
+E:\TechnicalTasks\FunFox\FunFox.PortalSystem.Common\bin\Debug\net6.0\FunFox.PortalSystem.Common.pdb
+E:\TechnicalTasks\FunFox\FunFox.PortalSystem.Common\obj\Debug\net6.0\FunFox.PortalSystem.Common.csproj.AssemblyReference.cache
+E:\TechnicalTasks\FunFox\FunFox.PortalSystem.Common\obj\Debug\net6.0\FunFox.PortalSystem.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\TechnicalTasks\FunFox\FunFox.PortalSystem.Common\obj\Debug\net6.0\FunFox.PortalSystem.Common.AssemblyInfoInputs.cache
+E:\TechnicalTasks\FunFox\FunFox.PortalSystem.Common\obj\Debug\net6.0\FunFox.PortalSystem.Common.AssemblyInfo.cs
+E:\TechnicalTasks\FunFox\FunFox.PortalSystem.Common\obj\Debug\net6.0\FunFox.PortalSystem.Common.csproj.CoreCompileInputs.cache
+E:\TechnicalTasks\FunFox\FunFox.PortalSystem.Common\obj\Debug\net6.0\FunFox.PortalSystem.Common.dll
+E:\TechnicalTasks\FunFox\FunFox.PortalSystem.Common\obj\Debug\net6.0\refint\FunFox.PortalSystem.Common.dll
+E:\TechnicalTasks\FunFox\FunFox.PortalSystem.Common\obj\Debug\net6.0\FunFox.PortalSystem.Common.pdb
+E:\TechnicalTasks\FunFox\FunFox.PortalSystem.Common\obj\Debug\net6.0\ref\FunFox.PortalSystem.Common.dll

@@ -1,0 +1,76 @@
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement.Infrastructure\bin\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.deps.json
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement.Infrastructure\bin\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement.Infrastructure\bin\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.pdb
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement.Infrastructure\bin\Debug\net6.0\TripleUnit.ProposalManagement.Domain.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement.Infrastructure\bin\Debug\net6.0\TripleUnit.ProposalManagement.Domain.pdb
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement.Infrastructure\obj\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement.Infrastructure\obj\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement.Infrastructure\obj\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement.Infrastructure\obj\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement.Infrastructure\obj\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement.Infrastructure\obj\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.csproj.CopyComplete
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement.Infrastructure\obj\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement.Infrastructure\obj\Debug\net6.0\refint\TripleUnit.ProposalManagement.Infrastructure.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement.Infrastructure\obj\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.pdb
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement.Infrastructure\obj\Debug\net6.0\ref\TripleUnit.ProposalManagement.Infrastructure.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement.Infrastructure\bin\Debug\net6.0\TripleUnit.ProposalManagement.Application.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement.Infrastructure\bin\Debug\net6.0\TripleUnit.ProposalManagement.Common.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement.Infrastructure\bin\Debug\net6.0\TripleUnit.ProposalManagement.Application.pdb
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement.Infrastructure\bin\Debug\net6.0\TripleUnit.ProposalManagement.Common.pdb
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement.Infrastructure\bin\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.deps.json
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement.Infrastructure\bin\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement.Infrastructure\bin\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.pdb
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement.Infrastructure\bin\Debug\net6.0\TripleUnit.ProposalManagement.Application.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement.Infrastructure\bin\Debug\net6.0\TripleUnit.ProposalManagement.Common.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement.Infrastructure\bin\Debug\net6.0\TripleUnit.ProposalManagement.Domain.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement.Infrastructure\bin\Debug\net6.0\TripleUnit.ProposalManagement.Application.pdb
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement.Infrastructure\bin\Debug\net6.0\TripleUnit.ProposalManagement.Common.pdb
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement.Infrastructure\bin\Debug\net6.0\TripleUnit.ProposalManagement.Domain.pdb
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement.Infrastructure\obj\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement.Infrastructure\obj\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement.Infrastructure\obj\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement.Infrastructure\obj\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement.Infrastructure\obj\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement.Infrastructure\obj\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.csproj.CopyComplete
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement.Infrastructure\obj\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement.Infrastructure\obj\Debug\net6.0\refint\TripleUnit.ProposalManagement.Infrastructure.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement.Infrastructure\obj\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.pdb
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement.Infrastructure\obj\Debug\net6.0\ref\TripleUnit.ProposalManagement.Infrastructure.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement.Infrastructure\bin\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.deps.json
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement.Infrastructure\bin\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement.Infrastructure\bin\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.pdb
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement.Infrastructure\bin\Debug\net6.0\TripleUnit.ProposalManagement.Application.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement.Infrastructure\bin\Debug\net6.0\TripleUnit.ProposalManagement.Common.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement.Infrastructure\bin\Debug\net6.0\TripleUnit.ProposalManagement.Domain.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement.Infrastructure\bin\Debug\net6.0\TripleUnit.ProposalManagement.Application.pdb
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement.Infrastructure\bin\Debug\net6.0\TripleUnit.ProposalManagement.Common.pdb
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement.Infrastructure\bin\Debug\net6.0\TripleUnit.ProposalManagement.Domain.pdb
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement.Infrastructure\obj\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.csproj.AssemblyReference.cache
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement.Infrastructure\obj\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement.Infrastructure\obj\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.AssemblyInfoInputs.cache
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement.Infrastructure\obj\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.AssemblyInfo.cs
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement.Infrastructure\obj\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.csproj.CoreCompileInputs.cache
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement.Infrastructure\obj\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.csproj.CopyComplete
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement.Infrastructure\obj\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement.Infrastructure\obj\Debug\net6.0\refint\TripleUnit.ProposalManagement.Infrastructure.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement.Infrastructure\obj\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.pdb
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement.Infrastructure\obj\Debug\net6.0\ref\TripleUnit.ProposalManagement.Infrastructure.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement.Infrastructure\bin\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.deps.json
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement.Infrastructure\bin\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement.Infrastructure\bin\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.pdb
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement.Infrastructure\bin\Debug\net6.0\TripleUnit.ProposalManagement.Application.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement.Infrastructure\bin\Debug\net6.0\TripleUnit.ProposalManagement.Common.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement.Infrastructure\bin\Debug\net6.0\TripleUnit.ProposalManagement.Domain.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement.Infrastructure\bin\Debug\net6.0\TripleUnit.ProposalManagement.Application.pdb
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement.Infrastructure\bin\Debug\net6.0\TripleUnit.ProposalManagement.Common.pdb
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement.Infrastructure\bin\Debug\net6.0\TripleUnit.ProposalManagement.Domain.pdb
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement.Infrastructure\obj\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.csproj.AssemblyReference.cache
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement.Infrastructure\obj\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement.Infrastructure\obj\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.AssemblyInfoInputs.cache
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement.Infrastructure\obj\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.AssemblyInfo.cs
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement.Infrastructure\obj\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.csproj.CoreCompileInputs.cache
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement.Infrastructure\obj\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.csproj.CopyComplete
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement.Infrastructure\obj\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement.Infrastructure\obj\Debug\net6.0\refint\TripleUnit.ProposalManagement.Infrastructure.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement.Infrastructure\obj\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.pdb
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement.Infrastructure\obj\Debug\net6.0\ref\TripleUnit.ProposalManagement.Infrastructure.dll

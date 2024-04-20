@@ -1,0 +1,76 @@
+﻿@using FunFox.PortalSystem.Domain.ViewModels.Class
+@model ClassSearchViewModel
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.title = "FunFox Class";
+}
+@{
+    var classList = ViewBag.classList as IEnumerable<ClassViewModel>;
+}
+<link rel="stylesheet" href="~/css/StyleNew/StyleNew.css" asp-append-version="true" />
+
+<div id="" class="container card-header justify-content-between " style="margin-bottom:15px">
+    <div id="basic-section">
+        <form class="my-form x" id="ClassSearchForm">
+            <div class="row">
+                <div class="col-md-8 ">
+                    <div class="justify-content-around">
+                        <div class="w3v0mobile">
+                            <label>Search For Classes</label>
+                            <input type="text" class="form-control class-Text" id="" asp-for='@Model.ProgramDetail' placeholder="Enter Grade Name\Level\Program Details" />
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-3 " id="myModal">
+                    <label></label>
+                    <select class="select2 form-control selectpicker" id="gradeLevel" asp-for='@Model.GradeLevel'>
+                        <option value="">Select Grade Level </option>
+                        @foreach (var item in ViewBag.classGradeLevels ?? new List<ClassSearchViewModel>())
+                        {
+                            <option value="@item.GradeLevel"> @item.GradeLevel</option>
+                        }
+                    </select>
+                </div>
+                <div class="col-md-1  ">
+                    <label></label>
+                    <button id="btnClassSearch" type="button"
+                            class="btn bg-warning bgact1 btn-sm btnsearch wc100mobile maxwidthbtn searchBtn" style="width: 77px !important;">
+                        Search
+                    </button>
+                </div>
+
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="text-left NewDiv">
+    <button class="btn NewBtn" onclick="showAddNewClassModal()">Add New Class </button>
+</div>
+<div id="divPlantResponse" class="table-responsive ">
+    @await Html.PartialAsync("_ClassList", @classList)
+</div>
+<div>
+    @await Html.PartialAsync("_AddNewClass", Model);
+</div>
+<script src="~/lib/blueimp-gallery/js/popper.min.js"></script>
+
+@section Scripts {
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#classTable').DataTable({
+                "searching": false,
+                "ordering": false,
+                "filter": false,
+                "lengthChange": false
+            });
+        });
+        $(document).ready(function () {
+            $("body").tooltip({ selector: '[data-toggle=tooltip]' });
+        });
+        $('#gradeLevel').select2({});
+    </script>
+    <script src="~/js/class/class.js"></script>
+}
+

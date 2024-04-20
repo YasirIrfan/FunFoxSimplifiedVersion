@@ -1,0 +1,70 @@
+﻿@using FunFox.PortalSystem.Domain.ViewModels.Class
+@model IEnumerable<ClassViewModel>
+
+<table class="table table-striped dtable table-hover " id="classTable">
+    <thead>
+        <tr>
+            <th>Grade Level</th>
+            <th>Program Details</th>
+            <th>Time From</th>
+            <th>Time To</th>
+            <th class="center @*text-center*@">Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model ?? new List<ClassViewModel>())
+        {
+            <tr class="gradeX">
+                <td>@item.GradeLevel</td>
+                <td>@item.ProgramDetails</td>
+                <td>@item.ClassStartTime</td>
+                <td>@item.ClassEndTime</td>
+                <td class="center @*text-center*@">
+
+                    <div class="disableActionBtns">
+                        <span>
+                            <button data-toggle="tooltip" data-placement="top" title="Edit"><span class="fa fa-edit"></span></button>
+                        </span>
+
+                        <span>
+                            <button data-toggle="tooltip" data-placement="top" title="Delete"><span class="fa fa-trash-o"></span></button>
+                        </span>
+                    </div>
+
+                   @*  @if (item.Status == "Completed")
+                    {
+                        <div class="disableActionBtns">
+                            <span>
+                                <button data-toggle="tooltip" data-placement="top" title="Edit"><span class="fa fa-edit"></span></button>
+                            </span>
+
+                            <span>
+                                <button data-toggle="tooltip" data-placement="top" title="Delete"><span class="fa fa-trash-o"></span></button>
+                            </span>
+                        </div>
+                    }
+                    else
+                    {
+                        <div class="actionBtns">
+                            <span>
+                                <button data-toggle="tooltip" data-placement="top" title="Edit"><span class="fa fa-edit"></span></button>
+                            </span>
+
+                            <span>
+                                <button data-toggle="tooltip" data-placement="top" title="Delete"><span style="color: red;" class="fa fa-trash-o"></span></button>
+                            </span>
+                        </div>
+                    } *@
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<script>
+    $(document).ready(function () {
+        $('[data-toggle="tooltip"]').tooltip({
+            placement: 'top'
+        });
+    });
+</script>

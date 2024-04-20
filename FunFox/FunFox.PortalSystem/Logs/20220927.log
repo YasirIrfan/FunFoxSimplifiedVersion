@@ -1,0 +1,443 @@
+2022-09-27 10:17:45.551 +05:00 [INF] User profile is available. Using 'C:\Users\YasirIrfan\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-09-27 10:17:49.878 +05:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'PlantMaterial'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2022-09-27 10:17:50.366 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2022-09-27 10:17:52.338 +05:00 [INF] Executed DbCommand (64ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2022-09-27 10:17:52.549 +05:00 [INF] Executed DbCommand (155ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2022-09-27 10:17:52.700 +05:00 [INF] Executed DbCommand (110ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2022-09-27 10:17:52.829 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2022-09-27 10:17:54.459 +05:00 [INF] Executed DbCommand (120ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0
+2022-09-27 10:17:54.682 +05:00 [INF] Executed DbCommand (2ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0
+2022-09-27 10:17:54.720 +05:00 [INF] Executed DbCommand (5ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2022-09-27 10:17:54.813 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2022-09-27 10:17:54.906 +05:00 [INF] Creating key {fe0ff168-a656-4d80-89cb-c05d590c31b0} with creation date 2022-09-27 05:17:54Z, activation date 2022-09-27 05:17:54Z, and expiration date 2022-12-26 05:17:54Z.
+2022-09-27 10:17:54.929 +05:00 [INF] Writing data to file 'C:\Users\YasirIrfan\AppData\Local\ASP.NET\DataProtection-Keys\key-fe0ff168-a656-4d80-89cb-c05d590c31b0.xml'.
+2022-09-27 10:17:55.459 +05:00 [INF] Now listening on: https://localhost:7154
+2022-09-27 10:17:55.465 +05:00 [INF] Now listening on: http://localhost:5204
+2022-09-27 10:17:55.477 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-27 10:17:55.481 +05:00 [INF] Hosting environment: Development
+2022-09-27 10:17:55.485 +05:00 [INF] Content root path: C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\
+2022-09-27 10:17:59.123 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/ - -
+2022-09-27 10:17:59.373 +05:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2022-09-27 10:17:59.671 +05:00 [INF] AuthenticationScheme: Identity.Application was challenged.
+2022-09-27 10:17:59.687 +05:00 [INF] HTTP GET / responded 302 in 449.4687 ms
+2022-09-27 10:17:59.882 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/ - - - 302 0 - 771.4615ms
+2022-09-27 10:17:59.893 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Account/Login?ReturnUrl=%2F - -
+2022-09-27 10:17:59.952 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.AccountController.Login (FunFox.PortalSystem)'
+2022-09-27 10:18:00.003 +05:00 [INF] Route matched with {action = "Login", controller = "Account", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(System.String) on controller FunFox.PortalSystem.Controllers.AccountController (FunFox.PortalSystem).
+2022-09-27 10:18:00.086 +05:00 [INF] Executing ViewResult, running view Login.
+2022-09-27 10:18:00.656 +05:00 [INF] Executed ViewResult - view Login executed in 573.9637ms.
+2022-09-27 10:18:00.700 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.AccountController.Login (FunFox.PortalSystem) in 691.0063ms
+2022-09-27 10:18:00.707 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.AccountController.Login (FunFox.PortalSystem)'
+2022-09-27 10:18:00.715 +05:00 [INF] HTTP GET /Account/Login responded 200 in 788.5711 ms
+2022-09-27 10:18:00.791 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Account/Login?ReturnUrl=%2F - - - 200 - text/html;+charset=utf-8 897.9921ms
+2022-09-27 10:18:00.883 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/font-awesome/css/font-awesome.css - -
+2022-09-27 10:18:01.038 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/css/style.css?v=1VcVdl9qxagrO13A7Uu4lsnMcHtbiF2qA_bR6VmGxSk - -
+2022-09-27 10:18:01.001 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - -
+2022-09-27 10:18:00.915 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/css/animate.css - -
+2022-09-27 10:18:00.915 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/bootstrap/dist/css/bootstrap.css - -
+2022-09-27 10:18:01.088 +05:00 [INF] The file /css/style.css was not modified
+2022-09-27 10:18:01.088 +05:00 [INF] The file /lib/font-awesome/css/font-awesome.css was not modified
+2022-09-27 10:18:01.100 +05:00 [INF] HTTP GET /css/style.css responded 304 in 20.8700 ms
+2022-09-27 10:18:01.097 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - - - 200 12028 application/javascript;+charset=utf-8 95.8017ms
+2022-09-27 10:18:01.191 +05:00 [INF] HTTP GET /lib/font-awesome/css/font-awesome.css responded 304 in 113.6374 ms
+2022-09-27 10:18:01.197 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/css/style.css?v=1VcVdl9qxagrO13A7Uu4lsnMcHtbiF2qA_bR6VmGxSk - - - 304 - text/css 158.3858ms
+2022-09-27 10:18:01.203 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js - -
+2022-09-27 10:18:01.227 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/font-awesome/css/font-awesome.css - - - 304 - text/css 343.8527ms
+2022-09-27 10:18:01.234 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/jquery-validation/dist/jquery.validate.min.js - -
+2022-09-27 10:18:01.242 +05:00 [INF] The file /lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js was not modified
+2022-09-27 10:18:01.088 +05:00 [INF] The file /css/animate.css was not modified
+2022-09-27 10:18:01.091 +05:00 [INF] The file /lib/bootstrap/dist/css/bootstrap.css was not modified
+2022-09-27 10:18:01.245 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_vs/browserLink - -
+2022-09-27 10:18:01.249 +05:00 [INF] The file /lib/jquery-validation/dist/jquery.validate.min.js was not modified
+2022-09-27 10:18:01.253 +05:00 [INF] HTTP GET /lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js responded 304 in 11.3580 ms
+2022-09-27 10:18:01.254 +05:00 [INF] HTTP GET /css/animate.css responded 304 in 171.8453 ms
+2022-09-27 10:18:01.271 +05:00 [INF] HTTP GET /lib/jquery-validation/dist/jquery.validate.min.js responded 304 in 22.0420 ms
+2022-09-27 10:18:01.276 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js - - - 304 - application/javascript 72.6217ms
+2022-09-27 10:18:01.255 +05:00 [INF] HTTP GET /lib/bootstrap/dist/css/bootstrap.css responded 304 in 171.4982 ms
+2022-09-27 10:18:01.285 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/css/animate.css - - - 304 - text/css 369.0610ms
+2022-09-27 10:18:01.288 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/jquery-validation/dist/jquery.validate.min.js - - - 304 - application/javascript 54.0359ms
+2022-09-27 10:18:01.294 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/bootstrap/dist/css/bootstrap.css - - - 304 - text/css 378.9060ms
+2022-09-27 10:18:01.899 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 654.0605ms
+2022-09-27 10:19:53.577 +05:00 [INF] User profile is available. Using 'C:\Users\YasirIrfan\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-09-27 10:19:56.843 +05:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'PlantMaterial'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2022-09-27 10:19:57.614 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2022-09-27 10:20:00.302 +05:00 [INF] Executed DbCommand (108ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2022-09-27 10:20:00.690 +05:00 [INF] Executed DbCommand (55ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2022-09-27 10:20:00.747 +05:00 [INF] Executed DbCommand (12ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2022-09-27 10:20:00.776 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2022-09-27 10:20:02.533 +05:00 [INF] Executed DbCommand (206ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0
+2022-09-27 10:20:03.019 +05:00 [INF] Executed DbCommand (219ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0
+2022-09-27 10:20:03.107 +05:00 [INF] Executed DbCommand (30ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2022-09-27 10:20:03.202 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2022-09-27 10:20:03.660 +05:00 [INF] Now listening on: https://localhost:7154
+2022-09-27 10:20:03.666 +05:00 [INF] Now listening on: http://localhost:5204
+2022-09-27 10:20:03.677 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-27 10:20:03.680 +05:00 [INF] Hosting environment: Development
+2022-09-27 10:20:03.683 +05:00 [INF] Content root path: C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\
+2022-09-27 10:20:05.524 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/ - -
+2022-09-27 10:20:05.764 +05:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2022-09-27 10:20:06.625 +05:00 [INF] AuthenticationScheme: Identity.Application was challenged.
+2022-09-27 10:20:06.634 +05:00 [INF] HTTP GET / responded 302 in 1034.6188 ms
+2022-09-27 10:20:06.682 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/ - - - 302 0 - 1167.3071ms
+2022-09-27 10:20:06.697 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Account/Login?ReturnUrl=%2F - -
+2022-09-27 10:20:06.715 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.AccountController.Login (FunFox.PortalSystem)'
+2022-09-27 10:20:06.766 +05:00 [INF] Route matched with {action = "Login", controller = "Account", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(System.String) on controller FunFox.PortalSystem.Controllers.AccountController (FunFox.PortalSystem).
+2022-09-27 10:20:06.818 +05:00 [INF] Executing ViewResult, running view Login.
+2022-09-27 10:20:08.666 +05:00 [INF] Executed ViewResult - view Login executed in 1837.706ms.
+2022-09-27 10:20:08.690 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.AccountController.Login (FunFox.PortalSystem) in 1917.1634ms
+2022-09-27 10:20:08.697 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.AccountController.Login (FunFox.PortalSystem)'
+2022-09-27 10:20:08.706 +05:00 [INF] HTTP GET /Account/Login responded 200 in 2004.2440 ms
+2022-09-27 10:20:08.767 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Account/Login?ReturnUrl=%2F - - - 200 - text/html;+charset=utf-8 2069.6729ms
+2022-09-27 10:20:08.787 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_vs/browserLink - -
+2022-09-27 10:20:08.787 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - -
+2022-09-27 10:20:08.806 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - - - 200 12028 application/javascript;+charset=utf-8 19.3117ms
+2022-09-27 10:20:09.003 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 216.3186ms
+2022-09-27 10:20:14.391 +05:00 [INF] Request starting HTTP/2 POST https://localhost:7154/Account/Login?returnurl=%2F application/x-www-form-urlencoded 227
+2022-09-27 10:20:14.407 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.AccountController.Login (FunFox.PortalSystem)'
+2022-09-27 10:20:14.425 +05:00 [INF] Route matched with {action = "Login", controller = "Account", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(FunFox.PortalSystem.Domain.ViewModels.Accounts.LoginViewModel, System.String) on controller FunFox.PortalSystem.Controllers.AccountController (FunFox.PortalSystem).
+2022-09-27 10:20:14.651 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2022-09-27 10:20:14.816 +05:00 [INF] Executed DbCommand (3ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2022-09-27 10:20:15.106 +05:00 [INF] Executed DbCommand (4ms) [Parameters=[@__user_Id_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[Id], [a].[ClaimType], [a].[ClaimValue], [a].[UserId]
+FROM [AspNetUserClaims] AS [a]
+WHERE [a].[UserId] = @__user_Id_0
+2022-09-27 10:20:15.207 +05:00 [INF] Executed DbCommand (5ms) [Parameters=[@__userId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0
+2022-09-27 10:20:15.223 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0
+2022-09-27 10:20:15.247 +05:00 [INF] Executed DbCommand (3ms) [Parameters=[@__role_Id_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[ClaimType], [a].[ClaimValue]
+FROM [AspNetRoleClaims] AS [a]
+WHERE [a].[RoleId] = @__role_Id_0
+2022-09-27 10:20:15.272 +05:00 [INF] AuthenticationScheme: Identity.Application signed in.
+2022-09-27 10:20:15.279 +05:00 [INF] User logged in.
+2022-09-27 10:20:15.293 +05:00 [INF] Executing LocalRedirectResult, redirecting to /.
+2022-09-27 10:20:15.297 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.AccountController.Login (FunFox.PortalSystem) in 865.495ms
+2022-09-27 10:20:15.301 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.AccountController.Login (FunFox.PortalSystem)'
+2022-09-27 10:20:15.306 +05:00 [INF] HTTP POST /Account/Login responded 302 in 909.3972 ms
+2022-09-27 10:20:15.316 +05:00 [INF] Request finished HTTP/2 POST https://localhost:7154/Account/Login?returnurl=%2F application/x-www-form-urlencoded 227 - 302 0 - 924.3795ms
+2022-09-27 10:20:15.321 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/ - -
+2022-09-27 10:20:15.333 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.DashboardsController.Dashboard_1 (FunFox.PortalSystem)'
+2022-09-27 10:20:15.339 +05:00 [INF] Route matched with {action = "Dashboard_1", controller = "Dashboards", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Dashboard_1() on controller FunFox.PortalSystem.Controllers.DashboardsController (FunFox.PortalSystem).
+2022-09-27 10:20:15.346 +05:00 [INF] Executing ViewResult, running view Dashboard_1.
+2022-09-27 10:20:15.609 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2022-09-27 10:20:15.629 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2022-09-27 10:20:16.450 +05:00 [INF] Executed ViewResult - view Dashboard_1 executed in 1105.129ms.
+2022-09-27 10:20:16.454 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.DashboardsController.Dashboard_1 (FunFox.PortalSystem) in 1110.482ms
+2022-09-27 10:20:16.459 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.DashboardsController.Dashboard_1 (FunFox.PortalSystem)'
+2022-09-27 10:20:16.464 +05:00 [INF] HTTP GET / responded 200 in 1138.3063 ms
+2022-09-27 10:20:19.261 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/ - - - 200 - text/html;+charset=utf-8 3939.9552ms
+2022-09-27 10:20:20.353 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Images/a5.jpg - -
+2022-09-27 10:20:20.244 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Images/a8.jpg - -
+2022-09-27 10:20:20.355 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Images/a2.jpg - -
+2022-09-27 10:20:20.386 +05:00 [INF] The file /Images/a8.jpg was not modified
+2022-09-27 10:20:20.386 +05:00 [INF] The file /Images/a5.jpg was not modified
+2022-09-27 10:20:20.499 +05:00 [INF] The file /Images/a2.jpg was not modified
+2022-09-27 10:20:20.509 +05:00 [INF] HTTP GET /Images/a8.jpg responded 304 in 131.1764 ms
+2022-09-27 10:20:20.515 +05:00 [INF] HTTP GET /Images/a5.jpg responded 304 in 138.0088 ms
+2022-09-27 10:20:20.522 +05:00 [INF] HTTP GET /Images/a2.jpg responded 304 in 22.7881 ms
+2022-09-27 10:20:20.530 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Images/a8.jpg - - - 304 - image/jpeg 286.1316ms
+2022-09-27 10:20:20.534 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Images/a5.jpg - - - 304 - image/jpeg 180.9107ms
+2022-09-27 10:20:20.539 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Images/a2.jpg - - - 304 - image/jpeg 184.1704ms
+2022-09-27 10:20:20.555 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Images/profile.jpg - -
+2022-09-27 10:20:20.573 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Images/a7.jpg - -
+2022-09-27 10:20:20.578 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Images/a4.jpg - -
+2022-09-27 10:20:20.597 +05:00 [INF] The file /Images/profile.jpg was not modified
+2022-09-27 10:20:20.353 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Images/profile_small.jpg - -
+2022-09-27 10:20:20.368 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/css/patterns/header-profile.png - -
+2022-09-27 10:20:20.607 +05:00 [INF] The file /Images/a7.jpg was not modified
+2022-09-27 10:20:20.788 +05:00 [INF] HTTP GET /Images/profile.jpg responded 304 in 190.8747 ms
+2022-09-27 10:20:20.756 +05:00 [INF] The file /Images/a4.jpg was not modified
+2022-09-27 10:20:20.835 +05:00 [INF] HTTP GET /Images/a7.jpg responded 304 in 227.8539 ms
+2022-09-27 10:20:20.841 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Images/profile.jpg - - - 304 - image/jpeg 285.4961ms
+2022-09-27 10:20:20.847 +05:00 [INF] HTTP GET /Images/a4.jpg responded 304 in 90.9975 ms
+2022-09-27 10:20:20.789 +05:00 [INF] The file /Images/profile_small.jpg was not modified
+2022-09-27 10:20:20.856 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Images/a7.jpg - - - 304 - image/jpeg 282.9892ms
+2022-09-27 10:20:20.859 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Images/a1.jpg - -
+2022-09-27 10:20:20.861 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Images/a4.jpg - - - 304 - image/jpeg 283.0188ms
+2022-09-27 10:20:20.871 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Images/a3.jpg - -
+2022-09-27 10:20:20.868 +05:00 [INF] HTTP GET /Images/profile_small.jpg responded 304 in 78.8344 ms
+2022-09-27 10:20:20.875 +05:00 [INF] The file /Images/a1.jpg was not modified
+2022-09-27 10:20:20.790 +05:00 [INF] The file /css/patterns/header-profile.png was not modified
+2022-09-27 10:20:20.881 +05:00 [INF] The file /Images/a3.jpg was not modified
+2022-09-27 10:20:20.891 +05:00 [INF] HTTP GET /Images/a1.jpg responded 304 in 15.9365 ms
+2022-09-27 10:20:20.943 +05:00 [INF] HTTP GET /Images/a3.jpg responded 304 in 62.1426 ms
+2022-09-27 10:20:20.947 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0 - -
+2022-09-27 10:20:20.950 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Images/a1.jpg - - - 304 - image/jpeg 91.9233ms
+2022-09-27 10:20:20.955 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Images/a3.jpg - - - 304 - image/jpeg 83.8276ms
+2022-09-27 10:20:20.960 +05:00 [INF] The file /lib/font-awesome/fonts/fontawesome-webfont.woff2 was not modified
+2022-09-27 10:20:20.964 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/jquery/dist/jquery.js - -
+2022-09-27 10:20:20.968 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - -
+2022-09-27 10:20:20.974 +05:00 [INF] HTTP GET /lib/font-awesome/fonts/fontawesome-webfont.woff2 responded 304 in 14.8140 ms
+2022-09-27 10:20:20.978 +05:00 [INF] The file /lib/jquery/dist/jquery.js was not modified
+2022-09-27 10:20:20.982 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - - - 200 12028 application/javascript;+charset=utf-8 13.6111ms
+2022-09-27 10:20:20.988 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0 - - - 304 - font/woff2 41.0695ms
+2022-09-27 10:20:20.993 +05:00 [INF] HTTP GET /lib/jquery/dist/jquery.js responded 304 in 14.9853 ms
+2022-09-27 10:20:21.006 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/Popper/popper.min.js - -
+2022-09-27 10:20:21.011 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/js/skin.config.js - -
+2022-09-27 10:20:20.890 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Images/profile_small.jpg - - - 304 - image/jpeg 536.5193ms
+2022-09-27 10:20:21.018 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/jquery/dist/jquery.js - - - 304 - application/javascript 53.6440ms
+2022-09-27 10:20:21.027 +05:00 [INF] The file /js/skin.config.js was not modified
+2022-09-27 10:20:21.030 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/flot/jquery.flot.resize.js - -
+2022-09-27 10:20:20.892 +05:00 [INF] HTTP GET /css/patterns/header-profile.png responded 304 in 102.2892 ms
+2022-09-27 10:20:21.024 +05:00 [INF] The file /lib/Popper/popper.min.js was not modified
+2022-09-27 10:20:21.042 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_vs/browserLink - -
+2022-09-27 10:20:21.049 +05:00 [INF] HTTP GET /js/skin.config.js responded 304 in 22.2496 ms
+2022-09-27 10:20:21.051 +05:00 [INF] The file /lib/flot/jquery.flot.resize.js was not modified
+2022-09-27 10:20:21.142 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/bootstrap/dist/js/bootstrap.js - -
+2022-09-27 10:20:21.053 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/css/patterns/header-profile.png - - - 304 - image/png 684.1859ms
+2022-09-27 10:20:21.136 +05:00 [INF] HTTP GET /lib/Popper/popper.min.js responded 304 in 112.4984 ms
+2022-09-27 10:20:21.159 +05:00 [INF] The file /lib/bootstrap/dist/js/bootstrap.js was not modified
+2022-09-27 10:20:21.144 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/js/skin.config.js - - - 304 - application/javascript 132.8904ms
+2022-09-27 10:20:21.157 +05:00 [INF] HTTP GET /lib/flot/jquery.flot.resize.js responded 304 in 106.7749 ms
+2022-09-27 10:20:21.185 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/Popper/popper.min.js - - - 304 - application/javascript 179.7743ms
+2022-09-27 10:20:21.189 +05:00 [INF] HTTP GET /lib/bootstrap/dist/js/bootstrap.js responded 304 in 30.5427 ms
+2022-09-27 10:20:21.196 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/js/script.js?v=ejsjEJgVpOlGCnoCig86koGMDeT97csAvW4FVvUO7Kw - -
+2022-09-27 10:20:21.205 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/flot/jquery.flot.resize.js - - - 304 - application/javascript 174.9910ms
+2022-09-27 10:20:21.161 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/flot/jquery.flot.tooltip.min.js - -
+2022-09-27 10:20:21.210 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/flot/jquery.flot.time.js - -
+2022-09-27 10:20:21.230 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/bootstrap/dist/js/bootstrap.js - - - 304 - application/javascript 88.7508ms
+2022-09-27 10:20:21.232 +05:00 [INF] The file /js/script.js was not modified
+2022-09-27 10:20:21.261 +05:00 [INF] The file /lib/flot/jquery.flot.time.js was not modified
+2022-09-27 10:20:21.265 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/flot/jquery.flot.pie.js - -
+2022-09-27 10:20:21.270 +05:00 [INF] HTTP GET /js/script.js responded 304 in 37.5399 ms
+2022-09-27 10:20:21.273 +05:00 [INF] HTTP GET /lib/flot/jquery.flot.time.js responded 304 in 12.1888 ms
+2022-09-27 10:20:21.277 +05:00 [INF] The file /lib/flot/jquery.flot.pie.js was not modified
+2022-09-27 10:20:21.282 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/js/script.js?v=ejsjEJgVpOlGCnoCig86koGMDeT97csAvW4FVvUO7Kw - - - 304 - application/javascript 85.7066ms
+2022-09-27 10:20:21.287 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/flot/jquery.flot.time.js - - - 304 - application/javascript 77.3315ms
+2022-09-27 10:20:21.296 +05:00 [INF] HTTP GET /lib/flot/jquery.flot.pie.js responded 304 in 18.5954 ms
+2022-09-27 10:20:21.300 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/peity/jquery.peity.js - -
+2022-09-27 10:20:21.308 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/sparkline/jquery.sparkline.min.js - -
+2022-09-27 10:20:21.313 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/flot/jquery.flot.pie.js - - - 304 - application/javascript 47.4460ms
+2022-09-27 10:20:21.318 +05:00 [INF] The file /lib/peity/jquery.peity.js was not modified
+2022-09-27 10:20:21.325 +05:00 [INF] The file /lib/sparkline/jquery.sparkline.min.js was not modified
+2022-09-27 10:20:21.329 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/metisMenu/dist/jquery.metisMenu.js - -
+2022-09-27 10:20:21.334 +05:00 [INF] HTTP GET /lib/peity/jquery.peity.js responded 304 in 16.1517 ms
+2022-09-27 10:20:21.339 +05:00 [INF] HTTP GET /lib/sparkline/jquery.sparkline.min.js responded 304 in 14.2660 ms
+2022-09-27 10:20:21.343 +05:00 [INF] The file /lib/metisMenu/dist/jquery.metisMenu.js was not modified
+2022-09-27 10:20:21.350 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/peity/jquery.peity.js - - - 304 - application/javascript 49.4740ms
+2022-09-27 10:20:21.355 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/sparkline/jquery.sparkline.min.js - - - 304 - application/javascript 47.3870ms
+2022-09-27 10:20:21.375 +05:00 [INF] HTTP GET /lib/metisMenu/dist/jquery.metisMenu.js responded 304 in 32.8185 ms
+2022-09-27 10:20:21.380 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/pace/pace.js - -
+2022-09-27 10:20:21.385 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/chartJs/Chart.min.js - -
+2022-09-27 10:20:21.392 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/metisMenu/dist/jquery.metisMenu.js - - - 304 - application/javascript 63.3354ms
+2022-09-27 10:20:21.397 +05:00 [INF] The file /lib/pace/pace.js was not modified
+2022-09-27 10:20:21.400 +05:00 [INF] The file /lib/chartJs/Chart.min.js was not modified
+2022-09-27 10:20:21.405 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/flot/jquery.flot.js - -
+2022-09-27 10:20:21.409 +05:00 [INF] HTTP GET /lib/pace/pace.js responded 304 in 12.2537 ms
+2022-09-27 10:20:21.412 +05:00 [INF] HTTP GET /lib/chartJs/Chart.min.js responded 304 in 12.0759 ms
+2022-09-27 10:20:21.416 +05:00 [INF] The file /lib/flot/jquery.flot.js was not modified
+2022-09-27 10:20:21.420 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/pace/pace.js - - - 304 - application/javascript 40.2662ms
+2022-09-27 10:20:21.425 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/chartJs/Chart.min.js - - - 304 - application/javascript 40.0725ms
+2022-09-27 10:20:21.431 +05:00 [INF] HTTP GET /lib/flot/jquery.flot.js responded 304 in 15.2889 ms
+2022-09-27 10:20:21.439 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/slimScroll/jquery.slimscroll.js - -
+2022-09-27 10:20:21.233 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/flot/jquery.flot.spline.js - -
+2022-09-27 10:20:21.246 +05:00 [INF] The file /lib/flot/jquery.flot.tooltip.min.js was not modified
+2022-09-27 10:20:21.463 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/flot/jquery.flot.js - - - 304 - application/javascript 58.6543ms
+2022-09-27 10:20:21.476 +05:00 [INF] The file /lib/slimScroll/jquery.slimscroll.js was not modified
+2022-09-27 10:20:21.478 +05:00 [INF] The file /lib/flot/jquery.flot.spline.js was not modified
+2022-09-27 10:20:21.489 +05:00 [INF] HTTP GET /lib/flot/jquery.flot.tooltip.min.js responded 304 in 243.2810 ms
+2022-09-27 10:20:21.497 +05:00 [INF] HTTP GET /lib/slimScroll/jquery.slimscroll.js responded 304 in 21.5819 ms
+2022-09-27 10:20:21.504 +05:00 [INF] HTTP GET /lib/flot/jquery.flot.spline.js responded 304 in 26.6640 ms
+2022-09-27 10:20:21.516 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/slimScroll/jquery.slimscroll.js - - - 304 - application/javascript 77.2402ms
+2022-09-27 10:20:21.541 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/flot/jquery.flot.spline.js - - - 304 - application/javascript 307.1941ms
+2022-09-27 10:20:21.518 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/flot/jquery.flot.tooltip.min.js - - - 304 - application/javascript 357.6404ms
+2022-09-27 10:20:21.581 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 539.4616ms
+2022-09-27 10:20:54.659 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Mailbox/Inbox - -
+2022-09-27 10:20:54.879 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.MailboxController.Inbox (FunFox.PortalSystem)'
+2022-09-27 10:20:54.891 +05:00 [INF] Route matched with {action = "Inbox", controller = "Mailbox", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Inbox() on controller FunFox.PortalSystem.Controllers.MailboxController (FunFox.PortalSystem).
+2022-09-27 10:20:54.900 +05:00 [INF] Executing ViewResult, running view Inbox.
+2022-09-27 10:20:55.221 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2022-09-27 10:20:56.241 +05:00 [INF] Executed DbCommand (15ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2022-09-27 10:20:56.362 +05:00 [INF] Executed ViewResult - view Inbox executed in 1464.0465ms.
+2022-09-27 10:20:56.433 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.MailboxController.Inbox (FunFox.PortalSystem) in 1534.7251ms
+2022-09-27 10:20:56.764 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.MailboxController.Inbox (FunFox.PortalSystem)'
+2022-09-27 10:20:56.885 +05:00 [INF] HTTP GET /Mailbox/Inbox responded 200 in 2008.4417 ms
+2022-09-27 10:20:59.324 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Mailbox/Inbox - - - 200 - text/html;+charset=utf-8 4664.4026ms
+2022-09-27 10:20:59.594 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_vs/browserLink - -
+2022-09-27 10:20:59.603 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - -
+2022-09-27 10:20:59.626 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/iCheck/custom.css - -
+2022-09-27 10:20:59.628 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - - - 200 12028 application/javascript;+charset=utf-8 24.8100ms
+2022-09-27 10:20:59.673 +05:00 [INF] The file /lib/iCheck/custom.css was not modified
+2022-09-27 10:20:59.627 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/iCheck/icheck.min.js - -
+2022-09-27 10:20:59.805 +05:00 [INF] HTTP GET /lib/iCheck/custom.css responded 304 in 132.3493 ms
+2022-09-27 10:20:59.806 +05:00 [INF] The file /lib/iCheck/icheck.min.js was not modified
+2022-09-27 10:20:59.841 +05:00 [INF] HTTP GET /lib/iCheck/icheck.min.js responded 304 in 34.9786 ms
+2022-09-27 10:21:01.463 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 1868.4116ms
+2022-09-27 10:21:01.626 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/iCheck/custom.css - - - 304 - text/css 2001.7187ms
+2022-09-27 10:21:01.629 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/iCheck/icheck.min.js - - - 304 - application/javascript 2002.0240ms
+2022-09-27 10:21:02.252 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/iCheck/green.png - -
+2022-09-27 10:21:02.332 +05:00 [INF] The file /lib/iCheck/green.png was not modified
+2022-09-27 10:21:02.338 +05:00 [INF] HTTP GET /lib/iCheck/green.png responded 304 in 5.7965 ms
+2022-09-27 10:21:02.345 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/iCheck/green.png - - - 304 - image/png 92.5434ms
+2022-09-27 10:21:09.156 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Landing/Index - -
+2022-09-27 10:21:09.191 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.LandingController.Index (FunFox.PortalSystem)'
+2022-09-27 10:21:09.197 +05:00 [INF] Route matched with {action = "Index", controller = "Landing", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller FunFox.PortalSystem.Controllers.LandingController (FunFox.PortalSystem).
+2022-09-27 10:21:09.206 +05:00 [INF] Executing ViewResult, running view Index.
+2022-09-27 10:21:09.264 +05:00 [INF] Executed ViewResult - view Index executed in 59.3531ms.
+2022-09-27 10:21:09.270 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.LandingController.Index (FunFox.PortalSystem) in 65.9329ms
+2022-09-27 10:21:09.274 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.LandingController.Index (FunFox.PortalSystem)'
+2022-09-27 10:21:09.279 +05:00 [INF] HTTP GET /Landing/Index responded 200 in 115.3044 ms
+2022-09-27 10:21:11.977 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Landing/Index - - - 200 - text/html;+charset=utf-8 2820.9403ms
+2022-09-27 10:21:12.042 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Images/landing/laptop.png - -
+2022-09-27 10:21:12.046 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - -
+2022-09-27 10:21:12.048 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Images/landing/avatar2.jpg - -
+2022-09-27 10:21:12.046 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Images/landing/iphone.jpg - -
+2022-09-27 10:21:12.046 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Images/landing/perspective.png - -
+2022-09-27 10:21:12.092 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_vs/browserLink - -
+2022-09-27 10:21:12.046 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Images/landing/avatar1.jpg - -
+2022-09-27 10:21:12.046 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/wow/wow.min.js - -
+2022-09-27 10:21:12.086 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - - - 200 12028 application/javascript;+charset=utf-8 41.2738ms
+2022-09-27 10:21:12.046 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Images/landing/dashboard.png - -
+2022-09-27 10:21:12.053 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/css/landing/header_one.jpg - -
+2022-09-27 10:21:12.047 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Images/landing/avatar3.jpg - -
+2022-09-27 10:21:12.158 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/css/landing/avatar_all.png - -
+2022-09-27 10:21:12.211 +05:00 [INF] Sending file. Request path: '/Images/landing/avatar2.jpg'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\images\landing\avatar2.jpg'
+2022-09-27 10:21:12.162 +05:00 [INF] Sending file. Request path: '/Images/landing/avatar1.jpg'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\images\landing\avatar1.jpg'
+2022-09-27 10:21:12.254 +05:00 [INF] HTTP GET /Images/landing/avatar2.jpg responded 200 in 161.0029 ms
+2022-09-27 10:21:12.266 +05:00 [INF] HTTP GET /Images/landing/avatar1.jpg responded 200 in 147.3637 ms
+2022-09-27 10:21:12.328 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/css/landing/word_map.png - -
+2022-09-27 10:21:12.329 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Images/landing/avatar1.jpg - - - 200 4407 image/jpeg 282.4485ms
+2022-09-27 10:21:12.370 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Images/landing/avatar2.jpg - - - 200 4336 image/jpeg 321.0853ms
+2022-09-27 10:21:12.383 +05:00 [INF] Sending file. Request path: '/Images/landing/avatar3.jpg'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\images\landing\avatar3.jpg'
+2022-09-27 10:21:12.411 +05:00 [INF] Sending file. Request path: '/lib/wow/wow.min.js'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\lib\wow\wow.min.js'
+2022-09-27 10:21:12.459 +05:00 [INF] Sending file. Request path: '/Images/landing/laptop.png'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\images\landing\laptop.png'
+2022-09-27 10:21:12.463 +05:00 [INF] Sending file. Request path: '/Images/landing/dashboard.png'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\images\landing\dashboard.png'
+2022-09-27 10:21:12.464 +05:00 [INF] HTTP GET /Images/landing/avatar3.jpg responded 200 in 299.4903 ms
+2022-09-27 10:21:12.466 +05:00 [INF] HTTP GET /lib/wow/wow.min.js responded 200 in 312.4606 ms
+2022-09-27 10:21:12.481 +05:00 [INF] HTTP GET /Images/landing/laptop.png responded 200 in 416.8926 ms
+2022-09-27 10:21:12.486 +05:00 [INF] HTTP GET /Images/landing/dashboard.png responded 200 in 324.8529 ms
+2022-09-27 10:21:12.507 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Images/landing/laptop.png - - - 200 74064 image/png 465.0986ms
+2022-09-27 10:21:12.511 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Images/landing/avatar3.jpg - - - 200 4025 image/jpeg 464.6988ms
+2022-09-27 10:21:12.511 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/wow/wow.min.js - - - 200 7084 application/javascript 465.5592ms
+2022-09-27 10:21:12.547 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Images/landing/dashboard.png - - - 200 74039 image/png 500.2970ms
+2022-09-27 10:21:12.565 +05:00 [INF] Sending file. Request path: '/Images/landing/iphone.jpg'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\images\landing\iphone.jpg'
+2022-09-27 10:21:12.565 +05:00 [INF] Sending file. Request path: '/css/landing/word_map.png'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\css\landing\word_map.png'
+2022-09-27 10:21:12.570 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 477.7776ms
+2022-09-27 10:21:12.585 +05:00 [INF] HTTP GET /Images/landing/iphone.jpg responded 200 in 486.5041 ms
+2022-09-27 10:21:12.570 +05:00 [INF] Sending file. Request path: '/css/landing/header_one.jpg'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\css\landing\header_one.jpg'
+2022-09-27 10:21:12.591 +05:00 [INF] HTTP GET /css/landing/word_map.png responded 200 in 209.7248 ms
+2022-09-27 10:21:12.598 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Images/landing/iphone.jpg - - - 200 169920 image/jpeg 551.1094ms
+2022-09-27 10:21:12.606 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/css/landing/word_map.png - - - 200 89439 image/png 279.7969ms
+2022-09-27 10:21:12.605 +05:00 [INF] HTTP GET /css/landing/header_one.jpg responded 200 in 441.3777 ms
+2022-09-27 10:21:12.637 +05:00 [INF] Sending file. Request path: '/css/landing/avatar_all.png'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\css\landing\avatar_all.png'
+2022-09-27 10:21:12.657 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/css/landing/header_one.jpg - - - 200 142245 image/jpeg 604.0028ms
+2022-09-27 10:21:12.662 +05:00 [INF] HTTP GET /css/landing/avatar_all.png responded 200 in 423.2840 ms
+2022-09-27 10:21:12.669 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/css/landing/avatar_all.png - - - 200 198865 image/png 511.1134ms
+2022-09-27 10:21:12.687 +05:00 [INF] Sending file. Request path: '/Images/landing/perspective.png'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\images\landing\perspective.png'
+2022-09-27 10:21:12.692 +05:00 [INF] HTTP GET /Images/landing/perspective.png responded 200 in 584.8121 ms
+2022-09-27 10:21:12.698 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Images/landing/perspective.png - - - 200 542966 image/png 651.9425ms
+2022-09-27 10:21:22.481 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/css/landing/header_two.jpg - -
+2022-09-27 10:21:22.505 +05:00 [INF] Sending file. Request path: '/css/landing/header_two.jpg'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\css\landing\header_two.jpg'
+2022-09-27 10:21:22.511 +05:00 [INF] HTTP GET /css/landing/header_two.jpg responded 200 in 24.6881 ms
+2022-09-27 10:21:22.517 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/css/landing/header_two.jpg - - - 200 195865 image/jpeg 35.8248ms
+2022-09-27 10:22:34.253 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Mailbox/Inbox - -
+2022-09-27 10:22:34.263 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.MailboxController.Inbox (FunFox.PortalSystem)'
+2022-09-27 10:22:34.267 +05:00 [INF] Route matched with {action = "Inbox", controller = "Mailbox", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Inbox() on controller FunFox.PortalSystem.Controllers.MailboxController (FunFox.PortalSystem).
+2022-09-27 10:22:34.273 +05:00 [INF] Executing ViewResult, running view Inbox.
+2022-09-27 10:22:34.280 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2022-09-27 10:22:34.291 +05:00 [INF] Executed DbCommand (6ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2022-09-27 10:22:34.314 +05:00 [INF] Executed ViewResult - view Inbox executed in 41.1311ms.
+2022-09-27 10:22:34.318 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.MailboxController.Inbox (FunFox.PortalSystem) in 45.401ms
+2022-09-27 10:22:34.322 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.MailboxController.Inbox (FunFox.PortalSystem)'
+2022-09-27 10:22:34.329 +05:00 [INF] HTTP GET /Mailbox/Inbox responded 200 in 70.1530 ms
+2022-09-27 10:22:34.349 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Mailbox/Inbox - - - 200 - text/html;+charset=utf-8 95.5890ms
+2022-09-27 10:22:34.449 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - -
+2022-09-27 10:22:34.459 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - - - 200 12028 application/javascript;+charset=utf-8 9.1274ms
+2022-09-27 10:22:36.692 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/CSSAnimations/Index - -
+2022-09-27 10:22:36.736 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.CSSAnimationsController.Index (FunFox.PortalSystem)'
+2022-09-27 10:22:36.747 +05:00 [INF] Route matched with {action = "Index", controller = "CSSAnimations", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller FunFox.PortalSystem.Controllers.CSSAnimationsController (FunFox.PortalSystem).
+2022-09-27 10:22:36.764 +05:00 [INF] Executing ViewResult, running view Index.
+2022-09-27 10:22:36.782 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2022-09-27 10:22:36.837 +05:00 [INF] Executed DbCommand (6ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2022-09-27 10:22:36.857 +05:00 [INF] Executed ViewResult - view Index executed in 94.7321ms.
+2022-09-27 10:22:36.862 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.CSSAnimationsController.Index (FunFox.PortalSystem) in 100.2041ms
+2022-09-27 10:22:36.866 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.CSSAnimationsController.Index (FunFox.PortalSystem)'
+2022-09-27 10:22:36.871 +05:00 [INF] HTTP GET /CSSAnimations/Index responded 200 in 135.7460 ms
+2022-09-27 10:22:36.924 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/CSSAnimations/Index - - - 200 - text/html;+charset=utf-8 232.7127ms
+2022-09-27 10:22:36.951 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/d3/d3.js - -
+2022-09-27 10:22:37.041 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - -
+2022-09-27 10:22:37.066 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_vs/browserLink - -
+2022-09-27 10:22:37.041 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/rickshaw/rickshaw.js - -
+2022-09-27 10:22:37.069 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - - - 200 12028 application/javascript;+charset=utf-8 27.8643ms
+2022-09-27 10:22:37.340 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 275.4585ms
+2022-09-27 10:22:37.371 +05:00 [INF] Sending file. Request path: '/lib/rickshaw/rickshaw.js'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\lib\rickshaw\rickshaw.js'
+2022-09-27 10:22:37.381 +05:00 [INF] Sending file. Request path: '/lib/d3/d3.js'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\lib\d3\d3.js'
+2022-09-27 10:22:37.389 +05:00 [INF] HTTP GET /lib/rickshaw/rickshaw.js responded 200 in 255.6178 ms
+2022-09-27 10:22:37.396 +05:00 [INF] HTTP GET /lib/d3/d3.js responded 200 in 356.1203 ms
+2022-09-27 10:22:37.401 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/rickshaw/rickshaw.js - - - 200 104762 application/javascript 359.2047ms
+2022-09-27 10:22:37.405 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/d3/d3.js - - - 200 345928 application/javascript 454.2228ms
+2022-09-27 10:23:21.638 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/GridOptions/Index - -
+2022-09-27 10:23:21.651 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.GridOptionsController.Index (FunFox.PortalSystem)'
+2022-09-27 10:23:21.658 +05:00 [INF] Route matched with {action = "Index", controller = "GridOptions", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller FunFox.PortalSystem.Controllers.GridOptionsController (FunFox.PortalSystem).
+2022-09-27 10:23:21.665 +05:00 [INF] Executing ViewResult, running view Index.
+2022-09-27 10:23:21.676 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2022-09-27 10:23:21.689 +05:00 [INF] Executed DbCommand (5ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2022-09-27 10:23:21.711 +05:00 [INF] Executed ViewResult - view Index executed in 46.446ms.
+2022-09-27 10:23:21.714 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.GridOptionsController.Index (FunFox.PortalSystem) in 50.5489ms
+2022-09-27 10:23:21.718 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.GridOptionsController.Index (FunFox.PortalSystem)'
+2022-09-27 10:23:21.723 +05:00 [INF] HTTP GET /GridOptions/Index responded 200 in 72.4756 ms
+2022-09-27 10:23:21.743 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/GridOptions/Index - - - 200 - text/html;+charset=utf-8 105.4654ms
+2022-09-27 10:23:21.795 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_vs/browserLink - -
+2022-09-27 10:23:21.795 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - -
+2022-09-27 10:23:21.803 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - - - 200 12028 application/javascript;+charset=utf-8 8.2305ms
+2022-09-27 10:23:21.820 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 25.0510ms

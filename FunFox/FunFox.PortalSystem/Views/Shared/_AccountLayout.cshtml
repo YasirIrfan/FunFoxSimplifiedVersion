@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - FunFox Portal System</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    @if (IsSectionDefined("Styles"))
+    {
+        @RenderSectionAsync("Styles", required: false)
+    }
+
+    <environment names="Development">
+        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+        <link rel="stylesheet" href="~/lib/font-awesome/css/font-awesome.css" />
+        <link rel="stylesheet" href="~/css/animate.css" />
+        <link rel="stylesheet" href="~/css/style.css" asp-append-version="true" />
+    </environment>
+    <environment names="Staging,Production">
+        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+        <link rel="stylesheet" href="~/lib/font-awesome/css/font-awesome.min.css" />
+        <link rel="stylesheet" href="~/css/animate.css" />
+        <link rel="stylesheet" href="~/css/style.css" asp-append-version="true" />
+    </environment>
+
+</head>
+<body class="gray-bg">
+
+    <div class="middle-box text-center loginscreen  animated fadeInDown">
+        <div>
+            <div>
+
+                @* <h1 class="logo-name">IN+</h1> *@
+
+            </div>
+            @* <h3>Welcome to IN+</h3> *@
+            <h3>Welcome to FunFox</h3>
+            <p>
+               @*  Perfectly designed and precisely prepared admin theme with over 50 pages with extra new web app views. *@
+               Learn with FunFox
+            </p>
+            @RenderBody()
+            @* <p class="m-t"> <small>Inspinia we app framework base on Bootstrap 3 &copy; 2015</small> </p> *@
+        </div>
+    </div>
+    @await RenderSectionAsync("Scripts", false)
+</body>
+</html>

@@ -1,0 +1,58 @@
+﻿@using FunFox.PortalSystem.Domain.ViewModels.Plant
+@model IEnumerable<PlantViewModel>
+
+<table class="table table-striped dtable table-hover " id="plantTable">
+    <thead >
+        <tr>
+            <th>Common Name</th>
+            <th>Latin Name</th>
+            <th>Category</th>
+            <th>Status</th>
+            <th class="center @*text-center*@">Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model ?? new List<PlantViewModel>())
+        {
+            <tr class="gradeX">
+                <td>@item.CommonName</td>
+                <td>@item.LatinName</td>
+                <td>@item.Category</td>
+                <td>@item.Status</td>
+                <td class="center @*text-center*@">
+                    @if (item.Status == "Completed")
+                    {
+                        <div class="disableActionBtns">
+                            <span>
+                                <button data-toggle="tooltip" data-placement="top" title="Edit"><span class="fa fa-edit"></span></button>
+                            </span>
+
+                            <span>
+                                <button data-toggle="tooltip" data-placement="top" title="Delete"><span class="fa fa-trash-o"></span></button>
+                            </span>
+                        </div>
+                    }
+                    else
+                    {
+                        <div class="actionBtns">
+                            <span>
+                                <button data-toggle="tooltip" data-placement="top" title="Edit"><span class="fa fa-edit"></span></button>
+                            </span>
+
+                            <span>
+                                <button data-toggle="tooltip" data-placement="top" title="Delete"><span style="color: red;" class="fa fa-trash-o"></span></button>
+                            </span>
+                        </div>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<script>
+    $(document).ready(function() {
+        $('[data-toggle="tooltip"]').tooltip({
+            placement: 'top'
+        });
+    });
+</script>

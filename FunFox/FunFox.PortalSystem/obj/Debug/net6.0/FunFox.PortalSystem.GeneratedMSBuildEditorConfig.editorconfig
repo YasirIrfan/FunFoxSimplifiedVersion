@@ -1,0 +1,607 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FunFox.PortalSystem
+build_property.RootNamespace = FunFox.PortalSystem
+build_property.ProjectDir = E:\TechnicalTasks\FunFox\FunFox.PortalSystem\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\TechnicalTasks\FunFox\FunFox.PortalSystem
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Account/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/AppViews/ActivityStream.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwVmlld3NcQWN0aXZpdHlTdHJlYW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/AppViews/Article.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwVmlld3NcQXJ0aWNsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/AppViews/Blog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwVmlld3NcQmxvZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/AppViews/Calendar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwVmlld3NcQ2FsZW5kYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/AppViews/Clients.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwVmlld3NcQ2xpZW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/AppViews/Contacts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwVmlld3NcQ29udGFjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/AppViews/Contacts2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwVmlld3NcQ29udGFjdHMyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/AppViews/FAQ.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwVmlld3NcRkFRLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/AppViews/FileManager.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwVmlld3NcRmlsZU1hbmFnZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/AppViews/IssueTracker.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwVmlld3NcSXNzdWVUcmFja2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/AppViews/OutlookView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwVmlld3NcT3V0bG9va1ZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/AppViews/PinBoard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwVmlld3NcUGluQm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/AppViews/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwVmlld3NcUHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/AppViews/Profile2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwVmlld3NcUHJvZmlsZTIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/AppViews/ProjectDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwVmlld3NcUHJvamVjdERldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/AppViews/Projects.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwVmlld3NcUHJvamVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/AppViews/SocialFeed.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwVmlld3NcU29jaWFsRmVlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/AppViews/TeamsBoard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwVmlld3NcVGVhbXNCb2FyZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/AppViews/Timeline.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwVmlld3NcVGltZWxpbmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/AppViews/VoteList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwVmlld3NcVm90ZUxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Class/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Class/_AddNewClass.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc3NcX0FkZE5ld0NsYXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Class/_ClassList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc3NcX0NsYXNzTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/CSSAnimations/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ1NTQW5pbWF0aW9uc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Dashboards/Dashboard_1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkc1xEYXNoYm9hcmRfMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Dashboards/Dashboard_2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkc1xEYXNoYm9hcmRfMi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Dashboards/Dashboard_3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkc1xEYXNoYm9hcmRfMy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Dashboards/Dashboard_4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkc1xEYXNoYm9hcmRfNC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Dashboards/Dashboard_4_1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkc1xEYXNoYm9hcmRfNF8xLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Dashboards/Dashboard_5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkc1xEYXNoYm9hcmRfNS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Ecommerce/Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWNvbW1lcmNlXENhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Ecommerce/Orders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWNvbW1lcmNlXE9yZGVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Ecommerce/Payments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWNvbW1lcmNlXFBheW1lbnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Ecommerce/ProductDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWNvbW1lcmNlXFByb2R1Y3REZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Ecommerce/ProductEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWNvbW1lcmNlXFByb2R1Y3RFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Ecommerce/ProductsGrid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWNvbW1lcmNlXFByb2R1Y3RzR3JpZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Ecommerce/ProductsList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWNvbW1lcmNlXFByb2R1Y3RzTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Forms/Advanced.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNcQWR2YW5jZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Forms/Autocomplete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNcQXV0b2NvbXBsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Forms/BasicFroms.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNcQmFzaWNGcm9tcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Forms/FileUpload.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNcRmlsZVVwbG9hZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Forms/Markdown.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNcTWFya2Rvd24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Forms/TextEditor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNcVGV4dEVkaXRvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Forms/Wizard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNcV2l6YXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Gallery/BasicGallery.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FsbGVyeVxCYXNpY0dhbGxlcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Gallery/BootstrapCarusela.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FsbGVyeVxCb290c3RyYXBDYXJ1c2VsYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Gallery/SlickCarusela.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FsbGVyeVxTbGlja0NhcnVzZWxhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Graphs/C3charts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JhcGhzXEMzY2hhcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Graphs/Chartist.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JhcGhzXENoYXJ0aXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Graphs/Chartjs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JhcGhzXENoYXJ0anMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Graphs/Flot.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JhcGhzXEZsb3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Graphs/Morris.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JhcGhzXE1vcnJpcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Graphs/Peity.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JhcGhzXFBlaXR5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Graphs/Rickshaw.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JhcGhzXFJpY2tzaGF3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Graphs/Sparkline.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JhcGhzXFNwYXJrbGluZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/GridOptions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JpZE9wdGlvbnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Landing/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuZGluZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Layouts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Layouts/OffCanvas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0c1xPZmZDYW52YXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Mailbox/AlertEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpbGJveFxBbGVydEVtYWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Mailbox/BasicActionEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpbGJveFxCYXNpY0FjdGlvbkVtYWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Mailbox/BillingEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpbGJveFxCaWxsaW5nRW1haWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Mailbox/ComposeEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpbGJveFxDb21wb3NlRW1haWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Mailbox/EmailTemplates.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpbGJveFxFbWFpbFRlbXBsYXRlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Mailbox/EmailView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpbGJveFxFbWFpbFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Mailbox/Inbox.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpbGJveFxJbmJveC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Metrics/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWV0cmljc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Miscellaneous/AgileBoard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzY2VsbGFuZW91c1xBZ2lsZUJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Miscellaneous/Chat_view.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzY2VsbGFuZW91c1xDaGF0X3ZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Miscellaneous/Clipboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzY2VsbGFuZW91c1xDbGlwYm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Miscellaneous/CodeEditor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzY2VsbGFuZW91c1xDb2RlRWRpdG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Miscellaneous/Datamaps.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzY2VsbGFuZW91c1xEYXRhbWFwcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Miscellaneous/Diff.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzY2VsbGFuZW91c1xEaWZmLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Miscellaneous/Forum_post_view.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzY2VsbGFuZW91c1xGb3J1bV9wb3N0X3ZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Miscellaneous/Forum_view.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzY2VsbGFuZW91c1xGb3J1bV92aWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Miscellaneous/GoogleMaps.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzY2VsbGFuZW91c1xHb29nbGVNYXBzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Miscellaneous/I18support.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzY2VsbGFuZW91c1xJMThzdXBwb3J0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Miscellaneous/IdleTimer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzY2VsbGFuZW91c1xJZGxlVGltZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Miscellaneous/LiveFavicon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzY2VsbGFuZW91c1xMaXZlRmF2aWNvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Miscellaneous/LoadingButtons.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzY2VsbGFuZW91c1xMb2FkaW5nQnV0dG9ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Miscellaneous/Masonry.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzY2VsbGFuZW91c1xNYXNvbnJ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Miscellaneous/ModalWindow.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzY2VsbGFuZW91c1xNb2RhbFdpbmRvdy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Miscellaneous/NestableList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzY2VsbGFuZW91c1xOZXN0YWJsZUxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Miscellaneous/Notification.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzY2VsbGFuZW91c1xOb3RpZmljYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Miscellaneous/PasswordMeter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzY2VsbGFuZW91c1xQYXNzd29yZE1ldGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Miscellaneous/PdfViewer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzY2VsbGFuZW91c1xQZGZWaWV3ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Miscellaneous/SocialButtons.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzY2VsbGFuZW91c1xTb2NpYWxCdXR0b25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Miscellaneous/Spinners.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzY2VsbGFuZW91c1xTcGlubmVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Miscellaneous/SpinnersUsage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzY2VsbGFuZW91c1xTcGlubmVyc1VzYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Miscellaneous/SweetAlert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzY2VsbGFuZW91c1xTd2VldEFsZXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Miscellaneous/TextSpinners.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzY2VsbGFuZW91c1xUZXh0U3Bpbm5lcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Miscellaneous/Timeline_second_version.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzY2VsbGFuZW91c1xUaW1lbGluZV9zZWNvbmRfdmVyc2lvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Miscellaneous/Tour.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzY2VsbGFuZW91c1xUb3VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Miscellaneous/Tree_view.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzY2VsbGFuZW91c1xUcmVlX3ZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Miscellaneous/Truncate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzY2VsbGFuZW91c1xUcnVuY2F0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Miscellaneous/Validation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzY2VsbGFuZW91c1xWYWxpZGF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Pages/EmptyPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcRW1wdHlQYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Pages/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcRm9yZ290UGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Pages/InternalServerError.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcSW50ZXJuYWxTZXJ2ZXJFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Pages/Invoice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcSW52b2ljZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Pages/InvoicePrint.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcSW52b2ljZVByaW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Pages/LockScreen.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcTG9ja1NjcmVlbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Pages/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Pages/Login_2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcTG9naW5fMi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Pages/NotFoundError.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcTm90Rm91bmRFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Pages/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Pages/SearchResults.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcU2VhcmNoUmVzdWx0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Plant/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Plant/_PlantList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbnRcX1BsYW50TGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Shared/_AccountLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BY2NvdW50TGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Shared/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Shared/_Layout_2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfMi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Shared/_Layout_3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfMy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Shared/_Layout_4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfNC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Shared/_Navigation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OYXZpZ2F0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Shared/_NavigationOffCanvas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OYXZpZ2F0aW9uT2ZmQ2FudmFzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Shared/_RightSidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9SaWdodFNpZGViYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Shared/_SkinConfig.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ta2luQ29uZmlnLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Shared/_TopNavbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ub3BOYXZiYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Shared/_TopNavbar2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ub3BOYXZiYXIyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Tables/DataTables.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVzXERhdGFUYWJsZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Tables/FooTables.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVzXEZvb1RhYmxlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Tables/jqGrid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVzXGpxR3JpZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Tables/StaticTables.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVzXFN0YXRpY1RhYmxlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/UIElements/BadgesLabelsProgress.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlFbGVtZW50c1xCYWRnZXNMYWJlbHNQcm9ncmVzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/UIElements/Buttons.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlFbGVtZW50c1xCdXR0b25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/UIElements/DraggablePanels.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlFbGVtZW50c1xEcmFnZ2FibGVQYW5lbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/UIElements/HelperClasses.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlFbGVtZW50c1xIZWxwZXJDbGFzc2VzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/UIElements/Icons.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlFbGVtZW50c1xJY29ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/UIElements/NotificationsTooltips.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlFbGVtZW50c1xOb3RpZmljYXRpb25zVG9vbHRpcHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/UIElements/ResizablePanels.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlFbGVtZW50c1xSZXNpemFibGVQYW5lbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/UIElements/TablesPanels.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlFbGVtZW50c1xUYWJsZXNQYW5lbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/UIElements/Tabs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlFbGVtZW50c1xUYWJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/UIElements/Typography.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlFbGVtZW50c1xUeXBvZ3JhcGh5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/UIElements/Video.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlFbGVtZW50c1xWaWRlby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Widgets/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2lkZ2V0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/TechnicalTasks/FunFox/FunFox.PortalSystem/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-v2l8bmlnr3

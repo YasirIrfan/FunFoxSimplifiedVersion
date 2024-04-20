@@ -1,0 +1,69 @@
+﻿@using FunFox.PortalSystem.Domain.ViewModels.Plant
+@model PlantSearchViewModel
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.title = "Planet";
+}
+@{
+    var plantlist=  ViewBag.plantList as IEnumerable<PlantViewModel>;
+}
+<link rel="stylesheet" href="~/css/StyleNew/StyleNew.css" asp-append-version="true" />
+
+<div id="" class="container card-header justify-content-between " style="margin-bottom:15px">
+    <div id="basic-section">
+        <form class="my-form x" id="ClassSearchForm">
+            <div class="row">
+                <div class="col-md-8 ">
+                    <div class="justify-content-around">
+                        <div class="w3v0mobile">
+                            <label>Search For Planet</label>
+                            <input type="text" class="form-control planet-Text" id="" asp-for='@Model.PlantName' placeholder="Enter Planet Name(Common,Latine Name)" />
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-3 " id="myModal">
+                    <label></label>
+                    <select class="select2 form-control selectpicker"  id="plantCategory" asp-for='@Model.PlantCategory'>
+                        <option value="">Select Category </option>
+                        @foreach (var item in ViewBag.planetCategories ?? new List<PlantSearchViewModel>())
+                        {
+                            <option value="@item.CategoryName"> @item.CategoryName</option>
+                        }
+                    </select>
+                </div>
+                <div class="col-md-1  ">
+                    <label></label>
+                    <button id="btnPlantSearch" type="button"
+                            class="btn bg-warning bgact1 btn-sm btnsearch wc100mobile maxwidthbtn searchBtn" style="width: 77px !important;">
+                        Search
+                    </button>
+                </div>
+
+            </div>
+        </form>
+    </div>
+</div>
+
+<div id="divPlantResponse" class="table-responsive ">
+    @await Html.PartialAsync("_PlantList",@plantlist)
+</div>
+<script src="~/lib/blueimp-gallery/js/popper.min.js"></script>
+
+@section Scripts {
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $('#plantTable').DataTable({
+                "searching": false,
+                "ordering": false,
+                "filter": false,
+                "lengthChange": false
+            });
+        });
+        $(document).ready(function() {
+          $("body").tooltip({ selector: '[data-toggle=tooltip]' });
+        });
+         $('#plantCategory').select2({});
+    </script>
+    <script src="~/js/plant/plant.js"></script>
+}

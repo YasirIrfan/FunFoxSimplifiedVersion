@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunFox.PortalSystem", "FunFox.PortalSystem\FunFox.PortalSystem.csproj", "{458028F2-98A1-48D8-B01C-DAE59D73B92D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunFox.PortalSystem.Application", "FunFox.PortalSystem.Application\FunFox.PortalSystem.Application.csproj", "{36A6616E-A52B-4150-933F-B55C5E084716}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunFox.PortalSystem.Common", "FunFox.PortalSystem.Common\FunFox.PortalSystem.Common.csproj", "{8072103F-3A22-45FF-8359-FB7090C1D5AC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunFox.PortalSystem.Domain", "FunFox.PortalSystem.Domain\FunFox.PortalSystem.Domain.csproj", "{3AA86938-8CB7-47D3-ACD8-11E28C75F950}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunFox.PortalSystem.Infrastructure", "FunFox.PortalSystem.Infrastructure\FunFox.PortalSystem.Infrastructure.csproj", "{D404C8CC-16EB-4A96-9E0A-665EB5A8DE52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{458028F2-98A1-48D8-B01C-DAE59D73B92D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{458028F2-98A1-48D8-B01C-DAE59D73B92D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{458028F2-98A1-48D8-B01C-DAE59D73B92D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{458028F2-98A1-48D8-B01C-DAE59D73B92D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36A6616E-A52B-4150-933F-B55C5E084716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36A6616E-A52B-4150-933F-B55C5E084716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36A6616E-A52B-4150-933F-B55C5E084716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36A6616E-A52B-4150-933F-B55C5E084716}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8072103F-3A22-45FF-8359-FB7090C1D5AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8072103F-3A22-45FF-8359-FB7090C1D5AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8072103F-3A22-45FF-8359-FB7090C1D5AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8072103F-3A22-45FF-8359-FB7090C1D5AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AA86938-8CB7-47D3-ACD8-11E28C75F950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AA86938-8CB7-47D3-ACD8-11E28C75F950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AA86938-8CB7-47D3-ACD8-11E28C75F950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AA86938-8CB7-47D3-ACD8-11E28C75F950}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D404C8CC-16EB-4A96-9E0A-665EB5A8DE52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D404C8CC-16EB-4A96-9E0A-665EB5A8DE52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D404C8CC-16EB-4A96-9E0A-665EB5A8DE52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D404C8CC-16EB-4A96-9E0A-665EB5A8DE52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB83EC54-ACEE-472C-B273-0A40BD565FF5}
+	EndGlobalSection
+EndGlobal

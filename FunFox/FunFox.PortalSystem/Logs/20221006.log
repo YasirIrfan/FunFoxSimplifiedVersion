@@ -1,0 +1,109 @@
+2022-10-06 11:06:15.029 +05:00 [INF] User profile is available. Using 'C:\Users\YasirIrfan\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-10-06 11:06:18.383 +05:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'PlantMaterial'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2022-10-06 11:06:18.818 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2022-10-06 11:06:20.863 +05:00 [INF] Executed DbCommand (59ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2022-10-06 11:06:20.998 +05:00 [INF] Executed DbCommand (65ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2022-10-06 11:06:21.053 +05:00 [INF] Executed DbCommand (11ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2022-10-06 11:06:21.114 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2022-10-06 11:06:22.262 +05:00 [INF] Executed DbCommand (115ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0
+2022-10-06 11:06:22.455 +05:00 [INF] Executed DbCommand (3ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0
+2022-10-06 11:06:22.498 +05:00 [INF] Executed DbCommand (7ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2022-10-06 11:06:22.574 +05:00 [INF] Executed DbCommand (2ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2022-10-06 11:06:22.681 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2022-10-06 11:06:22.719 +05:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[Id], [a].[Category], [a].[Code], [a].[CommonName], [a].[ImportedOn], [a].[LatinName]
+FROM [AllPlants] AS [a]
+2022-10-06 11:06:23.369 +05:00 [INF] Now listening on: https://localhost:7154
+2022-10-06 11:06:23.386 +05:00 [INF] Now listening on: http://localhost:5204
+2022-10-06 11:06:23.401 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-06 11:06:23.406 +05:00 [INF] Hosting environment: Development
+2022-10-06 11:06:23.410 +05:00 [INF] Content root path: C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\
+2022-10-06 11:06:24.826 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/ - -
+2022-10-06 11:06:25.098 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2022-10-06 11:06:25.178 +05:00 [INF] Executed DbCommand (5ms) [Parameters=[@__p_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[Id] = @__p_0
+2022-10-06 11:06:25.348 +05:00 [INF] Executed DbCommand (3ms) [Parameters=[@__user_Id_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[Id], [a].[ClaimType], [a].[ClaimValue], [a].[UserId]
+FROM [AspNetUserClaims] AS [a]
+WHERE [a].[UserId] = @__user_Id_0
+2022-10-06 11:06:25.450 +05:00 [INF] Executed DbCommand (5ms) [Parameters=[@__userId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0
+2022-10-06 11:06:25.466 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0
+2022-10-06 11:06:25.504 +05:00 [INF] Executed DbCommand (5ms) [Parameters=[@__role_Id_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[ClaimType], [a].[ClaimValue]
+FROM [AspNetRoleClaims] AS [a]
+WHERE [a].[RoleId] = @__role_Id_0
+2022-10-06 11:06:25.557 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.DashboardsController.Dashboard_1 (FunFox.PortalSystem)'
+2022-10-06 11:06:25.579 +05:00 [INF] Route matched with {action = "Dashboard_1", controller = "Dashboards", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Dashboard_1() on controller FunFox.PortalSystem.Controllers.DashboardsController (FunFox.PortalSystem).
+2022-10-06 11:06:25.611 +05:00 [INF] Executing ViewResult, running view Dashboard_1.
+2022-10-06 11:06:25.904 +05:00 [INF] Executed DbCommand (5ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2022-10-06 11:06:26.573 +05:00 [INF] Executed ViewResult - view Dashboard_1 executed in 963.521ms.
+2022-10-06 11:06:26.593 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.DashboardsController.Dashboard_1 (FunFox.PortalSystem) in 1004.6968ms
+2022-10-06 11:06:26.603 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.DashboardsController.Dashboard_1 (FunFox.PortalSystem)'
+2022-10-06 11:06:26.622 +05:00 [INF] HTTP GET / responded 200 in 1671.6100 ms
+2022-10-06 11:06:26.972 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/ - - - 200 - text/html;+charset=utf-8 2160.1205ms
+2022-10-06 11:06:26.978 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/css/style.css?v=46ORBesdec5GfSfFrQJoJ10AldDMS3I7Pb_OsHk0e84 - -
+2022-10-06 11:06:26.983 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/css/StyleNew.css - -
+2022-10-06 11:06:27.112 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/Popper/popper.min.js - -
+2022-10-06 11:06:27.132 +05:00 [INF] The file /css/style.css was not modified
+2022-10-06 11:06:27.112 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - -
+2022-10-06 11:06:27.132 +05:00 [INF] The file /css/StyleNew.css was not modified
+2022-10-06 11:06:27.152 +05:00 [INF] HTTP GET /css/style.css responded 304 in 75.6064 ms
+2022-10-06 11:06:27.158 +05:00 [INF] HTTP GET /css/StyleNew.css responded 304 in 78.3468 ms
+2022-10-06 11:06:27.165 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/css/style.css?v=46ORBesdec5GfSfFrQJoJ10AldDMS3I7Pb_OsHk0e84 - - - 304 - text/css 187.1024ms
+2022-10-06 11:06:27.174 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/css/StyleNew.css - - - 304 - text/css 196.1688ms
+2022-10-06 11:06:27.205 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - - - 200 12028 application/javascript;+charset=utf-8 93.3935ms
+2022-10-06 11:06:27.220 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/js/Layout.js - -
+2022-10-06 11:06:27.223 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/images/preloader.gif - -
+2022-10-06 11:06:27.232 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_vs/browserLink - -
+2022-10-06 11:06:27.241 +05:00 [INF] The file /js/Layout.js was not modified
+2022-10-06 11:06:27.241 +05:00 [INF] The file /images/preloader.gif was not modified
+2022-10-06 11:06:27.264 +05:00 [INF] HTTP GET /js/Layout.js responded 304 in 25.8303 ms
+2022-10-06 11:06:27.279 +05:00 [INF] HTTP GET /images/preloader.gif responded 304 in 38.3488 ms
+2022-10-06 11:06:27.289 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/js/Layout.js - - - 304 - application/javascript 69.1620ms
+2022-10-06 11:06:27.355 +05:00 [INF] Sending file. Request path: '/lib/Popper/popper.min.js'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\lib\Popper\popper.min.js'
+2022-10-06 11:06:27.423 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/images/preloader.gif - - - 304 - image/gif 199.8824ms
+2022-10-06 11:06:27.437 +05:00 [INF] HTTP GET /lib/Popper/popper.min.js responded 200 in 289.0029 ms
+2022-10-06 11:06:27.445 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/Popper/popper.min.js - - - 200 22821 application/javascript 333.6368ms
+2022-10-06 11:06:27.503 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 271.4622ms
+2022-10-06 11:07:58.642 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Account/Register - -
+2022-10-06 11:07:58.669 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.AccountController.Register (FunFox.PortalSystem)'
+2022-10-06 11:07:58.679 +05:00 [INF] Route matched with {action = "Register", controller = "Account", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Register() on controller FunFox.PortalSystem.Controllers.AccountController (FunFox.PortalSystem).
+2022-10-06 11:07:58.691 +05:00 [INF] Executing ViewResult, running view Register.
+2022-10-06 11:07:58.763 +05:00 [INF] Executed ViewResult - view Register executed in 74.6003ms.
+2022-10-06 11:07:58.769 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.AccountController.Register (FunFox.PortalSystem) in 81.5576ms
+2022-10-06 11:07:58.775 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.AccountController.Register (FunFox.PortalSystem)'
+2022-10-06 11:07:58.784 +05:00 [INF] HTTP GET /Account/Register responded 200 in 125.2108 ms
+2022-10-06 11:07:58.805 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Account/Register - - - 200 - text/html;+charset=utf-8 162.6601ms
+2022-10-06 11:07:58.892 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - -
+2022-10-06 11:07:58.899 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_vs/browserLink - -
+2022-10-06 11:07:58.908 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - - - 200 12028 application/javascript;+charset=utf-8 15.2756ms
+2022-10-06 11:07:59.006 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 105.8869ms

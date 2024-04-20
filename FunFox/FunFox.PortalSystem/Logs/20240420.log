@@ -1,0 +1,273 @@
+2024-04-20 00:10:40.953 +05:00 [INF] User profile is available. Using 'C:\Users\HP\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-04-20 00:10:41.820 +05:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'PlantMaterial'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2024-04-20 00:10:41.989 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-04-20 00:10:42.430 +05:00 [INF] Executed DbCommand (24ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2024-04-20 00:10:42.484 +05:00 [INF] Executed DbCommand (21ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2024-04-20 00:10:42.513 +05:00 [INF] Executed DbCommand (10ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2024-04-20 00:10:42.547 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-04-20 00:10:43.009 +05:00 [INF] Executed DbCommand (48ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0
+2024-04-20 00:10:43.119 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0
+2024-04-20 00:10:43.138 +05:00 [INF] Executed DbCommand (3ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2024-04-20 00:10:43.172 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2024-04-20 00:10:43.213 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-04-20 00:10:43.230 +05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [f].[Id], [f].[ClassEndTime], [f].[ClassStartTime], [f].[CreatedBy], [f].[CreatedOn], [f].[Deleted], [f].[GradeLevel], [f].[MaxClassSize], [f].[ModifiedBy], [f].[ModifiedOn], [f].[ProgramDetails]
+FROM [FunFoxClasses] AS [f]
+2024-04-20 00:10:43.367 +05:00 [INF] Now listening on: https://localhost:7154
+2024-04-20 00:10:43.372 +05:00 [INF] Now listening on: http://localhost:5204
+2024-04-20 00:10:43.377 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-04-20 00:10:43.379 +05:00 [INF] Hosting environment: Development
+2024-04-20 00:10:43.381 +05:00 [INF] Content root path: E:\TechnicalTasks\FunFox\FunFox.PortalSystem\
+2024-04-20 00:10:44.806 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/ - -
+2024-04-20 00:10:45.038 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-04-20 00:10:45.066 +05:00 [INF] Executed DbCommand (2ms) [Parameters=[@__p_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[Id] = @__p_0
+2024-04-20 00:10:45.127 +05:00 [INF] Executed DbCommand (2ms) [Parameters=[@__user_Id_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[Id], [a].[ClaimType], [a].[ClaimValue], [a].[UserId]
+FROM [AspNetUserClaims] AS [a]
+WHERE [a].[UserId] = @__user_Id_0
+2024-04-20 00:10:45.177 +05:00 [INF] Executed DbCommand (4ms) [Parameters=[@__userId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0
+2024-04-20 00:10:45.184 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0
+2024-04-20 00:10:45.199 +05:00 [INF] Executed DbCommand (3ms) [Parameters=[@__role_Id_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[ClaimType], [a].[ClaimValue]
+FROM [AspNetRoleClaims] AS [a]
+WHERE [a].[RoleId] = @__role_Id_0
+2024-04-20 00:10:45.219 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.DashboardsController.Dashboard_1 (FunFox.PortalSystem)'
+2024-04-20 00:10:45.231 +05:00 [INF] Route matched with {action = "Dashboard_1", controller = "Dashboards", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Dashboard_1() on controller FunFox.PortalSystem.Controllers.DashboardsController (FunFox.PortalSystem).
+2024-04-20 00:10:45.244 +05:00 [INF] Executing ViewResult, running view Dashboard_1.
+2024-04-20 00:10:45.338 +05:00 [INF] Executed DbCommand (2ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-04-20 00:10:45.517 +05:00 [INF] Executed ViewResult - view Dashboard_1 executed in 273.4754ms.
+2024-04-20 00:10:45.528 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.DashboardsController.Dashboard_1 (FunFox.PortalSystem) in 292.0839ms
+2024-04-20 00:10:45.533 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.DashboardsController.Dashboard_1 (FunFox.PortalSystem)'
+2024-04-20 00:10:45.542 +05:00 [INF] HTTP GET / responded 200 in 549.7735 ms
+2024-04-20 00:10:45.556 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/ - - - 200 - text/html;+charset=utf-8 754.5102ms
+2024-04-20 00:10:45.568 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_vs/browserLink - -
+2024-04-20 00:10:45.568 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - -
+2024-04-20 00:10:45.582 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - - - 200 13774 application/javascript;+charset=utf-8 13.7816ms
+2024-04-20 00:10:45.645 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 76.6270ms
+2024-04-20 00:10:50.294 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Class/Index - -
+2024-04-20 00:10:50.308 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.ClassController.Index (FunFox.PortalSystem)'
+2024-04-20 00:10:50.316 +05:00 [INF] Route matched with {action = "Index", controller = "Class", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] Index() on controller FunFox.PortalSystem.Controllers.ClassController (FunFox.PortalSystem).
+2024-04-20 00:10:52.163 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-04-20 00:10:52.175 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [f].[Id], [f].[ClassEndTime], [f].[ClassStartTime], [f].[CreatedBy], [f].[CreatedOn], [f].[Deleted], [f].[GradeLevel], [f].[MaxClassSize], [f].[ModifiedBy], [f].[ModifiedOn], [f].[ProgramDetails]
+FROM [FunFoxClasses] AS [f]
+2024-04-20 00:10:52.242 +05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [f].[Id], [f].[ClassEndTime], [f].[ClassStartTime], [f].[CreatedBy], [f].[CreatedOn], [f].[Deleted], [f].[GradeLevel], [f].[MaxClassSize], [f].[ModifiedBy], [f].[ModifiedOn], [f].[ProgramDetails]
+FROM [FunFoxClasses] AS [f]
+2024-04-20 00:10:52.260 +05:00 [INF] Executing ViewResult, running view Index.
+2024-04-20 00:10:52.338 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-04-20 00:10:52.351 +05:00 [INF] Executed ViewResult - view Index executed in 91.7611ms.
+2024-04-20 00:10:52.354 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.ClassController.Index (FunFox.PortalSystem) in 2032.8363ms
+2024-04-20 00:10:52.357 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.ClassController.Index (FunFox.PortalSystem)'
+2024-04-20 00:10:52.359 +05:00 [INF] HTTP GET /Class/Index responded 200 in 2055.7217 ms
+2024-04-20 00:10:52.367 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Class/Index - - - 200 - text/html;+charset=utf-8 2073.0130ms
+2024-04-20 00:10:52.378 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/css/StyleNew/StyleNew.css - -
+2024-04-20 00:10:52.394 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/js/class/class.js - -
+2024-04-20 00:10:52.398 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - -
+2024-04-20 00:10:52.400 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - - - 200 13774 application/javascript;+charset=utf-8 2.3528ms
+2024-04-20 00:10:52.400 +05:00 [INF] HTTP GET /css/StyleNew/StyleNew.css responded 404 in 16.9823 ms
+2024-04-20 00:10:52.404 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_vs/browserLink - -
+2024-04-20 00:10:52.406 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/css/StyleNew/StyleNew.css - - - 404 0 - 28.3009ms
+2024-04-20 00:10:52.427 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 23.6018ms
+2024-04-20 00:10:52.441 +05:00 [INF] Sending file. Request path: '/js/class/class.js'. Physical path: 'E:\TechnicalTasks\FunFox\FunFox.PortalSystem\wwwroot\js\class\class.js'
+2024-04-20 00:10:52.444 +05:00 [INF] HTTP GET /js/class/class.js responded 200 in 46.6789 ms
+2024-04-20 00:10:52.449 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/js/class/class.js - - - 200 984 application/javascript 55.2073ms
+2024-04-20 00:11:03.943 +05:00 [INF] Request starting HTTP/2 POST https://localhost:7154/Class/ClassSearch application/x-www-form-urlencoded;+charset=UTF-8 60
+2024-04-20 00:11:03.947 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.ClassController.ClassSearch (FunFox.PortalSystem)'
+2024-04-20 00:11:03.965 +05:00 [INF] Route matched with {action = "ClassSearch", controller = "Class", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] ClassSearch(FunFox.PortalSystem.Domain.ViewModels.Class.ClassSearchViewModel) on controller FunFox.PortalSystem.Controllers.ClassController (FunFox.PortalSystem).
+2024-04-20 00:11:04.009 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-04-20 00:11:04.017 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [f].[Id], [f].[ClassEndTime], [f].[ClassStartTime], [f].[CreatedBy], [f].[CreatedOn], [f].[Deleted], [f].[GradeLevel], [f].[MaxClassSize], [f].[ModifiedBy], [f].[ModifiedOn], [f].[ProgramDetails]
+FROM [FunFoxClasses] AS [f]
+2024-04-20 00:11:04.026 +05:00 [INF] Executing PartialViewResult, running view _ClassList.
+2024-04-20 00:11:04.030 +05:00 [INF] Executed PartialViewResult - view _ClassList executed in 3.584ms.
+2024-04-20 00:11:04.033 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.ClassController.ClassSearch (FunFox.PortalSystem) in 63.6952ms
+2024-04-20 00:11:04.035 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.ClassController.ClassSearch (FunFox.PortalSystem)'
+2024-04-20 00:11:04.038 +05:00 [INF] HTTP POST /Class/ClassSearch responded 200 in 91.9746 ms
+2024-04-20 00:11:04.041 +05:00 [INF] Request finished HTTP/2 POST https://localhost:7154/Class/ClassSearch application/x-www-form-urlencoded;+charset=UTF-8 60 - 200 - text/html;+charset=utf-8 98.7018ms
+2024-04-20 00:11:08.127 +05:00 [INF] Request starting HTTP/2 POST https://localhost:7154/Class/ClassSearch application/x-www-form-urlencoded;+charset=UTF-8 79
+2024-04-20 00:11:08.131 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.ClassController.ClassSearch (FunFox.PortalSystem)'
+2024-04-20 00:11:08.136 +05:00 [INF] Route matched with {action = "ClassSearch", controller = "Class", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] ClassSearch(FunFox.PortalSystem.Domain.ViewModels.Class.ClassSearchViewModel) on controller FunFox.PortalSystem.Controllers.ClassController (FunFox.PortalSystem).
+2024-04-20 00:11:08.142 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-04-20 00:11:08.163 +05:00 [INF] Executed DbCommand (3ms) [Parameters=[@__ToUpper_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT [f].[Id], [f].[ClassEndTime], [f].[ClassStartTime], [f].[CreatedBy], [f].[CreatedOn], [f].[Deleted], [f].[GradeLevel], [f].[MaxClassSize], [f].[ModifiedBy], [f].[ModifiedOn], [f].[ProgramDetails]
+FROM [FunFoxClasses] AS [f]
+WHERE UPPER([f].[ProgramDetails]) = @__ToUpper_0
+2024-04-20 00:11:08.169 +05:00 [INF] Executing PartialViewResult, running view _ClassList.
+2024-04-20 00:11:08.174 +05:00 [INF] Executed PartialViewResult - view _ClassList executed in 4.5109ms.
+2024-04-20 00:11:08.178 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.ClassController.ClassSearch (FunFox.PortalSystem) in 37.8742ms
+2024-04-20 00:11:08.181 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.ClassController.ClassSearch (FunFox.PortalSystem)'
+2024-04-20 00:11:08.185 +05:00 [INF] HTTP POST /Class/ClassSearch responded 200 in 54.2145 ms
+2024-04-20 00:11:08.190 +05:00 [INF] Request finished HTTP/2 POST https://localhost:7154/Class/ClassSearch application/x-www-form-urlencoded;+charset=UTF-8 79 - 200 - text/html;+charset=utf-8 63.0814ms
+2024-04-20 00:11:14.759 +05:00 [INF] Request starting HTTP/2 POST https://localhost:7154/Class/ClassSearch application/x-www-form-urlencoded;+charset=UTF-8 65
+2024-04-20 00:11:14.765 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.ClassController.ClassSearch (FunFox.PortalSystem)'
+2024-04-20 00:11:14.769 +05:00 [INF] Route matched with {action = "ClassSearch", controller = "Class", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] ClassSearch(FunFox.PortalSystem.Domain.ViewModels.Class.ClassSearchViewModel) on controller FunFox.PortalSystem.Controllers.ClassController (FunFox.PortalSystem).
+2024-04-20 00:11:14.772 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-04-20 00:11:14.778 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__ToUpper_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT [f].[Id], [f].[ClassEndTime], [f].[ClassStartTime], [f].[CreatedBy], [f].[CreatedOn], [f].[Deleted], [f].[GradeLevel], [f].[MaxClassSize], [f].[ModifiedBy], [f].[ModifiedOn], [f].[ProgramDetails]
+FROM [FunFoxClasses] AS [f]
+WHERE UPPER([f].[ProgramDetails]) = @__ToUpper_0
+2024-04-20 00:11:14.783 +05:00 [INF] Executing PartialViewResult, running view _ClassList.
+2024-04-20 00:11:14.785 +05:00 [INF] Executed PartialViewResult - view _ClassList executed in 2.7551ms.
+2024-04-20 00:11:14.788 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.ClassController.ClassSearch (FunFox.PortalSystem) in 15.7677ms
+2024-04-20 00:11:14.790 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.ClassController.ClassSearch (FunFox.PortalSystem)'
+2024-04-20 00:11:14.793 +05:00 [INF] HTTP POST /Class/ClassSearch responded 200 in 28.7351 ms
+2024-04-20 00:11:14.799 +05:00 [INF] Request finished HTTP/2 POST https://localhost:7154/Class/ClassSearch application/x-www-form-urlencoded;+charset=UTF-8 65 - 200 - text/html;+charset=utf-8 39.3767ms
+2024-04-20 00:11:20.883 +05:00 [INF] Request starting HTTP/2 POST https://localhost:7154/Class/ClassSearch application/x-www-form-urlencoded;+charset=UTF-8 60
+2024-04-20 00:11:20.892 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.ClassController.ClassSearch (FunFox.PortalSystem)'
+2024-04-20 00:11:20.897 +05:00 [INF] Route matched with {action = "ClassSearch", controller = "Class", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] ClassSearch(FunFox.PortalSystem.Domain.ViewModels.Class.ClassSearchViewModel) on controller FunFox.PortalSystem.Controllers.ClassController (FunFox.PortalSystem).
+2024-04-20 00:11:20.901 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-04-20 00:11:20.907 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [f].[Id], [f].[ClassEndTime], [f].[ClassStartTime], [f].[CreatedBy], [f].[CreatedOn], [f].[Deleted], [f].[GradeLevel], [f].[MaxClassSize], [f].[ModifiedBy], [f].[ModifiedOn], [f].[ProgramDetails]
+FROM [FunFoxClasses] AS [f]
+2024-04-20 00:11:20.912 +05:00 [INF] Executing PartialViewResult, running view _ClassList.
+2024-04-20 00:11:20.916 +05:00 [INF] Executed PartialViewResult - view _ClassList executed in 3.6325ms.
+2024-04-20 00:11:20.920 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.ClassController.ClassSearch (FunFox.PortalSystem) in 19.0611ms
+2024-04-20 00:11:20.924 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.ClassController.ClassSearch (FunFox.PortalSystem)'
+2024-04-20 00:11:20.927 +05:00 [INF] HTTP POST /Class/ClassSearch responded 200 in 35.5884 ms
+2024-04-20 00:11:20.932 +05:00 [INF] Request finished HTTP/2 POST https://localhost:7154/Class/ClassSearch application/x-www-form-urlencoded;+charset=UTF-8 60 - 200 - text/html;+charset=utf-8 48.5992ms
+2024-04-20 00:11:23.479 +05:00 [INF] Request starting HTTP/2 POST https://localhost:7154/Class/ClassSearch application/x-www-form-urlencoded;+charset=UTF-8 67
+2024-04-20 00:11:23.484 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.ClassController.ClassSearch (FunFox.PortalSystem)'
+2024-04-20 00:11:23.489 +05:00 [INF] Route matched with {action = "ClassSearch", controller = "Class", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] ClassSearch(FunFox.PortalSystem.Domain.ViewModels.Class.ClassSearchViewModel) on controller FunFox.PortalSystem.Controllers.ClassController (FunFox.PortalSystem).
+2024-04-20 00:11:23.495 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-04-20 00:11:23.522 +05:00 [INF] Executed DbCommand (8ms) [Parameters=[@__ToUpper_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT [f].[Id], [f].[ClassEndTime], [f].[ClassStartTime], [f].[CreatedBy], [f].[CreatedOn], [f].[Deleted], [f].[GradeLevel], [f].[MaxClassSize], [f].[ModifiedBy], [f].[ModifiedOn], [f].[ProgramDetails]
+FROM [FunFoxClasses] AS [f]
+WHERE (@__ToUpper_0 LIKE N'') OR (CHARINDEX(@__ToUpper_0, [f].[GradeLevel]) > 0)
+2024-04-20 00:11:23.529 +05:00 [INF] Executing PartialViewResult, running view _ClassList.
+2024-04-20 00:11:23.532 +05:00 [INF] Executed PartialViewResult - view _ClassList executed in 3.9729ms.
+2024-04-20 00:11:23.536 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.ClassController.ClassSearch (FunFox.PortalSystem) in 42.2315ms
+2024-04-20 00:11:23.539 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.ClassController.ClassSearch (FunFox.PortalSystem)'
+2024-04-20 00:11:23.541 +05:00 [INF] HTTP POST /Class/ClassSearch responded 200 in 57.1567 ms
+2024-04-20 00:11:23.545 +05:00 [INF] Request finished HTTP/2 POST https://localhost:7154/Class/ClassSearch application/x-www-form-urlencoded;+charset=UTF-8 67 - 200 - text/html;+charset=utf-8 66.0382ms
+2024-04-20 00:11:26.751 +05:00 [INF] Request starting HTTP/2 POST https://localhost:7154/Class/ClassSearch application/x-www-form-urlencoded;+charset=UTF-8 60
+2024-04-20 00:11:26.755 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.ClassController.ClassSearch (FunFox.PortalSystem)'
+2024-04-20 00:11:26.757 +05:00 [INF] Route matched with {action = "ClassSearch", controller = "Class", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] ClassSearch(FunFox.PortalSystem.Domain.ViewModels.Class.ClassSearchViewModel) on controller FunFox.PortalSystem.Controllers.ClassController (FunFox.PortalSystem).
+2024-04-20 00:11:26.762 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-04-20 00:11:26.769 +05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [f].[Id], [f].[ClassEndTime], [f].[ClassStartTime], [f].[CreatedBy], [f].[CreatedOn], [f].[Deleted], [f].[GradeLevel], [f].[MaxClassSize], [f].[ModifiedBy], [f].[ModifiedOn], [f].[ProgramDetails]
+FROM [FunFoxClasses] AS [f]
+2024-04-20 00:11:26.772 +05:00 [INF] Executing PartialViewResult, running view _ClassList.
+2024-04-20 00:11:26.775 +05:00 [INF] Executed PartialViewResult - view _ClassList executed in 2.5211ms.
+2024-04-20 00:11:26.778 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.ClassController.ClassSearch (FunFox.PortalSystem) in 16.0132ms
+2024-04-20 00:11:26.780 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.ClassController.ClassSearch (FunFox.PortalSystem)'
+2024-04-20 00:11:26.782 +05:00 [INF] HTTP POST /Class/ClassSearch responded 200 in 27.9523 ms
+2024-04-20 00:11:26.786 +05:00 [INF] Request finished HTTP/2 POST https://localhost:7154/Class/ClassSearch application/x-www-form-urlencoded;+charset=UTF-8 60 - 200 - text/html;+charset=utf-8 34.8053ms
+2024-04-20 00:11:35.431 +05:00 [INF] Request starting HTTP/2 POST https://localhost:7154/Class/ClassSearch application/x-www-form-urlencoded;+charset=UTF-8 79
+2024-04-20 00:11:35.436 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.ClassController.ClassSearch (FunFox.PortalSystem)'
+2024-04-20 00:11:35.441 +05:00 [INF] Route matched with {action = "ClassSearch", controller = "Class", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] ClassSearch(FunFox.PortalSystem.Domain.ViewModels.Class.ClassSearchViewModel) on controller FunFox.PortalSystem.Controllers.ClassController (FunFox.PortalSystem).
+2024-04-20 00:11:35.446 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-04-20 00:11:35.454 +05:00 [INF] Executed DbCommand (2ms) [Parameters=[@__ToUpper_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT [f].[Id], [f].[ClassEndTime], [f].[ClassStartTime], [f].[CreatedBy], [f].[CreatedOn], [f].[Deleted], [f].[GradeLevel], [f].[MaxClassSize], [f].[ModifiedBy], [f].[ModifiedOn], [f].[ProgramDetails]
+FROM [FunFoxClasses] AS [f]
+WHERE UPPER([f].[ProgramDetails]) = @__ToUpper_0
+2024-04-20 00:11:35.458 +05:00 [INF] Executing PartialViewResult, running view _ClassList.
+2024-04-20 00:11:35.461 +05:00 [INF] Executed PartialViewResult - view _ClassList executed in 2.863ms.
+2024-04-20 00:11:35.465 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.ClassController.ClassSearch (FunFox.PortalSystem) in 19.0071ms
+2024-04-20 00:11:35.467 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.ClassController.ClassSearch (FunFox.PortalSystem)'
+2024-04-20 00:11:35.469 +05:00 [INF] HTTP POST /Class/ClassSearch responded 200 in 33.7204 ms
+2024-04-20 00:11:35.473 +05:00 [INF] Request finished HTTP/2 POST https://localhost:7154/Class/ClassSearch application/x-www-form-urlencoded;+charset=UTF-8 79 - 200 - text/html;+charset=utf-8 42.2529ms
+2024-04-20 00:11:42.389 +05:00 [INF] Request starting HTTP/2 POST https://localhost:7154/Class/ClassSearch application/x-www-form-urlencoded;+charset=UTF-8 60
+2024-04-20 00:11:42.394 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.ClassController.ClassSearch (FunFox.PortalSystem)'
+2024-04-20 00:11:42.398 +05:00 [INF] Route matched with {action = "ClassSearch", controller = "Class", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] ClassSearch(FunFox.PortalSystem.Domain.ViewModels.Class.ClassSearchViewModel) on controller FunFox.PortalSystem.Controllers.ClassController (FunFox.PortalSystem).
+2024-04-20 00:11:42.403 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-04-20 00:11:42.408 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [f].[Id], [f].[ClassEndTime], [f].[ClassStartTime], [f].[CreatedBy], [f].[CreatedOn], [f].[Deleted], [f].[GradeLevel], [f].[MaxClassSize], [f].[ModifiedBy], [f].[ModifiedOn], [f].[ProgramDetails]
+FROM [FunFoxClasses] AS [f]
+2024-04-20 00:11:42.414 +05:00 [INF] Executing PartialViewResult, running view _ClassList.
+2024-04-20 00:11:42.417 +05:00 [INF] Executed PartialViewResult - view _ClassList executed in 3.5434ms.
+2024-04-20 00:11:42.420 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.ClassController.ClassSearch (FunFox.PortalSystem) in 17.8556ms
+2024-04-20 00:11:42.422 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.ClassController.ClassSearch (FunFox.PortalSystem)'
+2024-04-20 00:11:42.426 +05:00 [INF] HTTP POST /Class/ClassSearch responded 200 in 32.4783 ms
+2024-04-20 00:11:42.432 +05:00 [INF] Request finished HTTP/2 POST https://localhost:7154/Class/ClassSearch application/x-www-form-urlencoded;+charset=UTF-8 60 - 200 - text/html;+charset=utf-8 43.2370ms
+2024-04-20 00:12:13.418 +05:00 [INF] Request starting HTTP/2 POST https://localhost:7154/Class/Index application/x-www-form-urlencoded 242
+2024-04-20 00:12:13.430 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.ClassController.Index (FunFox.PortalSystem)'
+2024-04-20 00:12:13.433 +05:00 [INF] Route matched with {action = "Index", controller = "Class", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] Index() on controller FunFox.PortalSystem.Controllers.ClassController (FunFox.PortalSystem).
+2024-04-20 00:12:13.436 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-04-20 00:12:13.440 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [f].[Id], [f].[ClassEndTime], [f].[ClassStartTime], [f].[CreatedBy], [f].[CreatedOn], [f].[Deleted], [f].[GradeLevel], [f].[MaxClassSize], [f].[ModifiedBy], [f].[ModifiedOn], [f].[ProgramDetails]
+FROM [FunFoxClasses] AS [f]
+2024-04-20 00:12:13.444 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [f].[Id], [f].[ClassEndTime], [f].[ClassStartTime], [f].[CreatedBy], [f].[CreatedOn], [f].[Deleted], [f].[GradeLevel], [f].[MaxClassSize], [f].[ModifiedBy], [f].[ModifiedOn], [f].[ProgramDetails]
+FROM [FunFoxClasses] AS [f]
+2024-04-20 00:12:13.447 +05:00 [INF] Executing ViewResult, running view Index.
+2024-04-20 00:12:13.456 +05:00 [INF] Executed DbCommand (4ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-04-20 00:12:13.461 +05:00 [INF] Executed ViewResult - view Index executed in 13.6331ms.
+2024-04-20 00:12:13.463 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.ClassController.Index (FunFox.PortalSystem) in 27.7229ms
+2024-04-20 00:12:13.466 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.ClassController.Index (FunFox.PortalSystem)'
+2024-04-20 00:12:13.468 +05:00 [INF] HTTP POST /Class/Index responded 200 in 38.5845 ms
+2024-04-20 00:12:13.473 +05:00 [INF] Request finished HTTP/2 POST https://localhost:7154/Class/Index application/x-www-form-urlencoded 242 - 200 - text/html;+charset=utf-8 54.2956ms
+2024-04-20 00:12:13.479 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/css/StyleNew/StyleNew.css - -
+2024-04-20 00:12:13.484 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - -
+2024-04-20 00:12:13.479 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/js/class/class.js - -
+2024-04-20 00:12:13.491 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - - - 200 13774 application/javascript;+charset=utf-8 7.7961ms
+2024-04-20 00:12:13.485 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_vs/browserLink - -
+2024-04-20 00:12:13.492 +05:00 [INF] HTTP GET /css/StyleNew/StyleNew.css responded 404 in 6.4620 ms
+2024-04-20 00:12:13.496 +05:00 [INF] The file /js/class/class.js was not modified
+2024-04-20 00:12:13.505 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/css/StyleNew/StyleNew.css - - - 404 0 - 25.8933ms
+2024-04-20 00:12:13.508 +05:00 [INF] HTTP GET /js/class/class.js responded 304 in 12.9581 ms
+2024-04-20 00:12:13.511 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 26.1021ms
+2024-04-20 00:12:13.514 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/js/class/class.js - - - 304 - application/javascript 34.3446ms
+2024-04-20 00:12:20.936 +05:00 [INF] Request starting HTTP/2 POST https://localhost:7154/Class/Index application/x-www-form-urlencoded 238
+2024-04-20 00:12:20.942 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.ClassController.Index (FunFox.PortalSystem)'
+2024-04-20 00:12:20.945 +05:00 [INF] Route matched with {action = "Index", controller = "Class", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] Index() on controller FunFox.PortalSystem.Controllers.ClassController (FunFox.PortalSystem).
+2024-04-20 00:12:20.948 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-04-20 00:12:20.951 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [f].[Id], [f].[ClassEndTime], [f].[ClassStartTime], [f].[CreatedBy], [f].[CreatedOn], [f].[Deleted], [f].[GradeLevel], [f].[MaxClassSize], [f].[ModifiedBy], [f].[ModifiedOn], [f].[ProgramDetails]
+FROM [FunFoxClasses] AS [f]
+2024-04-20 00:12:20.956 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [f].[Id], [f].[ClassEndTime], [f].[ClassStartTime], [f].[CreatedBy], [f].[CreatedOn], [f].[Deleted], [f].[GradeLevel], [f].[MaxClassSize], [f].[ModifiedBy], [f].[ModifiedOn], [f].[ProgramDetails]
+FROM [FunFoxClasses] AS [f]
+2024-04-20 00:12:20.960 +05:00 [INF] Executing ViewResult, running view Index.
+2024-04-20 00:12:20.966 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-04-20 00:12:20.972 +05:00 [INF] Executed ViewResult - view Index executed in 11.3705ms.
+2024-04-20 00:12:20.979 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.ClassController.Index (FunFox.PortalSystem) in 31.6288ms
+2024-04-20 00:12:20.983 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.ClassController.Index (FunFox.PortalSystem)'
+2024-04-20 00:12:20.986 +05:00 [INF] HTTP POST /Class/Index responded 200 in 44.4548 ms
+2024-04-20 00:12:20.988 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/css/StyleNew/StyleNew.css - -
+2024-04-20 00:12:20.988 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_vs/browserLink - -
+2024-04-20 00:12:20.988 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - -
+2024-04-20 00:12:20.992 +05:00 [INF] Request finished HTTP/2 POST https://localhost:7154/Class/Index application/x-www-form-urlencoded 238 - 200 - text/html;+charset=utf-8 56.1379ms
+2024-04-20 00:12:20.995 +05:00 [INF] HTTP GET /css/StyleNew/StyleNew.css responded 404 in 0.5375 ms
+2024-04-20 00:12:20.997 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - - - 200 13774 application/javascript;+charset=utf-8 8.8622ms
+2024-04-20 00:12:21.000 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 11.7862ms
+2024-04-20 00:12:21.003 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/css/StyleNew/StyleNew.css - - - 404 0 - 14.9971ms

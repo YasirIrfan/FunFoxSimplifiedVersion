@@ -1,0 +1,483 @@
+2024-04-12 15:53:32.624 +05:00 [INF] User profile is available. Using 'C:\Users\HP\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-04-12 15:53:35.101 +05:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'PlantMaterial'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2024-04-12 15:53:35.449 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-04-12 15:53:37.616 +05:00 [INF] Executed DbCommand (59ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2024-04-12 15:53:37.741 +05:00 [INF] Executed DbCommand (53ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2024-04-12 15:53:37.818 +05:00 [INF] Executed DbCommand (36ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2024-04-12 15:53:37.894 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-04-12 15:53:39.080 +05:00 [INF] Executed DbCommand (122ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0
+2024-04-12 15:53:39.339 +05:00 [INF] Executed DbCommand (2ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0
+2024-04-12 15:53:39.391 +05:00 [INF] Executed DbCommand (9ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2024-04-12 15:53:39.464 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2024-04-12 15:53:39.551 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-04-12 15:53:39.603 +05:00 [INF] Executed DbCommand (8ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[Id], [a].[Category], [a].[Code], [a].[CommonName], [a].[ImportedOn], [a].[LatinName]
+FROM [AllPlants] AS [a]
+2024-04-12 15:53:39.724 +05:00 [INF] Creating key {084a281e-65d7-4d7d-b885-b4c400101085} with creation date 2024-04-12 10:53:39Z, activation date 2024-04-12 10:53:39Z, and expiration date 2024-07-11 10:53:39Z.
+2024-04-12 15:53:39.741 +05:00 [INF] Writing data to file 'C:\Users\HP\AppData\Local\ASP.NET\DataProtection-Keys\key-084a281e-65d7-4d7d-b885-b4c400101085.xml'.
+2024-04-12 15:53:39.993 +05:00 [INF] Now listening on: https://localhost:7154
+2024-04-12 15:53:40.000 +05:00 [INF] Now listening on: http://localhost:5204
+2024-04-12 15:53:40.009 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-04-12 15:53:40.013 +05:00 [INF] Hosting environment: Development
+2024-04-12 15:53:40.020 +05:00 [INF] Content root path: D:\PORTFOLIO\Running Portfolio\proposal-management\FunFox.PortalSystem\
+2024-04-12 15:53:40.923 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/ - -
+2024-04-12 15:53:41.331 +05:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-04-12 15:53:41.352 +05:00 [INF] AuthenticationScheme: Identity.Application was challenged.
+2024-04-12 15:53:41.359 +05:00 [INF] HTTP GET / responded 302 in 100.4875 ms
+2024-04-12 15:53:41.388 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/ - - - 302 0 - 471.0915ms
+2024-04-12 15:53:41.396 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Account/Login?ReturnUrl=%2F - -
+2024-04-12 15:53:41.419 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.AccountController.Login (FunFox.PortalSystem)'
+2024-04-12 15:53:41.470 +05:00 [INF] Route matched with {action = "Login", controller = "Account", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(System.String) on controller FunFox.PortalSystem.Controllers.AccountController (FunFox.PortalSystem).
+2024-04-12 15:53:41.521 +05:00 [INF] Executing ViewResult, running view Login.
+2024-04-12 15:53:41.773 +05:00 [INF] Executed ViewResult - view Login executed in 245.3275ms.
+2024-04-12 15:53:41.786 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.AccountController.Login (FunFox.PortalSystem) in 308.9266ms
+2024-04-12 15:53:41.795 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.AccountController.Login (FunFox.PortalSystem)'
+2024-04-12 15:53:41.802 +05:00 [INF] HTTP GET /Account/Login responded 200 in 397.8072 ms
+2024-04-12 15:53:41.808 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/font-awesome/css/font-awesome.css - -
+2024-04-12 15:53:41.820 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/css/style.css?v=46ORBesdec5GfSfFrQJoJ10AldDMS3I7Pb_OsHk0e84 - -
+2024-04-12 15:53:41.823 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - -
+2024-04-12 15:53:41.821 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js - -
+2024-04-12 15:53:41.821 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/jquery-validation/dist/jquery.validate.min.js - -
+2024-04-12 15:53:41.839 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_vs/browserLink - -
+2024-04-12 15:53:41.813 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/css/animate.css - -
+2024-04-12 15:53:41.804 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/bootstrap/dist/css/bootstrap.css - -
+2024-04-12 15:53:41.845 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Account/Login?ReturnUrl=%2F - - - 200 - text/html;+charset=utf-8 449.0771ms
+2024-04-12 15:53:41.872 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - - - 200 13794 application/javascript;+charset=utf-8 48.9585ms
+2024-04-12 15:53:41.996 +05:00 [INF] Sending file. Request path: '/lib/font-awesome/css/font-awesome.css'. Physical path: 'D:\PORTFOLIO\Running Portfolio\proposal-management\FunFox.PortalSystem\wwwroot\lib\font-awesome\css\font-awesome.css'
+2024-04-12 15:53:42.000 +05:00 [INF] Sending file. Request path: '/css/style.css'. Physical path: 'D:\PORTFOLIO\Running Portfolio\proposal-management\FunFox.PortalSystem\wwwroot\css\style.css'
+2024-04-12 15:53:41.997 +05:00 [INF] Sending file. Request path: '/css/animate.css'. Physical path: 'D:\PORTFOLIO\Running Portfolio\proposal-management\FunFox.PortalSystem\wwwroot\css\animate.css'
+2024-04-12 15:53:42.032 +05:00 [INF] HTTP GET /lib/font-awesome/css/font-awesome.css responded 200 in 195.8408 ms
+2024-04-12 15:53:42.037 +05:00 [INF] HTTP GET /css/style.css responded 200 in 193.0312 ms
+2024-04-12 15:53:42.042 +05:00 [INF] HTTP GET /css/animate.css responded 200 in 174.1100 ms
+2024-04-12 15:53:42.052 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/font-awesome/css/font-awesome.css - - - 200 39751 text/css 243.9063ms
+2024-04-12 15:53:42.057 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/css/style.css?v=46ORBesdec5GfSfFrQJoJ10AldDMS3I7Pb_OsHk0e84 - - - 200 208034 text/css 236.8204ms
+2024-04-12 15:53:42.000 +05:00 [INF] Sending file. Request path: '/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js'. Physical path: 'D:\PORTFOLIO\Running Portfolio\proposal-management\FunFox.PortalSystem\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js'
+2024-04-12 15:53:42.000 +05:00 [INF] Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'D:\PORTFOLIO\Running Portfolio\proposal-management\FunFox.PortalSystem\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+2024-04-12 15:53:42.070 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/css/animate.css - - - 200 69082 text/css 257.4658ms
+2024-04-12 15:53:42.082 +05:00 [INF] HTTP GET /lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js responded 200 in 223.5693 ms
+2024-04-12 15:53:42.000 +05:00 [INF] Sending file. Request path: '/lib/jquery-validation/dist/jquery.validate.min.js'. Physical path: 'D:\PORTFOLIO\Running Portfolio\proposal-management\FunFox.PortalSystem\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js'
+2024-04-12 15:53:42.089 +05:00 [INF] HTTP GET /lib/bootstrap/dist/css/bootstrap.css responded 200 in 199.3002 ms
+2024-04-12 15:53:42.104 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js - - - 200 5763 application/javascript 282.6736ms
+2024-04-12 15:53:42.109 +05:00 [INF] HTTP GET /lib/jquery-validation/dist/jquery.validate.min.js responded 200 in 249.1809 ms
+2024-04-12 15:53:42.117 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/bootstrap/dist/css/bootstrap.css - - - 200 182626 text/css 312.8995ms
+2024-04-12 15:53:42.124 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/jquery-validation/dist/jquery.validate.min.js - - - 200 23264 application/javascript 303.6083ms
+2024-04-12 15:53:42.156 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 317.2845ms
+2024-04-12 15:53:42.836 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/favicon.ico - -
+2024-04-12 15:53:42.859 +05:00 [INF] Sending file. Request path: '/favicon.ico'. Physical path: 'D:\PORTFOLIO\Running Portfolio\proposal-management\FunFox.PortalSystem\wwwroot\favicon.ico'
+2024-04-12 15:53:42.869 +05:00 [INF] HTTP GET /favicon.ico responded 200 in 25.8105 ms
+2024-04-12 15:53:42.877 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/favicon.ico - - - 200 5430 image/x-icon 40.5730ms
+2024-04-12 15:55:15.733 +05:00 [INF] Request starting HTTP/2 POST https://localhost:7154/Account/Login?returnurl=%2F application/x-www-form-urlencoded 227
+2024-04-12 15:55:15.786 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.AccountController.Login (FunFox.PortalSystem)'
+2024-04-12 15:55:15.803 +05:00 [INF] Route matched with {action = "Login", controller = "Account", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(FunFox.PortalSystem.Domain.ViewModels.Accounts.LoginViewModel, System.String) on controller FunFox.PortalSystem.Controllers.AccountController (FunFox.PortalSystem).
+2024-04-12 15:55:15.869 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-04-12 15:55:15.899 +05:00 [INF] Executed DbCommand (12ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-04-12 15:55:16.101 +05:00 [INF] Executed DbCommand (4ms) [Parameters=[@__user_Id_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[Id], [a].[ClaimType], [a].[ClaimValue], [a].[UserId]
+FROM [AspNetUserClaims] AS [a]
+WHERE [a].[UserId] = @__user_Id_0
+2024-04-12 15:55:16.196 +05:00 [INF] Executed DbCommand (11ms) [Parameters=[@__userId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0
+2024-04-12 15:55:16.225 +05:00 [INF] Executed DbCommand (4ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0
+2024-04-12 15:55:16.261 +05:00 [INF] Executed DbCommand (9ms) [Parameters=[@__role_Id_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[ClaimType], [a].[ClaimValue]
+FROM [AspNetRoleClaims] AS [a]
+WHERE [a].[RoleId] = @__role_Id_0
+2024-04-12 15:55:16.313 +05:00 [INF] AuthenticationScheme: Identity.Application signed in.
+2024-04-12 15:55:16.331 +05:00 [INF] User logged in.
+2024-04-12 15:55:16.346 +05:00 [INF] Executing LocalRedirectResult, redirecting to /.
+2024-04-12 15:55:16.353 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.AccountController.Login (FunFox.PortalSystem) in 541.9011ms
+2024-04-12 15:55:16.361 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.AccountController.Login (FunFox.PortalSystem)'
+2024-04-12 15:55:16.369 +05:00 [INF] HTTP POST /Account/Login responded 302 in 595.1818 ms
+2024-04-12 15:55:16.377 +05:00 [INF] Request finished HTTP/2 POST https://localhost:7154/Account/Login?returnurl=%2F application/x-www-form-urlencoded 227 - 302 0 - 643.7611ms
+2024-04-12 15:55:16.383 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/ - -
+2024-04-12 15:55:16.397 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.DashboardsController.Dashboard_1 (FunFox.PortalSystem)'
+2024-04-12 15:55:16.402 +05:00 [INF] Route matched with {action = "Dashboard_1", controller = "Dashboards", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Dashboard_1() on controller FunFox.PortalSystem.Controllers.DashboardsController (FunFox.PortalSystem).
+2024-04-12 15:55:16.412 +05:00 [INF] Executing ViewResult, running view Dashboard_1.
+2024-04-12 15:55:16.504 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-04-12 15:55:16.514 +05:00 [INF] Executed DbCommand (2ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-04-12 15:55:16.750 +05:00 [INF] Executed ViewResult - view Dashboard_1 executed in 340.8548ms.
+2024-04-12 15:55:16.770 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.DashboardsController.Dashboard_1 (FunFox.PortalSystem) in 361.9316ms
+2024-04-12 15:55:16.784 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.DashboardsController.Dashboard_1 (FunFox.PortalSystem)'
+2024-04-12 15:55:16.792 +05:00 [INF] HTTP GET / responded 200 in 403.8017 ms
+2024-04-12 15:55:16.800 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/dataTables/datatables.min.css - -
+2024-04-12 15:55:16.802 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/css/StyleNew.css - -
+2024-04-12 15:55:16.805 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Images/a7.jpg - -
+2024-04-12 15:55:16.802 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Images/profile_small.jpg - -
+2024-04-12 15:55:16.834 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Images/a4.jpg - -
+2024-04-12 15:55:16.843 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Images/profile.jpg - -
+2024-04-12 15:55:16.878 +05:00 [INF] Sending file. Request path: '/css/StyleNew.css'. Physical path: 'D:\PORTFOLIO\Running Portfolio\proposal-management\FunFox.PortalSystem\wwwroot\css\StyleNew.css'
+2024-04-12 15:55:16.813 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/ - - - 200 - text/html;+charset=utf-8 427.4503ms
+2024-04-12 15:55:16.900 +05:00 [INF] HTTP GET /css/StyleNew.css responded 200 in 68.0602 ms
+2024-04-12 15:55:16.911 +05:00 [INF] Sending file. Request path: '/Images/profile.jpg'. Physical path: 'D:\PORTFOLIO\Running Portfolio\proposal-management\FunFox.PortalSystem\wwwroot\images\profile.jpg'
+2024-04-12 15:55:16.918 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/bootstrap/dist/js/bootstrap.bundle.min.js - -
+2024-04-12 15:55:16.924 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/css/StyleNew.css - - - 200 1599 text/css 123.8432ms
+2024-04-12 15:55:16.869 +05:00 [INF] Sending file. Request path: '/Images/a7.jpg'. Physical path: 'D:\PORTFOLIO\Running Portfolio\proposal-management\FunFox.PortalSystem\wwwroot\images\a7.jpg'
+2024-04-12 15:55:16.930 +05:00 [INF] HTTP GET /Images/profile.jpg responded 200 in 45.8714 ms
+2024-04-12 15:55:16.935 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/bootstrap/dist/js/bootstrap.js - -
+2024-04-12 15:55:16.938 +05:00 [INF] HTTP GET /Images/a7.jpg responded 200 in 90.4074 ms
+2024-04-12 15:55:16.872 +05:00 [INF] Sending file. Request path: '/lib/dataTables/datatables.min.css'. Physical path: 'D:\PORTFOLIO\Running Portfolio\proposal-management\FunFox.PortalSystem\wwwroot\lib\dataTables\datatables.min.css'
+2024-04-12 15:55:16.943 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Images/profile.jpg - - - 200 27806 image/jpeg 109.0598ms
+2024-04-12 15:55:16.953 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Images/a7.jpg - - - 200 11361 image/jpeg 147.8336ms
+2024-04-12 15:55:16.958 +05:00 [INF] HTTP GET /lib/dataTables/datatables.min.css responded 200 in 140.3497 ms
+2024-04-12 15:55:16.970 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/metisMenu/dist/jquery.metisMenu.js - -
+2024-04-12 15:55:16.973 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/slimScroll/jquery.slimscroll.js - -
+2024-04-12 15:55:16.888 +05:00 [INF] Sending file. Request path: '/Images/profile_small.jpg'. Physical path: 'D:\PORTFOLIO\Running Portfolio\proposal-management\FunFox.PortalSystem\wwwroot\images\profile_small.jpg'
+2024-04-12 15:55:16.911 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/Popper/popper.min.js - -
+2024-04-12 15:55:16.988 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/dataTables/datatables.min.css - - - 200 6411 text/css 188.6275ms
+2024-04-12 15:55:16.887 +05:00 [INF] Sending file. Request path: '/Images/a4.jpg'. Physical path: 'D:\PORTFOLIO\Running Portfolio\proposal-management\FunFox.PortalSystem\wwwroot\images\a4.jpg'
+2024-04-12 15:55:16.999 +05:00 [INF] HTTP GET /Images/profile_small.jpg responded 200 in 140.5505 ms
+2024-04-12 15:55:17.005 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/pace/pace.js - -
+2024-04-12 15:55:17.031 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Images/profile_small.jpg - - - 200 5181 image/jpeg 229.1792ms
+2024-04-12 15:55:17.063 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/js/script.js?v=ejsjEJgVpOlGCnoCig86koGMDeT97csAvW4FVvUO7Kw - -
+2024-04-12 15:55:17.020 +05:00 [INF] HTTP GET /Images/a4.jpg responded 200 in 149.5639 ms
+2024-04-12 15:55:17.072 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/js/skin.config.js - -
+2024-04-12 15:55:16.855 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/jquery/dist/jquery.js - -
+2024-04-12 15:55:17.087 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/dataTables/datatables.min.js - -
+2024-04-12 15:55:17.116 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/dataTables/dataTables.bootstrap4.min.js - -
+2024-04-12 15:55:17.148 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/flot/jquery.flot.tooltip.min.js - -
+2024-04-12 15:55:17.151 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/flot/jquery.flot.resize.js - -
+2024-04-12 15:55:17.120 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/js/Layout.js - -
+2024-04-12 15:55:17.148 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/flot/jquery.flot.js - -
+2024-04-12 15:55:17.168 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/flot/jquery.flot.pie.js - -
+2024-04-12 15:55:17.265 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/flot/jquery.flot.time.js - -
+2024-04-12 15:55:17.277 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/flot/jquery.flot.spline.js - -
+2024-04-12 15:55:17.280 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/sparkline/jquery.sparkline.min.js - -
+2024-04-12 15:55:17.318 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/chartJs/Chart.min.js - -
+2024-04-12 15:55:17.342 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/peity/jquery.peity.js - -
+2024-04-12 15:55:17.352 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - -
+2024-04-12 15:55:17.358 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Images/a2.jpg - -
+2024-04-12 15:55:17.403 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Images/a3.jpg - -
+2024-04-12 15:55:17.430 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Images/a1.jpg - -
+2024-04-12 15:55:17.415 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Images/a5.jpg - -
+2024-04-12 15:55:17.447 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/images/preloader.gif - -
+2024-04-12 15:55:17.469 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_vs/browserLink - -
+2024-04-12 15:55:17.483 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/css/patterns/header-profile.png - -
+2024-04-12 15:55:17.532 +05:00 [INF] Sending file. Request path: '/lib/metisMenu/dist/jquery.metisMenu.js'. Physical path: 'D:\PORTFOLIO\Running Portfolio\proposal-management\FunFox.PortalSystem\wwwroot\lib\metisMenu\dist\jquery.metisMenu.js'
+2024-04-12 15:55:17.432 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Images/a8.jpg - -
+2024-04-12 15:55:17.542 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Images/a4.jpg - - - 200 5916 image/jpeg 707.8499ms
+2024-04-12 15:55:17.553 +05:00 [INF] HTTP GET /lib/metisMenu/dist/jquery.metisMenu.js responded 200 in 556.9752 ms
+2024-04-12 15:55:17.532 +05:00 [INF] Sending file. Request path: '/Images/a5.jpg'. Physical path: 'D:\PORTFOLIO\Running Portfolio\proposal-management\FunFox.PortalSystem\wwwroot\images\a5.jpg'
+2024-04-12 15:55:17.582 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/metisMenu/dist/jquery.metisMenu.js - - - 200 13431 application/javascript 612.2439ms
+2024-04-12 15:55:17.567 +05:00 [INF] Sending file. Request path: '/css/patterns/header-profile.png'. Physical path: 'D:\PORTFOLIO\Running Portfolio\proposal-management\FunFox.PortalSystem\wwwroot\css\patterns\header-profile.png'
+2024-04-12 15:55:17.592 +05:00 [INF] HTTP GET /Images/a5.jpg responded 200 in 119.8401 ms
+2024-04-12 15:55:17.597 +05:00 [INF] Sending file. Request path: '/Images/a1.jpg'. Physical path: 'D:\PORTFOLIO\Running Portfolio\proposal-management\FunFox.PortalSystem\wwwroot\images\a1.jpg'
+2024-04-12 15:55:17.619 +05:00 [INF] Sending file. Request path: '/lib/flot/jquery.flot.resize.js'. Physical path: 'D:\PORTFOLIO\Running Portfolio\proposal-management\FunFox.PortalSystem\wwwroot\lib\flot\jquery.flot.resize.js'
+2024-04-12 15:55:17.635 +05:00 [INF] Sending file. Request path: '/js/script.js'. Physical path: 'D:\PORTFOLIO\Running Portfolio\proposal-management\FunFox.PortalSystem\wwwroot\js\script.js'
+2024-04-12 15:55:17.656 +05:00 [INF] HTTP GET /lib/flot/jquery.flot.resize.js responded 200 in 482.1336 ms
+2024-04-12 15:55:17.683 +05:00 [INF] HTTP GET /js/script.js responded 200 in 600.6880 ms
+2024-04-12 15:55:17.730 +05:00 [INF] Sending file. Request path: '/lib/dataTables/dataTables.bootstrap4.min.js'. Physical path: 'D:\PORTFOLIO\Running Portfolio\proposal-management\FunFox.PortalSystem\wwwroot\lib\dataTables\dataTables.bootstrap4.min.js'
+2024-04-12 15:55:17.635 +05:00 [INF] Sending file. Request path: '/lib/slimScroll/jquery.slimscroll.js'. Physical path: 'D:\PORTFOLIO\Running Portfolio\proposal-management\FunFox.PortalSystem\wwwroot\lib\slimScroll\jquery.slimscroll.js'
+2024-04-12 15:55:17.836 +05:00 [INF] HTTP GET /lib/dataTables/dataTables.bootstrap4.min.js responded 200 in 680.5027 ms
+2024-04-12 15:55:17.837 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/js/script.js?v=ejsjEJgVpOlGCnoCig86koGMDeT97csAvW4FVvUO7Kw - - - 200 8113 application/javascript 774.2579ms
+2024-04-12 15:55:17.866 +05:00 [INF] HTTP GET /lib/slimScroll/jquery.slimscroll.js responded 200 in 868.3477 ms
+2024-04-12 15:55:17.938 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/dataTables/dataTables.bootstrap4.min.js - - - 200 2081 application/javascript 818.9660ms
+2024-04-12 15:55:17.935 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/flot/jquery.flot.resize.js - - - 200 3373 application/javascript 783.6576ms
+2024-04-12 15:55:17.683 +05:00 [INF] Sending file. Request path: '/lib/peity/jquery.peity.js'. Physical path: 'D:\PORTFOLIO\Running Portfolio\proposal-management\FunFox.PortalSystem\wwwroot\lib\peity\jquery.peity.js'
+2024-04-12 15:55:18.025 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 548.6823ms
+2024-04-12 15:55:18.017 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - - - 200 13794 application/javascript;+charset=utf-8 664.5575ms
+2024-04-12 15:55:18.015 +05:00 [INF] Sending file. Request path: '/lib/flot/jquery.flot.js'. Physical path: 'D:\PORTFOLIO\Running Portfolio\proposal-management\FunFox.PortalSystem\wwwroot\lib\flot\jquery.flot.js'
+2024-04-12 15:55:18.045 +05:00 [INF] HTTP GET /lib/peity/jquery.peity.js responded 200 in 686.5544 ms
+2024-04-12 15:55:18.125 +05:00 [INF] HTTP GET /lib/flot/jquery.flot.js responded 200 in 923.2759 ms
+2024-04-12 15:55:17.627 +05:00 [INF] HTTP GET /Images/a1.jpg responded 200 in 181.8067 ms
+2024-04-12 15:55:18.169 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/flot/jquery.flot.js - - - 200 126139 application/javascript 1021.3816ms
+2024-04-12 15:55:17.604 +05:00 [INF] HTTP GET /css/patterns/header-profile.png responded 200 in 62.4537 ms
+2024-04-12 15:55:18.183 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Images/a1.jpg - - - 200 3497 image/jpeg 753.0815ms
+2024-04-12 15:55:17.584 +05:00 [INF] Sending file. Request path: '/Images/a8.jpg'. Physical path: 'D:\PORTFOLIO\Running Portfolio\proposal-management\FunFox.PortalSystem\wwwroot\images\a8.jpg'
+2024-04-12 15:55:18.203 +05:00 [INF] Sending file. Request path: '/lib/dataTables/datatables.min.js'. Physical path: 'D:\PORTFOLIO\Running Portfolio\proposal-management\FunFox.PortalSystem\wwwroot\lib\dataTables\datatables.min.js'
+2024-04-12 15:55:18.211 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/css/patterns/header-profile.png - - - 200 5877 image/png 728.1227ms
+2024-04-12 15:55:18.222 +05:00 [INF] HTTP GET /Images/a8.jpg responded 200 in 660.8050 ms
+2024-04-12 15:55:17.572 +05:00 [INF] Sending file. Request path: '/Images/a2.jpg'. Physical path: 'D:\PORTFOLIO\Running Portfolio\proposal-management\FunFox.PortalSystem\wwwroot\images\a2.jpg'
+2024-04-12 15:55:18.233 +05:00 [INF] HTTP GET /lib/dataTables/datatables.min.js responded 200 in 1119.5711 ms
+2024-04-12 15:55:18.243 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Images/a8.jpg - - - 200 9593 image/jpeg 811.1710ms
+2024-04-12 15:55:18.252 +05:00 [INF] HTTP GET /Images/a2.jpg responded 200 in 819.9666 ms
+2024-04-12 15:55:17.535 +05:00 [INF] Sending file. Request path: '/images/preloader.gif'. Physical path: 'D:\PORTFOLIO\Running Portfolio\proposal-management\FunFox.PortalSystem\wwwroot\images\preloader.gif'
+2024-04-12 15:55:18.264 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/dataTables/datatables.min.js - - - 200 1200631 application/javascript 1178.6966ms
+2024-04-12 15:55:18.275 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Images/a2.jpg - - - 200 19568 image/jpeg 917.2962ms
+2024-04-12 15:55:17.655 +05:00 [INF] Sending file. Request path: '/Images/a3.jpg'. Physical path: 'D:\PORTFOLIO\Running Portfolio\proposal-management\FunFox.PortalSystem\wwwroot\images\a3.jpg'
+2024-04-12 15:55:17.705 +05:00 [INF] Sending file. Request path: '/lib/flot/jquery.flot.spline.js'. Physical path: 'D:\PORTFOLIO\Running Portfolio\proposal-management\FunFox.PortalSystem\wwwroot\lib\flot\jquery.flot.spline.js'
+2024-04-12 15:55:18.283 +05:00 [INF] HTTP GET /images/preloader.gif responded 200 in 803.0002 ms
+2024-04-12 15:55:18.304 +05:00 [INF] HTTP GET /Images/a3.jpg responded 200 in 867.4327 ms
+2024-04-12 15:55:18.310 +05:00 [INF] HTTP GET /lib/flot/jquery.flot.spline.js responded 200 in 1023.2888 ms
+2024-04-12 15:55:18.324 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/images/preloader.gif - - - 200 19782 image/gif 876.8963ms
+2024-04-12 15:55:18.334 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Images/a3.jpg - - - 200 6790 image/jpeg 930.8705ms
+2024-04-12 15:55:17.709 +05:00 [INF] Sending file. Request path: '/lib/flot/jquery.flot.tooltip.min.js'. Physical path: 'D:\PORTFOLIO\Running Portfolio\proposal-management\FunFox.PortalSystem\wwwroot\lib\flot\jquery.flot.tooltip.min.js'
+2024-04-12 15:55:17.766 +05:00 [INF] Sending file. Request path: '/lib/flot/jquery.flot.time.js'. Physical path: 'D:\PORTFOLIO\Running Portfolio\proposal-management\FunFox.PortalSystem\wwwroot\lib\flot\jquery.flot.time.js'
+2024-04-12 15:55:18.342 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/flot/jquery.flot.spline.js - - - 200 6464 application/javascript 1064.8195ms
+2024-04-12 15:55:18.354 +05:00 [INF] HTTP GET /lib/flot/jquery.flot.tooltip.min.js responded 200 in 1183.7756 ms
+2024-04-12 15:55:17.790 +05:00 [INF] Sending file. Request path: '/js/Layout.js'. Physical path: 'D:\PORTFOLIO\Running Portfolio\proposal-management\FunFox.PortalSystem\wwwroot\js\Layout.js'
+2024-04-12 15:55:18.359 +05:00 [INF] HTTP GET /lib/flot/jquery.flot.time.js responded 200 in 1073.9350 ms
+2024-04-12 15:55:18.372 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/flot/jquery.flot.tooltip.min.js - - - 200 3941 application/javascript 1223.8379ms
+2024-04-12 15:55:18.380 +05:00 [INF] HTTP GET /js/Layout.js responded 200 in 1201.5583 ms
+2024-04-12 15:55:17.806 +05:00 [INF] Sending file. Request path: '/js/skin.config.js'. Physical path: 'D:\PORTFOLIO\Running Portfolio\proposal-management\FunFox.PortalSystem\wwwroot\js\skin.config.js'
+2024-04-12 15:55:18.387 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/flot/jquery.flot.time.js - - - 200 12200 application/javascript 1122.1986ms
+2024-04-12 15:55:18.398 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/js/Layout.js - - - 200 729 application/javascript 1282.3311ms
+2024-04-12 15:55:17.866 +05:00 [INF] Sending file. Request path: '/lib/Popper/popper.min.js'. Physical path: 'D:\PORTFOLIO\Running Portfolio\proposal-management\FunFox.PortalSystem\wwwroot\lib\Popper\popper.min.js'
+2024-04-12 15:55:17.988 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/slimScroll/jquery.slimscroll.js - - - 200 14306 application/javascript 1015.0292ms
+2024-04-12 15:55:18.419 +05:00 [INF] HTTP GET /lib/Popper/popper.min.js responded 200 in 1415.4839 ms
+2024-04-12 15:55:17.904 +05:00 [INF] Sending file. Request path: '/lib/sparkline/jquery.sparkline.min.js'. Physical path: 'D:\PORTFOLIO\Running Portfolio\proposal-management\FunFox.PortalSystem\wwwroot\lib\sparkline\jquery.sparkline.min.js'
+2024-04-12 15:55:18.406 +05:00 [INF] HTTP GET /js/skin.config.js responded 200 in 1305.1315 ms
+2024-04-12 15:55:18.426 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/Popper/popper.min.js - - - 200 22821 application/javascript 1515.2434ms
+2024-04-12 15:55:18.434 +05:00 [INF] HTTP GET /lib/sparkline/jquery.sparkline.min.js responded 200 in 1108.0193 ms
+2024-04-12 15:55:17.939 +05:00 [INF] Sending file. Request path: '/lib/flot/jquery.flot.pie.js'. Physical path: 'D:\PORTFOLIO\Running Portfolio\proposal-management\FunFox.PortalSystem\wwwroot\lib\flot\jquery.flot.pie.js'
+2024-04-12 15:55:18.444 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/js/skin.config.js - - - 200 6881 application/javascript 1372.7275ms
+2024-04-12 15:55:18.455 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/sparkline/jquery.sparkline.min.js - - - 200 43255 application/javascript 1175.5073ms
+2024-04-12 15:55:17.947 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Images/a5.jpg - - - 200 4240 image/jpeg 530.2273ms
+2024-04-12 15:55:18.076 +05:00 [INF] Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'D:\PORTFOLIO\Running Portfolio\proposal-management\FunFox.PortalSystem\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js'
+2024-04-12 15:55:18.069 +05:00 [INF] Sending file. Request path: '/lib/pace/pace.js'. Physical path: 'D:\PORTFOLIO\Running Portfolio\proposal-management\FunFox.PortalSystem\wwwroot\lib\pace\pace.js'
+2024-04-12 15:55:18.466 +05:00 [INF] HTTP GET /lib/flot/jquery.flot.pie.js responded 200 in 1259.5325 ms
+2024-04-12 15:55:18.475 +05:00 [INF] HTTP GET /lib/bootstrap/dist/js/bootstrap.bundle.min.js responded 200 in 1540.9322 ms
+2024-04-12 15:55:18.484 +05:00 [INF] HTTP GET /lib/pace/pace.js responded 200 in 1432.5485 ms
+2024-04-12 15:55:18.494 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/flot/jquery.flot.pie.js - - - 200 24629 application/javascript 1325.9466ms
+2024-04-12 15:55:18.501 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/bootstrap/dist/js/bootstrap.bundle.min.js - - - 200 70972 application/javascript 1584.8533ms
+2024-04-12 15:55:18.071 +05:00 [INF] Sending file. Request path: '/lib/chartJs/Chart.min.js'. Physical path: 'D:\PORTFOLIO\Running Portfolio\proposal-management\FunFox.PortalSystem\wwwroot\lib\chartJs\Chart.min.js'
+2024-04-12 15:55:18.158 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/peity/jquery.peity.js - - - 200 9274 application/javascript 815.4262ms
+2024-04-12 15:55:18.509 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/pace/pace.js - - - 200 27501 application/javascript 1504.8412ms
+2024-04-12 15:55:18.136 +05:00 [INF] Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.js'. Physical path: 'D:\PORTFOLIO\Running Portfolio\proposal-management\FunFox.PortalSystem\wwwroot\lib\bootstrap\dist\js\bootstrap.js'
+2024-04-12 15:55:18.164 +05:00 [INF] Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'D:\PORTFOLIO\Running Portfolio\proposal-management\FunFox.PortalSystem\wwwroot\lib\jquery\dist\jquery.js'
+2024-04-12 15:55:18.521 +05:00 [INF] HTTP GET /lib/chartJs/Chart.min.js responded 200 in 1175.3242 ms
+2024-04-12 15:55:18.533 +05:00 [INF] HTTP GET /lib/bootstrap/dist/js/bootstrap.js responded 200 in 1583.0589 ms
+2024-04-12 15:55:18.540 +05:00 [INF] HTTP GET /lib/jquery/dist/jquery.js responded 200 in 1438.2193 ms
+2024-04-12 15:55:18.550 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/chartJs/Chart.min.js - - - 200 139403 application/javascript 1232.3696ms
+2024-04-12 15:55:18.557 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/bootstrap/dist/js/bootstrap.js - - - 200 127709 application/javascript 1621.7301ms
+2024-04-12 15:55:18.567 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/jquery/dist/jquery.js - - - 200 273841 application/javascript 1712.0930ms
+2024-04-12 15:55:30.843 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Plant/Index - -
+2024-04-12 15:55:30.860 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.PlantController.Index (FunFox.PortalSystem)'
+2024-04-12 15:55:30.871 +05:00 [INF] Route matched with {action = "Index", controller = "Plant", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] Index() on controller FunFox.PortalSystem.Controllers.PlantController (FunFox.PortalSystem).
+2024-04-12 15:55:31.104 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-04-12 15:55:31.128 +05:00 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[Id], [a].[Category], [a].[Code], [a].[CommonName], [a].[ImportedOn], [a].[LatinName]
+FROM [AllPlants] AS [a]
+2024-04-12 15:55:31.219 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[Id], [a].[Category], [a].[Code], [a].[CommonName], [a].[ImportedOn], [a].[LatinName]
+FROM [AllPlants] AS [a]
+2024-04-12 15:55:31.242 +05:00 [INF] Executing ViewResult, running view Index.
+2024-04-12 15:55:31.322 +05:00 [INF] Executed DbCommand (2ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-04-12 15:55:31.351 +05:00 [INF] Executed ViewResult - view Index executed in 109.7947ms.
+2024-04-12 15:55:31.369 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.PlantController.Index (FunFox.PortalSystem) in 486.0665ms
+2024-04-12 15:55:31.402 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.PlantController.Index (FunFox.PortalSystem)'
+2024-04-12 15:55:31.404 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/blueimp-gallery/js/popper.min.js - -
+2024-04-12 15:55:31.414 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - -
+2024-04-12 15:55:31.421 +05:00 [INF] HTTP GET /Plant/Index responded 200 in 564.9145 ms
+2024-04-12 15:55:31.441 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - - - 200 13794 application/javascript;+charset=utf-8 26.8834ms
+2024-04-12 15:55:31.404 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/js/plant/plant.js - -
+2024-04-12 15:55:31.457 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Plant/Index - - - 200 - text/html;+charset=utf-8 614.0362ms
+2024-04-12 15:55:31.420 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_vs/browserLink - -
+2024-04-12 15:55:31.404 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/css/StyleNew/StyleNew.css - -
+2024-04-12 15:55:31.502 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 81.0539ms
+2024-04-12 15:55:31.524 +05:00 [INF] Sending file. Request path: '/lib/blueimp-gallery/js/popper.min.js'. Physical path: 'D:\PORTFOLIO\Running Portfolio\proposal-management\FunFox.PortalSystem\wwwroot\lib\blueimp-gallery\js\popper.min.js'
+2024-04-12 15:55:31.532 +05:00 [INF] Sending file. Request path: '/js/plant/plant.js'. Physical path: 'D:\PORTFOLIO\Running Portfolio\proposal-management\FunFox.PortalSystem\wwwroot\js\plant\plant.js'
+2024-04-12 15:55:31.538 +05:00 [INF] HTTP GET /lib/blueimp-gallery/js/popper.min.js responded 200 in 109.4259 ms
+2024-04-12 15:55:31.547 +05:00 [INF] HTTP GET /js/plant/plant.js responded 200 in 75.8881 ms
+2024-04-12 15:55:31.551 +05:00 [INF] HTTP GET /css/StyleNew/StyleNew.css responded 404 in 64.8157 ms
+2024-04-12 15:55:31.556 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/blueimp-gallery/js/popper.min.js - - - 200 22824 application/javascript 152.0818ms
+2024-04-12 15:55:31.571 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/js/plant/plant.js - - - 200 988 application/javascript 166.8590ms
+2024-04-12 15:55:31.583 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/css/StyleNew/StyleNew.css - - - 404 0 - 179.2879ms
+2024-04-12 15:55:46.668 +05:00 [INF] Request starting HTTP/2 POST https://localhost:7154/Plant/PlantsSearch application/x-www-form-urlencoded;+charset=UTF-8 79
+2024-04-12 15:55:46.677 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.PlantController.PlantsSearch (FunFox.PortalSystem)'
+2024-04-12 15:55:46.692 +05:00 [INF] Route matched with {action = "PlantsSearch", controller = "Plant", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] PlantsSearch(FunFox.PortalSystem.Domain.ViewModels.Plant.PlantSearchViewModel) on controller FunFox.PortalSystem.Controllers.PlantController (FunFox.PortalSystem).
+2024-04-12 15:55:46.707 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-04-12 15:55:46.749 +05:00 [INF] Executed DbCommand (7ms) [Parameters=[@__ToUpper_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[Id], [a].[Category], [a].[Code], [a].[CommonName], [a].[ImportedOn], [a].[LatinName]
+FROM [AllPlants] AS [a]
+WHERE UPPER([a].[Category]) = @__ToUpper_0
+2024-04-12 15:55:46.764 +05:00 [INF] Executing PartialViewResult, running view _PlantList.
+2024-04-12 15:55:46.773 +05:00 [INF] Executed PartialViewResult - view _PlantList executed in 9.5346ms.
+2024-04-12 15:55:46.784 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.PlantController.PlantsSearch (FunFox.PortalSystem) in 81.6929ms
+2024-04-12 15:55:46.795 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.PlantController.PlantsSearch (FunFox.PortalSystem)'
+2024-04-12 15:55:46.803 +05:00 [INF] HTTP POST /Plant/PlantsSearch responded 200 in 128.8127 ms
+2024-04-12 15:55:46.813 +05:00 [INF] Request finished HTTP/2 POST https://localhost:7154/Plant/PlantsSearch application/x-www-form-urlencoded;+charset=UTF-8 79 - 200 - text/html;+charset=utf-8 146.0563ms
+2024-04-12 15:55:56.569 +05:00 [INF] Request starting HTTP/2 POST https://localhost:7154/Account/Logout?returnUrl=%2F application/x-www-form-urlencoded 225
+2024-04-12 15:55:56.582 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.AccountController.Logout (FunFox.PortalSystem)'
+2024-04-12 15:55:56.595 +05:00 [INF] Route matched with {action = "Logout", controller = "Account", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Logout(System.String) on controller FunFox.PortalSystem.Controllers.AccountController (FunFox.PortalSystem).
+2024-04-12 15:55:56.613 +05:00 [INF] AuthenticationScheme: Identity.Application signed out.
+2024-04-12 15:55:56.620 +05:00 [INF] AuthenticationScheme: Identity.External signed out.
+2024-04-12 15:55:56.626 +05:00 [INF] AuthenticationScheme: Identity.TwoFactorUserId signed out.
+2024-04-12 15:55:56.632 +05:00 [INF] User logged out.
+2024-04-12 15:55:56.641 +05:00 [INF] Executing LocalRedirectResult, redirecting to /.
+2024-04-12 15:55:56.651 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.AccountController.Logout (FunFox.PortalSystem) in 48.3603ms
+2024-04-12 15:55:56.660 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.AccountController.Logout (FunFox.PortalSystem)'
+2024-04-12 15:55:56.671 +05:00 [INF] HTTP POST /Account/Logout responded 302 in 90.4791 ms
+2024-04-12 15:55:56.686 +05:00 [INF] Request finished HTTP/2 POST https://localhost:7154/Account/Logout?returnUrl=%2F application/x-www-form-urlencoded 225 - 302 0 - 116.7688ms
+2024-04-12 15:55:56.695 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/ - -
+2024-04-12 15:55:56.704 +05:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-04-12 15:55:56.714 +05:00 [INF] AuthenticationScheme: Identity.Application was challenged.
+2024-04-12 15:55:56.721 +05:00 [INF] HTTP GET / responded 302 in 18.1464 ms
+2024-04-12 15:55:56.733 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/ - - - 302 0 - 38.3862ms
+2024-04-12 15:55:56.745 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Account/Login?ReturnUrl=%2F - -
+2024-04-12 15:55:56.769 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.AccountController.Login (FunFox.PortalSystem)'
+2024-04-12 15:55:56.778 +05:00 [INF] Route matched with {action = "Login", controller = "Account", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(System.String) on controller FunFox.PortalSystem.Controllers.AccountController (FunFox.PortalSystem).
+2024-04-12 15:55:56.791 +05:00 [INF] Executing ViewResult, running view Login.
+2024-04-12 15:55:56.802 +05:00 [INF] Executed ViewResult - view Login executed in 10.5024ms.
+2024-04-12 15:55:56.807 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.AccountController.Login (FunFox.PortalSystem) in 17.4089ms
+2024-04-12 15:55:56.819 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.AccountController.Login (FunFox.PortalSystem)'
+2024-04-12 15:55:56.829 +05:00 [INF] HTTP GET /Account/Login responded 200 in 60.5480 ms
+2024-04-12 15:55:56.837 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Account/Login?ReturnUrl=%2F - - - 200 - text/html;+charset=utf-8 93.8972ms
+2024-04-12 15:55:56.843 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - -
+2024-04-12 15:55:56.852 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - - - 200 13794 application/javascript;+charset=utf-8 9.1998ms
+2024-04-12 15:55:56.861 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_vs/browserLink - -
+2024-04-12 15:55:56.877 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 15.8639ms
+2024-04-12 15:56:08.410 +05:00 [INF] Request starting HTTP/2 POST https://localhost:7154/Account/Login?returnurl=%2F application/x-www-form-urlencoded 227
+2024-04-12 15:56:08.427 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.AccountController.Login (FunFox.PortalSystem)'
+2024-04-12 15:56:08.436 +05:00 [INF] Route matched with {action = "Login", controller = "Account", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(FunFox.PortalSystem.Domain.ViewModels.Accounts.LoginViewModel, System.String) on controller FunFox.PortalSystem.Controllers.AccountController (FunFox.PortalSystem).
+2024-04-12 15:56:08.452 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-04-12 15:56:08.475 +05:00 [INF] Executed DbCommand (11ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-04-12 15:56:08.502 +05:00 [INF] Executed DbCommand (6ms) [Parameters=[@__user_Id_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[Id], [a].[ClaimType], [a].[ClaimValue], [a].[UserId]
+FROM [AspNetUserClaims] AS [a]
+WHERE [a].[UserId] = @__user_Id_0
+2024-04-12 15:56:08.526 +05:00 [INF] Executed DbCommand (9ms) [Parameters=[@__userId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0
+2024-04-12 15:56:08.544 +05:00 [INF] Executed DbCommand (9ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0
+2024-04-12 15:56:08.561 +05:00 [INF] Executed DbCommand (7ms) [Parameters=[@__role_Id_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[ClaimType], [a].[ClaimValue]
+FROM [AspNetRoleClaims] AS [a]
+WHERE [a].[RoleId] = @__role_Id_0
+2024-04-12 15:56:08.578 +05:00 [INF] AuthenticationScheme: Identity.Application signed in.
+2024-04-12 15:56:08.586 +05:00 [INF] User logged in.
+2024-04-12 15:56:08.596 +05:00 [INF] Executing LocalRedirectResult, redirecting to /.
+2024-04-12 15:56:08.601 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.AccountController.Login (FunFox.PortalSystem) in 152.238ms
+2024-04-12 15:56:08.608 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.AccountController.Login (FunFox.PortalSystem)'
+2024-04-12 15:56:08.615 +05:00 [INF] HTTP POST /Account/Login responded 302 in 188.3854 ms
+2024-04-12 15:56:08.621 +05:00 [INF] Request finished HTTP/2 POST https://localhost:7154/Account/Login?returnurl=%2F application/x-www-form-urlencoded 227 - 302 0 - 211.3483ms
+2024-04-12 15:56:08.629 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/ - -
+2024-04-12 15:56:08.647 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.DashboardsController.Dashboard_1 (FunFox.PortalSystem)'
+2024-04-12 15:56:08.658 +05:00 [INF] Route matched with {action = "Dashboard_1", controller = "Dashboards", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Dashboard_1() on controller FunFox.PortalSystem.Controllers.DashboardsController (FunFox.PortalSystem).
+2024-04-12 15:56:08.668 +05:00 [INF] Executing ViewResult, running view Dashboard_1.
+2024-04-12 15:56:08.680 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-04-12 15:56:08.701 +05:00 [INF] Executed DbCommand (10ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-04-12 15:56:08.717 +05:00 [INF] Executed ViewResult - view Dashboard_1 executed in 48.7522ms.
+2024-04-12 15:56:08.726 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.DashboardsController.Dashboard_1 (FunFox.PortalSystem) in 58.0052ms
+2024-04-12 15:56:08.733 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.DashboardsController.Dashboard_1 (FunFox.PortalSystem)'
+2024-04-12 15:56:08.742 +05:00 [INF] HTTP GET / responded 200 in 97.8608 ms
+2024-04-12 15:56:08.753 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/ - - - 200 - text/html;+charset=utf-8 124.1188ms
+2024-04-12 15:56:08.793 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - -
+2024-04-12 15:56:08.799 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_vs/browserLink - -
+2024-04-12 15:56:08.808 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - - - 200 13794 application/javascript;+charset=utf-8 14.2205ms
+2024-04-12 15:56:08.818 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 19.3464ms
+2024-04-12 15:56:18.169 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Account/Login?ReturnUrl=%2F - -
+2024-04-12 15:56:18.186 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.AccountController.Login (FunFox.PortalSystem)'
+2024-04-12 15:56:18.196 +05:00 [INF] Route matched with {action = "Login", controller = "Account", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(System.String) on controller FunFox.PortalSystem.Controllers.AccountController (FunFox.PortalSystem).
+2024-04-12 15:56:18.203 +05:00 [INF] Executing ViewResult, running view Login.
+2024-04-12 15:56:18.215 +05:00 [INF] Executed ViewResult - view Login executed in 12.1026ms.
+2024-04-12 15:56:18.227 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.AccountController.Login (FunFox.PortalSystem) in 24.6578ms
+2024-04-12 15:56:18.236 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.AccountController.Login (FunFox.PortalSystem)'
+2024-04-12 15:56:18.247 +05:00 [INF] HTTP GET /Account/Login responded 200 in 61.7681 ms
+2024-04-12 15:56:18.261 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - -
+2024-04-12 15:56:18.266 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Account/Login?ReturnUrl=%2F - - - 200 - text/html;+charset=utf-8 97.1319ms
+2024-04-12 15:56:18.282 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - - - 200 13794 application/javascript;+charset=utf-8 21.3589ms
+2024-04-12 15:56:20.735 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/ - -
+2024-04-12 15:56:20.747 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.DashboardsController.Dashboard_1 (FunFox.PortalSystem)'
+2024-04-12 15:56:20.755 +05:00 [INF] Route matched with {action = "Dashboard_1", controller = "Dashboards", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Dashboard_1() on controller FunFox.PortalSystem.Controllers.DashboardsController (FunFox.PortalSystem).
+2024-04-12 15:56:20.771 +05:00 [INF] Executing ViewResult, running view Dashboard_1.
+2024-04-12 15:56:20.782 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-04-12 15:56:20.802 +05:00 [INF] Executed DbCommand (11ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-04-12 15:56:20.815 +05:00 [INF] Executed ViewResult - view Dashboard_1 executed in 43.4512ms.
+2024-04-12 15:56:20.824 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.DashboardsController.Dashboard_1 (FunFox.PortalSystem) in 52.5912ms
+2024-04-12 15:56:20.834 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.DashboardsController.Dashboard_1 (FunFox.PortalSystem)'
+2024-04-12 15:56:20.847 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - -
+2024-04-12 15:56:20.853 +05:00 [INF] HTTP GET / responded 200 in 107.1082 ms
+2024-04-12 15:56:20.861 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - - - 200 13794 application/javascript;+charset=utf-8 14.2923ms
+2024-04-12 15:56:20.869 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/ - - - 200 - text/html;+charset=utf-8 134.5673ms
+2024-04-12 15:56:42.073 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Plant/Index - -
+2024-04-12 15:56:42.087 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.PlantController.Index (FunFox.PortalSystem)'
+2024-04-12 15:56:42.095 +05:00 [INF] Route matched with {action = "Index", controller = "Plant", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] Index() on controller FunFox.PortalSystem.Controllers.PlantController (FunFox.PortalSystem).
+2024-04-12 15:56:42.105 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-04-12 15:56:42.119 +05:00 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[Id], [a].[Category], [a].[Code], [a].[CommonName], [a].[ImportedOn], [a].[LatinName]
+FROM [AllPlants] AS [a]
+2024-04-12 15:56:42.131 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[Id], [a].[Category], [a].[Code], [a].[CommonName], [a].[ImportedOn], [a].[LatinName]
+FROM [AllPlants] AS [a]
+2024-04-12 15:56:42.142 +05:00 [INF] Executing ViewResult, running view Index.
+2024-04-12 15:56:42.174 +05:00 [INF] Executed DbCommand (4ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-04-12 15:56:42.197 +05:00 [INF] Executed ViewResult - view Index executed in 55.127ms.
+2024-04-12 15:56:42.210 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.PlantController.Index (FunFox.PortalSystem) in 109.7803ms
+2024-04-12 15:56:42.219 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.PlantController.Index (FunFox.PortalSystem)'
+2024-04-12 15:56:42.233 +05:00 [INF] HTTP GET /Plant/Index responded 200 in 147.1306 ms
+2024-04-12 15:56:42.258 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/css/StyleNew/StyleNew.css - -
+2024-04-12 15:56:42.262 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_vs/browserLink - -
+2024-04-12 15:56:42.284 +05:00 [INF] HTTP GET /css/StyleNew/StyleNew.css responded 404 in 0.8261 ms
+2024-04-12 15:56:42.278 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Plant/Index - - - 200 - text/html;+charset=utf-8 204.4285ms
+2024-04-12 15:56:42.295 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/css/StyleNew/StyleNew.css - - - 404 0 - 37.1473ms
+2024-04-12 15:56:42.262 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - -
+2024-04-12 15:56:42.330 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - - - 200 13794 application/javascript;+charset=utf-8 72.5288ms
+2024-04-12 15:56:42.332 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 68.4997ms
+2024-04-12 15:59:10.100 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Plant/Index - -
+2024-04-12 15:59:10.147 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.PlantController.Index (FunFox.PortalSystem)'
+2024-04-12 15:59:10.157 +05:00 [INF] Route matched with {action = "Index", controller = "Plant", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] Index() on controller FunFox.PortalSystem.Controllers.PlantController (FunFox.PortalSystem).
+2024-04-12 15:59:10.168 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-04-12 15:59:10.183 +05:00 [INF] Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[Id], [a].[Category], [a].[Code], [a].[CommonName], [a].[ImportedOn], [a].[LatinName]
+FROM [AllPlants] AS [a]
+2024-04-12 15:59:10.193 +05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[Id], [a].[Category], [a].[Code], [a].[CommonName], [a].[ImportedOn], [a].[LatinName]
+FROM [AllPlants] AS [a]
+2024-04-12 15:59:10.200 +05:00 [INF] Executing ViewResult, running view Index.
+2024-04-12 15:59:10.268 +05:00 [INF] Executed DbCommand (59ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-04-12 15:59:10.288 +05:00 [INF] Executed ViewResult - view Index executed in 88.8676ms.
+2024-04-12 15:59:10.336 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - -
+2024-04-12 15:59:10.342 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.PlantController.Index (FunFox.PortalSystem) in 175.0362ms
+2024-04-12 15:59:10.366 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/css/StyleNew/StyleNew.css - -
+2024-04-12 15:59:10.369 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - - - 200 13794 application/javascript;+charset=utf-8 32.9477ms
+2024-04-12 15:59:10.380 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.PlantController.Index (FunFox.PortalSystem)'
+2024-04-12 15:59:10.356 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_vs/browserLink - -
+2024-04-12 15:59:10.389 +05:00 [INF] HTTP GET /css/StyleNew/StyleNew.css responded 404 in 0.9797 ms
+2024-04-12 15:59:10.398 +05:00 [INF] HTTP GET /Plant/Index responded 200 in 252.5662 ms
+2024-04-12 15:59:10.423 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/css/StyleNew/StyleNew.css - - - 404 0 - 65.3876ms
+2024-04-12 15:59:10.447 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Plant/Index - - - 200 - text/html;+charset=utf-8 347.5430ms
+2024-04-12 15:59:10.461 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 105.0655ms

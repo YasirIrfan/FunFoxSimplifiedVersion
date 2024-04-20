@@ -1,0 +1,930 @@
+2024-02-02 22:43:41.705 +05:00 [INF] User profile is available. Using 'C:\Users\HP\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-02-02 22:43:42.643 +05:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'PlantMaterial'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2024-02-02 22:43:42.802 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-02-02 22:44:00.350 +05:00 [ERR] A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+Microsoft.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+ ---> System.ComponentModel.Win32Exception (2): The system cannot find the file specified.
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, Boolean withFailover, SqlAuthenticationMethod authType)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerDatabaseCreator.<>c__DisplayClass18_0.<Exists>b__0(DateTime giveUp)
+   at Microsoft.EntityFrameworkCore.ExecutionStrategyExtensions.<>c__DisplayClass12_0`2.<Execute>b__0(DbContext c, TState s)
+   at Microsoft.EntityFrameworkCore.Storage.ExecutionStrategy.<>c__DisplayClass31_0`2.<Execute>b__0(DbContext context, TState state)
+   at Microsoft.EntityFrameworkCore.Storage.ExecutionStrategy.ExecuteImplementation[TState,TResult](Func`3 operation, Func`3 verifySucceeded, TState state)
+   at Microsoft.EntityFrameworkCore.Storage.ExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ExecutionStrategyExtensions.Execute[TState,TResult](IExecutionStrategy strategy, TState state, Func`2 operation, Func`2 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Migrations.HistoryRepository.Exists()
+   at Microsoft.EntityFrameworkCore.Migrations.HistoryRepository.GetAppliedMigrations()
+   at Microsoft.EntityFrameworkCore.RelationalDatabaseFacadeExtensions.GetAppliedMigrations(DatabaseFacade databaseFacade)
+   at Microsoft.EntityFrameworkCore.RelationalDatabaseFacadeExtensions.GetPendingMigrations(DatabaseFacade databaseFacade)
+   at FunFox.PortalSystem.Infrastructure.Seeders.MainSeeder.Seed(IHost host) in C:\Users\HP\Desktop\proposal-management\FunFox.PortalSystem.Infrastructure\Seeders\MainSeeder.cs:line 15
+   at Program.<Main>$(String[] args) in C:\Users\HP\Desktop\proposal-management\FunFox.PortalSystem\Program.cs:line 100
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:2,State:0,Class:20
+2024-02-02 22:47:21.399 +05:00 [INF] User profile is available. Using 'C:\Users\HP\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-02-02 22:47:22.109 +05:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'PlantMaterial'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2024-02-02 22:47:22.234 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-02-02 22:47:22.555 +05:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'PlantMaterial'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2024-02-02 22:47:22.742 +05:00 [INF] Executed DbCommand (129ms) [Parameters=[], CommandType='"Text"', CommandTimeout='60']
+CREATE DATABASE [Greenery];
+2024-02-02 22:47:22.795 +05:00 [INF] Executed DbCommand (44ms) [Parameters=[], CommandType='"Text"', CommandTimeout='60']
+IF SERVERPROPERTY('EngineEdition') <> 5
+BEGIN
+    ALTER DATABASE [Greenery] SET READ_COMMITTED_SNAPSHOT ON;
+END;
+2024-02-02 22:47:22.826 +05:00 [INF] Executed DbCommand (8ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2024-02-02 22:47:22.912 +05:00 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [__EFMigrationsHistory] (
+    [MigrationId] nvarchar(150) NOT NULL,
+    [ProductVersion] nvarchar(32) NOT NULL,
+    CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+);
+2024-02-02 22:47:22.916 +05:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2024-02-02 22:47:22.944 +05:00 [INF] Executed DbCommand (18ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2024-02-02 22:47:22.962 +05:00 [INF] Executed DbCommand (11ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2024-02-02 22:47:22.978 +05:00 [INF] Applying migration '20220920200840_Initial Migration'.
+2024-02-02 22:47:23.032 +05:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AllPlants] (
+    [Id] int NOT NULL IDENTITY,
+    [LatinName] nvarchar(max) NOT NULL,
+    [CommonName] nvarchar(max) NOT NULL,
+    [Category] nvarchar(max) NOT NULL,
+    [Code] nvarchar(max) NOT NULL,
+    [ImportedOn] datetime2 NOT NULL,
+    CONSTRAINT [PK_AllPlants] PRIMARY KEY ([Id])
+);
+2024-02-02 22:47:23.037 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetRoles] (
+    [Id] nvarchar(450) NOT NULL,
+    [Name] nvarchar(256) NULL,
+    [NormalizedName] nvarchar(256) NULL,
+    [ConcurrencyStamp] nvarchar(max) NULL,
+    CONSTRAINT [PK_AspNetRoles] PRIMARY KEY ([Id])
+);
+2024-02-02 22:47:23.041 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetUsers] (
+    [Id] nvarchar(450) NOT NULL,
+    [UserName] nvarchar(256) NULL,
+    [NormalizedUserName] nvarchar(256) NULL,
+    [Email] nvarchar(256) NULL,
+    [NormalizedEmail] nvarchar(256) NULL,
+    [EmailConfirmed] bit NOT NULL,
+    [PasswordHash] nvarchar(max) NULL,
+    [SecurityStamp] nvarchar(max) NULL,
+    [ConcurrencyStamp] nvarchar(max) NULL,
+    [PhoneNumber] nvarchar(max) NULL,
+    [PhoneNumberConfirmed] bit NOT NULL,
+    [TwoFactorEnabled] bit NOT NULL,
+    [LockoutEnd] datetimeoffset NULL,
+    [LockoutEnabled] bit NOT NULL,
+    [AccessFailedCount] int NOT NULL,
+    CONSTRAINT [PK_AspNetUsers] PRIMARY KEY ([Id])
+);
+2024-02-02 22:47:23.045 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [PlantMaterials] (
+    [Id] int NOT NULL IDENTITY,
+    [PlantId] int NOT NULL,
+    [LatinName] nvarchar(max) NOT NULL,
+    [CommonName] nvarchar(max) NOT NULL,
+    [Category] nvarchar(max) NOT NULL,
+    [Code] nvarchar(max) NOT NULL,
+    [DisplayName] nvarchar(max) NOT NULL,
+    [Size] nvarchar(10) NOT NULL,
+    [Price] decimal(18,2) NOT NULL,
+    [Margin] int NOT NULL,
+    [Scope] nvarchar(50) NOT NULL,
+    [PriceAsOf] datetime2 NOT NULL,
+    [ModifiedOn] datetime2 NOT NULL,
+    CONSTRAINT [PK_PlantMaterials] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_PlantMaterials_AllPlants_PlantId] FOREIGN KEY ([PlantId]) REFERENCES [AllPlants] ([Id]) ON DELETE CASCADE
+);
+2024-02-02 22:47:23.048 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetRoleClaims] (
+    [Id] int NOT NULL IDENTITY,
+    [RoleId] nvarchar(450) NOT NULL,
+    [ClaimType] nvarchar(max) NULL,
+    [ClaimValue] nvarchar(max) NULL,
+    CONSTRAINT [PK_AspNetRoleClaims] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_AspNetRoleClaims_AspNetRoles_RoleId] FOREIGN KEY ([RoleId]) REFERENCES [AspNetRoles] ([Id]) ON DELETE CASCADE
+);
+2024-02-02 22:47:23.051 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetUserClaims] (
+    [Id] int NOT NULL IDENTITY,
+    [UserId] nvarchar(450) NOT NULL,
+    [ClaimType] nvarchar(max) NULL,
+    [ClaimValue] nvarchar(max) NULL,
+    CONSTRAINT [PK_AspNetUserClaims] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_AspNetUserClaims_AspNetUsers_UserId] FOREIGN KEY ([UserId]) REFERENCES [AspNetUsers] ([Id]) ON DELETE CASCADE
+);
+2024-02-02 22:47:23.055 +05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetUserLogins] (
+    [LoginProvider] nvarchar(128) NOT NULL,
+    [ProviderKey] nvarchar(128) NOT NULL,
+    [ProviderDisplayName] nvarchar(max) NULL,
+    [UserId] nvarchar(450) NOT NULL,
+    CONSTRAINT [PK_AspNetUserLogins] PRIMARY KEY ([LoginProvider], [ProviderKey]),
+    CONSTRAINT [FK_AspNetUserLogins_AspNetUsers_UserId] FOREIGN KEY ([UserId]) REFERENCES [AspNetUsers] ([Id]) ON DELETE CASCADE
+);
+2024-02-02 22:47:23.061 +05:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetUserRoles] (
+    [UserId] nvarchar(450) NOT NULL,
+    [RoleId] nvarchar(450) NOT NULL,
+    CONSTRAINT [PK_AspNetUserRoles] PRIMARY KEY ([UserId], [RoleId]),
+    CONSTRAINT [FK_AspNetUserRoles_AspNetRoles_RoleId] FOREIGN KEY ([RoleId]) REFERENCES [AspNetRoles] ([Id]) ON DELETE CASCADE,
+    CONSTRAINT [FK_AspNetUserRoles_AspNetUsers_UserId] FOREIGN KEY ([UserId]) REFERENCES [AspNetUsers] ([Id]) ON DELETE CASCADE
+);
+2024-02-02 22:47:23.065 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [AspNetUserTokens] (
+    [UserId] nvarchar(450) NOT NULL,
+    [LoginProvider] nvarchar(128) NOT NULL,
+    [Name] nvarchar(128) NOT NULL,
+    [Value] nvarchar(max) NULL,
+    CONSTRAINT [PK_AspNetUserTokens] PRIMARY KEY ([UserId], [LoginProvider], [Name]),
+    CONSTRAINT [FK_AspNetUserTokens_AspNetUsers_UserId] FOREIGN KEY ([UserId]) REFERENCES [AspNetUsers] ([Id]) ON DELETE CASCADE
+);
+2024-02-02 22:47:23.069 +05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_AspNetRoleClaims_RoleId] ON [AspNetRoleClaims] ([RoleId]);
+2024-02-02 22:47:23.073 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE UNIQUE INDEX [RoleNameIndex] ON [AspNetRoles] ([NormalizedName]) WHERE [NormalizedName] IS NOT NULL;
+2024-02-02 22:47:23.076 +05:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_AspNetUserClaims_UserId] ON [AspNetUserClaims] ([UserId]);
+2024-02-02 22:47:23.078 +05:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_AspNetUserLogins_UserId] ON [AspNetUserLogins] ([UserId]);
+2024-02-02 22:47:23.081 +05:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_AspNetUserRoles_RoleId] ON [AspNetUserRoles] ([RoleId]);
+2024-02-02 22:47:23.084 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [EmailIndex] ON [AspNetUsers] ([NormalizedEmail]);
+2024-02-02 22:47:23.088 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE UNIQUE INDEX [UserNameIndex] ON [AspNetUsers] ([NormalizedUserName]) WHERE [NormalizedUserName] IS NOT NULL;
+2024-02-02 22:47:23.091 +05:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_PlantMaterials_PlantId] ON [PlantMaterials] ([PlantId]);
+2024-02-02 22:47:23.095 +05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20220920200840_Initial Migration', N'6.0.9');
+2024-02-02 22:47:23.107 +05:00 [INF] Applying migration '20220920201119_User included in the DbContext'.
+2024-02-02 22:47:23.122 +05:00 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+ALTER TABLE [AspNetUsers] ADD [FirstName] nvarchar(max) NOT NULL DEFAULT N'';
+2024-02-02 22:47:23.125 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+ALTER TABLE [AspNetUsers] ADD [LastName] nvarchar(max) NOT NULL DEFAULT N'';
+2024-02-02 22:47:23.127 +05:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20220920201119_User included in the DbContext', N'6.0.9');
+2024-02-02 22:47:23.144 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-02-02 22:47:23.534 +05:00 [INF] Executed DbCommand (41ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0
+2024-02-02 22:47:23.578 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0
+2024-02-02 22:47:23.703 +05:00 [INF] Executed DbCommand (4ms) [Parameters=[@p0='?' (Size = 450), @p1='?' (Size = 4000), @p2='?' (Size = 256), @p3='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [AspNetRoles] ([Id], [ConcurrencyStamp], [Name], [NormalizedName])
+VALUES (@p0, @p1, @p2, @p3);
+2024-02-02 22:47:23.741 +05:00 [INF] Executed DbCommand (7ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0
+2024-02-02 22:47:23.746 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0
+2024-02-02 22:47:23.753 +05:00 [INF] Executed DbCommand (0ms) [Parameters=[@p0='?' (Size = 450), @p1='?' (Size = 4000), @p2='?' (Size = 256), @p3='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [AspNetRoles] ([Id], [ConcurrencyStamp], [Name], [NormalizedName])
+VALUES (@p0, @p1, @p2, @p3);
+2024-02-02 22:47:23.770 +05:00 [INF] Executed DbCommand (3ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2024-02-02 22:47:23.836 +05:00 [INF] Executed DbCommand (2ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-02-02 22:47:23.883 +05:00 [INF] Executed DbCommand (3ms) [Parameters=[@p0='?' (Size = 450), @p1='?' (DbType = Int32), @p2='?' (Size = 4000), @p3='?' (Size = 256), @p4='?' (DbType = Boolean), @p5='?' (Size = 4000), @p6='?' (Size = 4000), @p7='?' (DbType = Boolean), @p8='?' (DbType = DateTimeOffset), @p9='?' (Size = 256), @p10='?' (Size = 256), @p11='?' (Size = 4000), @p12='?' (Size = 4000), @p13='?' (DbType = Boolean), @p14='?' (Size = 4000), @p15='?' (DbType = Boolean), @p16='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [AspNetUsers] ([Id], [AccessFailedCount], [ConcurrencyStamp], [Email], [EmailConfirmed], [FirstName], [LastName], [LockoutEnabled], [LockoutEnd], [NormalizedEmail], [NormalizedUserName], [PasswordHash], [PhoneNumber], [PhoneNumberConfirmed], [SecurityStamp], [TwoFactorEnabled], [UserName])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10, @p11, @p12, @p13, @p14, @p15, @p16);
+2024-02-02 22:47:23.895 +05:00 [INF] Executed DbCommand (3ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2024-02-02 22:47:23.954 +05:00 [INF] Executed DbCommand (5ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-02-02 22:47:23.981 +05:00 [INF] Executed DbCommand (9ms) [Parameters=[@p16='?' (Size = 450), @p0='?' (DbType = Int32), @p1='?' (Size = 4000), @p17='?' (Size = 4000), @p2='?' (Size = 256), @p3='?' (DbType = Boolean), @p4='?' (Size = 4000), @p5='?' (Size = 4000), @p6='?' (DbType = Boolean), @p7='?' (DbType = DateTimeOffset), @p8='?' (Size = 256), @p9='?' (Size = 256), @p10='?' (Size = 4000), @p11='?' (Size = 4000), @p12='?' (DbType = Boolean), @p13='?' (Size = 4000), @p14='?' (DbType = Boolean), @p15='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [AspNetUsers] SET [AccessFailedCount] = @p0, [ConcurrencyStamp] = @p1, [Email] = @p2, [EmailConfirmed] = @p3, [FirstName] = @p4, [LastName] = @p5, [LockoutEnabled] = @p6, [LockoutEnd] = @p7, [NormalizedEmail] = @p8, [NormalizedUserName] = @p9, [PasswordHash] = @p10, [PhoneNumber] = @p11, [PhoneNumberConfirmed] = @p12, [SecurityStamp] = @p13, [TwoFactorEnabled] = @p14, [UserName] = @p15
+WHERE [Id] = @p16 AND [ConcurrencyStamp] = @p17;
+SELECT @@ROWCOUNT;
+2024-02-02 22:47:23.999 +05:00 [INF] Executed DbCommand (2ms) [Parameters=[@__normalizedRoleName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedRoleName_0
+2024-02-02 22:47:24.031 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__p_0='?' (Size = 450), @__p_1='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[UserId], [a].[RoleId]
+FROM [AspNetUserRoles] AS [a]
+WHERE ([a].[UserId] = @__p_0) AND ([a].[RoleId] = @__p_1)
+2024-02-02 22:47:24.042 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedRoleName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedRoleName_0
+2024-02-02 22:47:24.058 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-02-02 22:47:24.070 +05:00 [INF] Executed DbCommand (2ms) [Parameters=[@p0='?' (Size = 450), @p1='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [AspNetUserRoles] ([RoleId], [UserId])
+VALUES (@p0, @p1);
+2024-02-02 22:47:24.075 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@p16='?' (Size = 450), @p0='?' (DbType = Int32), @p1='?' (Size = 4000), @p17='?' (Size = 4000), @p2='?' (Size = 256), @p3='?' (DbType = Boolean), @p4='?' (Size = 4000), @p5='?' (Size = 4000), @p6='?' (DbType = Boolean), @p7='?' (DbType = DateTimeOffset), @p8='?' (Size = 256), @p9='?' (Size = 256), @p10='?' (Size = 4000), @p11='?' (Size = 4000), @p12='?' (DbType = Boolean), @p13='?' (Size = 4000), @p14='?' (DbType = Boolean), @p15='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [AspNetUsers] SET [AccessFailedCount] = @p0, [ConcurrencyStamp] = @p1, [Email] = @p2, [EmailConfirmed] = @p3, [FirstName] = @p4, [LastName] = @p5, [LockoutEnabled] = @p6, [LockoutEnd] = @p7, [NormalizedEmail] = @p8, [NormalizedUserName] = @p9, [PasswordHash] = @p10, [PhoneNumber] = @p11, [PhoneNumberConfirmed] = @p12, [SecurityStamp] = @p13, [TwoFactorEnabled] = @p14, [UserName] = @p15
+WHERE [Id] = @p16 AND [ConcurrencyStamp] = @p17;
+SELECT @@ROWCOUNT;
+2024-02-02 22:47:24.080 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2024-02-02 22:47:24.086 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-02-02 22:47:24.093 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@p0='?' (Size = 450), @p1='?' (DbType = Int32), @p2='?' (Size = 4000), @p3='?' (Size = 256), @p4='?' (DbType = Boolean), @p5='?' (Size = 4000), @p6='?' (Size = 4000), @p7='?' (DbType = Boolean), @p8='?' (DbType = DateTimeOffset), @p9='?' (Size = 256), @p10='?' (Size = 256), @p11='?' (Size = 4000), @p12='?' (Size = 4000), @p13='?' (DbType = Boolean), @p14='?' (Size = 4000), @p15='?' (DbType = Boolean), @p16='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [AspNetUsers] ([Id], [AccessFailedCount], [ConcurrencyStamp], [Email], [EmailConfirmed], [FirstName], [LastName], [LockoutEnabled], [LockoutEnd], [NormalizedEmail], [NormalizedUserName], [PasswordHash], [PhoneNumber], [PhoneNumberConfirmed], [SecurityStamp], [TwoFactorEnabled], [UserName])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10, @p11, @p12, @p13, @p14, @p15, @p16);
+2024-02-02 22:47:24.098 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2024-02-02 22:47:24.102 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-02-02 22:47:24.106 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@p16='?' (Size = 450), @p0='?' (DbType = Int32), @p1='?' (Size = 4000), @p17='?' (Size = 4000), @p2='?' (Size = 256), @p3='?' (DbType = Boolean), @p4='?' (Size = 4000), @p5='?' (Size = 4000), @p6='?' (DbType = Boolean), @p7='?' (DbType = DateTimeOffset), @p8='?' (Size = 256), @p9='?' (Size = 256), @p10='?' (Size = 4000), @p11='?' (Size = 4000), @p12='?' (DbType = Boolean), @p13='?' (Size = 4000), @p14='?' (DbType = Boolean), @p15='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [AspNetUsers] SET [AccessFailedCount] = @p0, [ConcurrencyStamp] = @p1, [Email] = @p2, [EmailConfirmed] = @p3, [FirstName] = @p4, [LastName] = @p5, [LockoutEnabled] = @p6, [LockoutEnd] = @p7, [NormalizedEmail] = @p8, [NormalizedUserName] = @p9, [PasswordHash] = @p10, [PhoneNumber] = @p11, [PhoneNumberConfirmed] = @p12, [SecurityStamp] = @p13, [TwoFactorEnabled] = @p14, [UserName] = @p15
+WHERE [Id] = @p16 AND [ConcurrencyStamp] = @p17;
+SELECT @@ROWCOUNT;
+2024-02-02 22:47:24.110 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedRoleName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedRoleName_0
+2024-02-02 22:47:24.130 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__p_0='?' (Size = 450), @__p_1='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[UserId], [a].[RoleId]
+FROM [AspNetUserRoles] AS [a]
+WHERE ([a].[UserId] = @__p_0) AND ([a].[RoleId] = @__p_1)
+2024-02-02 22:47:24.133 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedRoleName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedRoleName_0
+2024-02-02 22:47:24.138 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-02-02 22:47:24.141 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@p0='?' (Size = 450), @p1='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [AspNetUserRoles] ([RoleId], [UserId])
+VALUES (@p0, @p1);
+2024-02-02 22:47:24.144 +05:00 [INF] Executed DbCommand (0ms) [Parameters=[@p16='?' (Size = 450), @p0='?' (DbType = Int32), @p1='?' (Size = 4000), @p17='?' (Size = 4000), @p2='?' (Size = 256), @p3='?' (DbType = Boolean), @p4='?' (Size = 4000), @p5='?' (Size = 4000), @p6='?' (DbType = Boolean), @p7='?' (DbType = DateTimeOffset), @p8='?' (Size = 256), @p9='?' (Size = 256), @p10='?' (Size = 4000), @p11='?' (Size = 4000), @p12='?' (DbType = Boolean), @p13='?' (Size = 4000), @p14='?' (DbType = Boolean), @p15='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [AspNetUsers] SET [AccessFailedCount] = @p0, [ConcurrencyStamp] = @p1, [Email] = @p2, [EmailConfirmed] = @p3, [FirstName] = @p4, [LastName] = @p5, [LockoutEnabled] = @p6, [LockoutEnd] = @p7, [NormalizedEmail] = @p8, [NormalizedUserName] = @p9, [PasswordHash] = @p10, [PhoneNumber] = @p11, [PhoneNumberConfirmed] = @p12, [SecurityStamp] = @p13, [TwoFactorEnabled] = @p14, [UserName] = @p15
+WHERE [Id] = @p16 AND [ConcurrencyStamp] = @p17;
+SELECT @@ROWCOUNT;
+2024-02-02 22:47:24.177 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-02-02 22:47:24.195 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[Id], [a].[Category], [a].[Code], [a].[CommonName], [a].[ImportedOn], [a].[LatinName]
+FROM [AllPlants] AS [a]
+2024-02-02 22:47:24.259 +05:00 [INF] Executed DbCommand (13ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (Size = 4000), @p2='?' (Size = 4000), @p3='?' (DbType = DateTime2), @p4='?' (Size = 4000), @p5='?' (Size = 4000), @p6='?' (Size = 4000), @p7='?' (Size = 4000), @p8='?' (DbType = DateTime2), @p9='?' (Size = 4000), @p10='?' (Size = 4000), @p11='?' (Size = 4000), @p12='?' (Size = 4000), @p13='?' (DbType = DateTime2), @p14='?' (Size = 4000), @p15='?' (Size = 4000), @p16='?' (Size = 4000), @p17='?' (Size = 4000), @p18='?' (DbType = DateTime2), @p19='?' (Size = 4000), @p20='?' (Size = 4000), @p21='?' (Size = 4000), @p22='?' (Size = 4000), @p23='?' (DbType = DateTime2), @p24='?' (Size = 4000), @p25='?' (Size = 4000), @p26='?' (Size = 4000), @p27='?' (Size = 4000), @p28='?' (DbType = DateTime2), @p29='?' (Size = 4000), @p30='?' (Size = 4000), @p31='?' (Size = 4000), @p32='?' (Size = 4000), @p33='?' (DbType = DateTime2), @p34='?' (Size = 4000), @p35='?' (Size = 4000), @p36='?' (Size = 4000), @p37='?' (Size = 4000), @p38='?' (DbType = DateTime2), @p39='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+DECLARE @inserted0 TABLE ([Id] int, [_Position] [int]);
+MERGE [AllPlants] USING (
+VALUES (@p0, @p1, @p2, @p3, @p4, 0),
+(@p5, @p6, @p7, @p8, @p9, 1),
+(@p10, @p11, @p12, @p13, @p14, 2),
+(@p15, @p16, @p17, @p18, @p19, 3),
+(@p20, @p21, @p22, @p23, @p24, 4),
+(@p25, @p26, @p27, @p28, @p29, 5),
+(@p30, @p31, @p32, @p33, @p34, 6),
+(@p35, @p36, @p37, @p38, @p39, 7)) AS i ([Category], [Code], [CommonName], [ImportedOn], [LatinName], _Position) ON 1=0
+WHEN NOT MATCHED THEN
+INSERT ([Category], [Code], [CommonName], [ImportedOn], [LatinName])
+VALUES (i.[Category], i.[Code], i.[CommonName], i.[ImportedOn], i.[LatinName])
+OUTPUT INSERTED.[Id], i._Position
+INTO @inserted0;
+
+SELECT [i].[Id] FROM @inserted0 i
+ORDER BY [i].[_Position];
+2024-02-02 22:47:24.409 +05:00 [INF] Now listening on: https://localhost:7154
+2024-02-02 22:47:24.414 +05:00 [INF] Now listening on: http://localhost:5204
+2024-02-02 22:47:24.418 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-02-02 22:47:24.420 +05:00 [INF] Hosting environment: Development
+2024-02-02 22:47:24.421 +05:00 [INF] Content root path: C:\Users\HP\Desktop\proposal-management\FunFox.PortalSystem\
+2024-02-02 22:47:25.859 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/ - -
+2024-02-02 22:47:26.128 +05:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-02-02 22:47:26.136 +05:00 [INF] AuthenticationScheme: Identity.Application was challenged.
+2024-02-02 22:47:26.140 +05:00 [INF] HTTP GET / responded 302 in 42.6137 ms
+2024-02-02 22:47:26.149 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/ - - - 302 0 - 291.8771ms
+2024-02-02 22:47:26.156 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Account/Login?ReturnUrl=%2F - -
+2024-02-02 22:47:26.165 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.AccountController.Login (FunFox.PortalSystem)'
+2024-02-02 22:47:26.182 +05:00 [INF] Route matched with {action = "Login", controller = "Account", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(System.String) on controller FunFox.PortalSystem.Controllers.AccountController (FunFox.PortalSystem).
+2024-02-02 22:47:26.204 +05:00 [INF] Executing ViewResult, running view Login.
+2024-02-02 22:47:26.297 +05:00 [INF] Executed ViewResult - view Login executed in 92.7157ms.
+2024-02-02 22:47:26.302 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/css/style.css?v=46ORBesdec5GfSfFrQJoJ10AldDMS3I7Pb_OsHk0e84 - -
+2024-02-02 22:47:26.302 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - -
+2024-02-02 22:47:26.304 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.AccountController.Login (FunFox.PortalSystem) in 117.8474ms
+2024-02-02 22:47:26.309 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_vs/browserLink - -
+2024-02-02 22:47:26.313 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.AccountController.Login (FunFox.PortalSystem)'
+2024-02-02 22:47:26.316 +05:00 [INF] HTTP GET /Account/Login responded 200 in 156.7587 ms
+2024-02-02 22:47:26.319 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - - - 200 13794 application/javascript;+charset=utf-8 16.3113ms
+2024-02-02 22:47:26.323 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Account/Login?ReturnUrl=%2F - - - 200 - text/html;+charset=utf-8 167.3996ms
+2024-02-02 22:47:26.341 +05:00 [INF] Sending file. Request path: '/css/style.css'. Physical path: 'C:\Users\HP\Desktop\proposal-management\FunFox.PortalSystem\wwwroot\css\style.css'
+2024-02-02 22:47:26.344 +05:00 [INF] HTTP GET /css/style.css responded 200 in 35.0420 ms
+2024-02-02 22:47:26.348 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/css/style.css?v=46ORBesdec5GfSfFrQJoJ10AldDMS3I7Pb_OsHk0e84 - - - 200 208034 text/css 45.9265ms
+2024-02-02 22:47:26.381 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 72.2478ms
+2024-02-02 22:47:26.422 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/favicon.ico - -
+2024-02-02 22:47:26.429 +05:00 [INF] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\HP\Desktop\proposal-management\FunFox.PortalSystem\wwwroot\favicon.ico'
+2024-02-02 22:47:26.431 +05:00 [INF] HTTP GET /favicon.ico responded 200 in 7.9236 ms
+2024-02-02 22:47:26.434 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/favicon.ico - - - 200 5430 image/x-icon 12.8238ms
+2024-02-02 22:49:56.870 +05:00 [INF] Request starting HTTP/2 POST https://localhost:7154/Account/Login?returnurl=%2F application/x-www-form-urlencoded 227
+2024-02-02 22:49:56.891 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.AccountController.Login (FunFox.PortalSystem)'
+2024-02-02 22:49:56.899 +05:00 [INF] Route matched with {action = "Login", controller = "Account", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(FunFox.PortalSystem.Domain.ViewModels.Accounts.LoginViewModel, System.String) on controller FunFox.PortalSystem.Controllers.AccountController (FunFox.PortalSystem).
+2024-02-02 22:49:56.925 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-02-02 22:49:56.933 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-02-02 22:49:57.028 +05:00 [INF] Executed DbCommand (2ms) [Parameters=[@__user_Id_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[Id], [a].[ClaimType], [a].[ClaimValue], [a].[UserId]
+FROM [AspNetUserClaims] AS [a]
+WHERE [a].[UserId] = @__user_Id_0
+2024-02-02 22:49:57.099 +05:00 [INF] Executed DbCommand (6ms) [Parameters=[@__userId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0
+2024-02-02 22:49:57.110 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0
+2024-02-02 22:49:57.129 +05:00 [INF] Executed DbCommand (2ms) [Parameters=[@__role_Id_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[ClaimType], [a].[ClaimValue]
+FROM [AspNetRoleClaims] AS [a]
+WHERE [a].[RoleId] = @__role_Id_0
+2024-02-02 22:49:57.149 +05:00 [INF] AuthenticationScheme: Identity.Application signed in.
+2024-02-02 22:49:57.155 +05:00 [INF] User logged in.
+2024-02-02 22:49:57.161 +05:00 [INF] Executing LocalRedirectResult, redirecting to /.
+2024-02-02 22:49:57.164 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.AccountController.Login (FunFox.PortalSystem) in 261.4886ms
+2024-02-02 22:49:57.167 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.AccountController.Login (FunFox.PortalSystem)'
+2024-02-02 22:49:57.170 +05:00 [INF] HTTP POST /Account/Login responded 302 in 282.7553 ms
+2024-02-02 22:49:57.172 +05:00 [INF] Request finished HTTP/2 POST https://localhost:7154/Account/Login?returnurl=%2F application/x-www-form-urlencoded 227 - 302 0 - 304.1558ms
+2024-02-02 22:49:57.174 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/ - -
+2024-02-02 22:49:57.180 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.DashboardsController.Dashboard_1 (FunFox.PortalSystem)'
+2024-02-02 22:49:57.183 +05:00 [INF] Route matched with {action = "Dashboard_1", controller = "Dashboards", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Dashboard_1() on controller FunFox.PortalSystem.Controllers.DashboardsController (FunFox.PortalSystem).
+2024-02-02 22:49:57.186 +05:00 [INF] Executing ViewResult, running view Dashboard_1.
+2024-02-02 22:49:57.235 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-02-02 22:49:57.241 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-02-02 22:49:57.384 +05:00 [INF] Executed ViewResult - view Dashboard_1 executed in 198.4101ms.
+2024-02-02 22:49:57.391 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.DashboardsController.Dashboard_1 (FunFox.PortalSystem) in 205.7419ms
+2024-02-02 22:49:57.399 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.DashboardsController.Dashboard_1 (FunFox.PortalSystem)'
+2024-02-02 22:49:57.403 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/css/StyleNew.css - -
+2024-02-02 22:49:57.406 +05:00 [INF] HTTP GET / responded 200 in 229.2370 ms
+2024-02-02 22:49:57.419 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/pace/pace.js - -
+2024-02-02 22:49:57.432 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - -
+2024-02-02 22:49:57.437 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/ - - - 200 - text/html;+charset=utf-8 262.5605ms
+2024-02-02 22:49:57.420 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/js/Layout.js - -
+2024-02-02 22:49:57.430 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_vs/browserLink - -
+2024-02-02 22:49:57.442 +05:00 [INF] Sending file. Request path: '/css/StyleNew.css'. Physical path: 'C:\Users\HP\Desktop\proposal-management\FunFox.PortalSystem\wwwroot\css\StyleNew.css'
+2024-02-02 22:49:57.444 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - - - 200 13794 application/javascript;+charset=utf-8 12.2213ms
+2024-02-02 22:49:57.449 +05:00 [INF] HTTP GET /css/StyleNew.css responded 200 in 29.4519 ms
+2024-02-02 22:49:57.455 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/css/StyleNew.css - - - 200 1599 text/css 51.6758ms
+2024-02-02 22:49:57.467 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 37.4834ms
+2024-02-02 22:49:57.474 +05:00 [INF] Sending file. Request path: '/js/Layout.js'. Physical path: 'C:\Users\HP\Desktop\proposal-management\FunFox.PortalSystem\wwwroot\js\Layout.js'
+2024-02-02 22:49:57.475 +05:00 [INF] Sending file. Request path: '/lib/pace/pace.js'. Physical path: 'C:\Users\HP\Desktop\proposal-management\FunFox.PortalSystem\wwwroot\lib\pace\pace.js'
+2024-02-02 22:49:57.480 +05:00 [INF] HTTP GET /js/Layout.js responded 200 in 32.9455 ms
+2024-02-02 22:49:57.482 +05:00 [INF] HTTP GET /lib/pace/pace.js responded 200 in 40.1816 ms
+2024-02-02 22:49:57.485 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/js/Layout.js - - - 200 729 application/javascript 64.6257ms
+2024-02-02 22:49:57.487 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/pace/pace.js - - - 200 27501 application/javascript 67.9752ms
+2024-02-02 22:50:09.188 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Plant/Index - -
+2024-02-02 22:50:09.195 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.PlantController.Index (FunFox.PortalSystem)'
+2024-02-02 22:50:09.201 +05:00 [INF] Route matched with {action = "Index", controller = "Plant", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] Index() on controller FunFox.PortalSystem.Controllers.PlantController (FunFox.PortalSystem).
+2024-02-02 22:50:14.196 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-02-02 22:50:14.211 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[Id], [a].[Category], [a].[Code], [a].[CommonName], [a].[ImportedOn], [a].[LatinName]
+FROM [AllPlants] AS [a]
+2024-02-02 22:50:14.256 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[Id], [a].[Category], [a].[Code], [a].[CommonName], [a].[ImportedOn], [a].[LatinName]
+FROM [AllPlants] AS [a]
+2024-02-02 22:50:14.274 +05:00 [INF] Executing ViewResult, running view Index.
+2024-02-02 22:50:14.326 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-02-02 22:50:14.343 +05:00 [INF] Executed ViewResult - view Index executed in 68.9142ms.
+2024-02-02 22:50:14.347 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.PlantController.Index (FunFox.PortalSystem) in 5142.5455ms
+2024-02-02 22:50:14.350 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.PlantController.Index (FunFox.PortalSystem)'
+2024-02-02 22:50:14.353 +05:00 [INF] HTTP GET /Plant/Index responded 200 in 5159.0343 ms
+2024-02-02 22:50:14.358 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Plant/Index - - - 200 - text/html;+charset=utf-8 5170.7137ms
+2024-02-02 22:50:14.373 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/css/StyleNew/StyleNew.css - -
+2024-02-02 22:50:14.374 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/blueimp-gallery/js/popper.min.js - -
+2024-02-02 22:50:14.374 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/js/plant/plant.js - -
+2024-02-02 22:50:14.395 +05:00 [INF] HTTP GET /css/StyleNew/StyleNew.css responded 404 in 16.2279 ms
+2024-02-02 22:50:14.399 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/css/StyleNew/StyleNew.css - - - 404 0 - 26.2532ms
+2024-02-02 22:50:14.403 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - -
+2024-02-02 22:50:14.405 +05:00 [INF] Sending file. Request path: '/js/plant/plant.js'. Physical path: 'C:\Users\HP\Desktop\proposal-management\FunFox.PortalSystem\wwwroot\js\plant\plant.js'
+2024-02-02 22:50:14.408 +05:00 [INF] Sending file. Request path: '/lib/blueimp-gallery/js/popper.min.js'. Physical path: 'C:\Users\HP\Desktop\proposal-management\FunFox.PortalSystem\wwwroot\lib\blueimp-gallery\js\popper.min.js'
+2024-02-02 22:50:14.411 +05:00 [INF] HTTP GET /js/plant/plant.js responded 200 in 31.2564 ms
+2024-02-02 22:50:14.410 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - - - 200 13794 application/javascript;+charset=utf-8 6.9159ms
+2024-02-02 22:50:14.414 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_vs/browserLink - -
+2024-02-02 22:50:14.415 +05:00 [INF] HTTP GET /lib/blueimp-gallery/js/popper.min.js responded 200 in 35.2533 ms
+2024-02-02 22:50:14.417 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/js/plant/plant.js - - - 200 988 application/javascript 43.5326ms
+2024-02-02 22:50:14.421 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/blueimp-gallery/js/popper.min.js - - - 200 22824 application/javascript 47.4231ms
+2024-02-02 22:50:14.424 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 10.1281ms
+2024-02-02 22:50:35.861 +05:00 [INF] Request starting HTTP/2 POST https://localhost:7154/Plant/PlantsSearch application/x-www-form-urlencoded;+charset=UTF-8 71
+2024-02-02 22:50:35.867 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.PlantController.PlantsSearch (FunFox.PortalSystem)'
+2024-02-02 22:50:35.872 +05:00 [INF] Route matched with {action = "PlantsSearch", controller = "Plant", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] PlantsSearch(FunFox.PortalSystem.Domain.ViewModels.Plant.PlantSearchViewModel) on controller FunFox.PortalSystem.Controllers.PlantController (FunFox.PortalSystem).
+2024-02-02 22:50:35.880 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-02-02 22:50:35.899 +05:00 [INF] Executed DbCommand (5ms) [Parameters=[@__ToUpper_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[Id], [a].[Category], [a].[Code], [a].[CommonName], [a].[ImportedOn], [a].[LatinName]
+FROM [AllPlants] AS [a]
+WHERE UPPER([a].[Category]) = @__ToUpper_0
+2024-02-02 22:50:35.908 +05:00 [INF] Executing PartialViewResult, running view _PlantList.
+2024-02-02 22:50:35.913 +05:00 [INF] Executed PartialViewResult - view _PlantList executed in 5.2719ms.
+2024-02-02 22:50:35.916 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.PlantController.PlantsSearch (FunFox.PortalSystem) in 40.1218ms
+2024-02-02 22:50:35.919 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.PlantController.PlantsSearch (FunFox.PortalSystem)'
+2024-02-02 22:50:35.922 +05:00 [INF] HTTP POST /Plant/PlantsSearch responded 200 in 56.7572 ms
+2024-02-02 22:50:35.926 +05:00 [INF] Request finished HTTP/2 POST https://localhost:7154/Plant/PlantsSearch application/x-www-form-urlencoded;+charset=UTF-8 71 - 200 - text/html;+charset=utf-8 65.1724ms
+2024-02-02 22:50:40.046 +05:00 [INF] Request starting HTTP/2 POST https://localhost:7154/Plant/PlantsSearch application/x-www-form-urlencoded;+charset=UTF-8 71
+2024-02-02 22:50:40.052 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.PlantController.PlantsSearch (FunFox.PortalSystem)'
+2024-02-02 22:50:40.055 +05:00 [INF] Route matched with {action = "PlantsSearch", controller = "Plant", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] PlantsSearch(FunFox.PortalSystem.Domain.ViewModels.Plant.PlantSearchViewModel) on controller FunFox.PortalSystem.Controllers.PlantController (FunFox.PortalSystem).
+2024-02-02 22:50:40.063 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-02-02 22:50:40.067 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__ToUpper_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[Id], [a].[Category], [a].[Code], [a].[CommonName], [a].[ImportedOn], [a].[LatinName]
+FROM [AllPlants] AS [a]
+WHERE UPPER([a].[Category]) = @__ToUpper_0
+2024-02-02 22:50:40.072 +05:00 [INF] Executing PartialViewResult, running view _PlantList.
+2024-02-02 22:50:40.074 +05:00 [INF] Executed PartialViewResult - view _PlantList executed in 2.6202ms.
+2024-02-02 22:50:40.077 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.PlantController.PlantsSearch (FunFox.PortalSystem) in 16.3209ms
+2024-02-02 22:50:40.079 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.PlantController.PlantsSearch (FunFox.PortalSystem)'
+2024-02-02 22:50:40.081 +05:00 [INF] HTTP POST /Plant/PlantsSearch responded 200 in 30.0085 ms
+2024-02-02 22:50:40.084 +05:00 [INF] Request finished HTTP/2 POST https://localhost:7154/Plant/PlantsSearch application/x-www-form-urlencoded;+charset=UTF-8 71 - 200 - text/html;+charset=utf-8 37.6905ms
+2024-02-02 22:50:43.410 +05:00 [INF] Request starting HTTP/2 POST https://localhost:7154/Plant/PlantsSearch application/x-www-form-urlencoded;+charset=UTF-8 59
+2024-02-02 22:50:43.413 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.PlantController.PlantsSearch (FunFox.PortalSystem)'
+2024-02-02 22:50:43.417 +05:00 [INF] Route matched with {action = "PlantsSearch", controller = "Plant", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] PlantsSearch(FunFox.PortalSystem.Domain.ViewModels.Plant.PlantSearchViewModel) on controller FunFox.PortalSystem.Controllers.PlantController (FunFox.PortalSystem).
+2024-02-02 22:50:43.422 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-02-02 22:50:43.427 +05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[Id], [a].[Category], [a].[Code], [a].[CommonName], [a].[ImportedOn], [a].[LatinName]
+FROM [AllPlants] AS [a]
+2024-02-02 22:50:43.431 +05:00 [INF] Executing PartialViewResult, running view _PlantList.
+2024-02-02 22:50:43.434 +05:00 [INF] Executed PartialViewResult - view _PlantList executed in 2.8173ms.
+2024-02-02 22:50:43.436 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.PlantController.PlantsSearch (FunFox.PortalSystem) in 14.4096ms
+2024-02-02 22:50:43.437 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.PlantController.PlantsSearch (FunFox.PortalSystem)'
+2024-02-02 22:50:43.439 +05:00 [INF] HTTP POST /Plant/PlantsSearch responded 200 in 26.3323 ms
+2024-02-02 22:50:43.442 +05:00 [INF] Request finished HTTP/2 POST https://localhost:7154/Plant/PlantsSearch application/x-www-form-urlencoded;+charset=UTF-8 59 - 200 - text/html;+charset=utf-8 31.8246ms
+2024-02-02 22:50:57.443 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/ - -
+2024-02-02 22:50:57.448 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.DashboardsController.Dashboard_1 (FunFox.PortalSystem)'
+2024-02-02 22:50:57.452 +05:00 [INF] Route matched with {action = "Dashboard_1", controller = "Dashboards", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Dashboard_1() on controller FunFox.PortalSystem.Controllers.DashboardsController (FunFox.PortalSystem).
+2024-02-02 22:50:57.456 +05:00 [INF] Executing ViewResult, running view Dashboard_1.
+2024-02-02 22:50:57.461 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-02-02 22:50:57.470 +05:00 [INF] Executed DbCommand (4ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-02-02 22:50:57.483 +05:00 [INF] Executed ViewResult - view Dashboard_1 executed in 26.3696ms.
+2024-02-02 22:50:57.486 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.DashboardsController.Dashboard_1 (FunFox.PortalSystem) in 29.7099ms
+2024-02-02 22:50:57.488 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.DashboardsController.Dashboard_1 (FunFox.PortalSystem)'
+2024-02-02 22:50:57.491 +05:00 [INF] HTTP GET / responded 200 in 43.2663 ms
+2024-02-02 22:50:57.496 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/ - - - 200 - text/html;+charset=utf-8 52.7875ms
+2024-02-02 22:50:57.507 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - -
+2024-02-02 22:50:57.507 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_vs/browserLink - -
+2024-02-02 22:50:57.513 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - - - 200 13794 application/javascript;+charset=utf-8 6.9807ms
+2024-02-02 22:50:57.520 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 13.4837ms
+2024-02-02 22:51:11.863 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/Popper/popper.min.js.map - -
+2024-02-02 22:51:11.863 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/bootstrap/dist/js/bootstrap.js.map - -
+2024-02-02 22:51:11.866 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/dataTables/pdfmake.min.js.map - -
+2024-02-02 22:51:11.870 +05:00 [INF] HTTP GET /lib/Popper/popper.min.js.map responded 404 in 0.8162 ms
+2024-02-02 22:51:11.872 +05:00 [INF] HTTP GET /lib/dataTables/pdfmake.min.js.map responded 404 in 0.4312 ms
+2024-02-02 22:51:11.875 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/Popper/popper.min.js.map - - - 404 0 - 12.1050ms
+2024-02-02 22:51:11.878 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/dataTables/pdfmake.min.js.map - - - 404 0 - 11.7597ms
+2024-02-02 22:51:11.885 +05:00 [INF] Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.js.map'. Physical path: 'C:\Users\HP\Desktop\proposal-management\FunFox.PortalSystem\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map'
+2024-02-02 22:51:11.889 +05:00 [INF] HTTP GET /lib/bootstrap/dist/js/bootstrap.js.map responded 200 in 18.9367 ms
+2024-02-02 22:51:11.893 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/bootstrap/dist/js/bootstrap.js.map - - - 200 211967 text/plain 30.2384ms
+2024-02-02 23:05:23.417 +05:00 [INF] User profile is available. Using 'C:\Users\HP\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-02-02 23:05:24.306 +05:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'PlantMaterial'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2024-02-02 23:05:24.429 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-02-02 23:05:25.278 +05:00 [INF] Executed DbCommand (21ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2024-02-02 23:05:25.321 +05:00 [INF] Executed DbCommand (17ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2024-02-02 23:05:25.342 +05:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2024-02-02 23:05:25.359 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-02-02 23:05:25.760 +05:00 [INF] Executed DbCommand (62ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0
+2024-02-02 23:05:25.841 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0
+2024-02-02 23:05:25.856 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2024-02-02 23:05:25.889 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2024-02-02 23:05:25.931 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-02-02 23:05:25.946 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[Id], [a].[Category], [a].[Code], [a].[CommonName], [a].[ImportedOn], [a].[LatinName]
+FROM [AllPlants] AS [a]
+2024-02-02 23:05:26.099 +05:00 [INF] Now listening on: https://localhost:7154
+2024-02-02 23:05:26.102 +05:00 [INF] Now listening on: http://localhost:5204
+2024-02-02 23:05:26.107 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-02-02 23:05:26.109 +05:00 [INF] Hosting environment: Development
+2024-02-02 23:05:26.112 +05:00 [INF] Content root path: D:\PORTFOLIO\Running Portfolio\proposal-management\FunFox.PortalSystem\
+2024-02-02 23:05:26.886 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/ - -
+2024-02-02 23:05:27.062 +05:00 [INF] Identity.Application was not authenticated. Failure message: Unprotect ticket failed
+2024-02-02 23:05:27.077 +05:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-02-02 23:05:27.083 +05:00 [INF] AuthenticationScheme: Identity.Application was challenged.
+2024-02-02 23:05:27.088 +05:00 [INF] HTTP GET / responded 302 in 57.3442 ms
+2024-02-02 23:05:27.098 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/ - - - 302 0 - 213.7923ms
+2024-02-02 23:05:27.101 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Account/Login?ReturnUrl=%2F - -
+2024-02-02 23:05:27.111 +05:00 [INF] Identity.Application was not authenticated. Failure message: Unprotect ticket failed
+2024-02-02 23:05:27.116 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.AccountController.Login (FunFox.PortalSystem)'
+2024-02-02 23:05:27.133 +05:00 [INF] Route matched with {action = "Login", controller = "Account", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(System.String) on controller FunFox.PortalSystem.Controllers.AccountController (FunFox.PortalSystem).
+2024-02-02 23:05:27.166 +05:00 [INF] Executing ViewResult, running view Login.
+2024-02-02 23:05:27.264 +05:00 [INF] Executed ViewResult - view Login executed in 97.4302ms.
+2024-02-02 23:05:27.270 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.AccountController.Login (FunFox.PortalSystem) in 132.2051ms
+2024-02-02 23:05:27.274 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.AccountController.Login (FunFox.PortalSystem)'
+2024-02-02 23:05:27.277 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - -
+2024-02-02 23:05:27.278 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_vs/browserLink - -
+2024-02-02 23:05:27.277 +05:00 [INF] HTTP GET /Account/Login responded 200 in 171.3017 ms
+2024-02-02 23:05:27.286 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Account/Login?ReturnUrl=%2F - - - 200 - text/html;+charset=utf-8 185.0145ms
+2024-02-02 23:05:27.287 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - - - 200 13794 application/javascript;+charset=utf-8 10.1906ms
+2024-02-02 23:05:27.342 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 63.1870ms
+2024-02-02 23:06:40.065 +05:00 [INF] Request starting HTTP/2 POST https://localhost:7154/Account/Login?returnurl=%2F application/x-www-form-urlencoded 227
+2024-02-02 23:06:40.082 +05:00 [INF] Identity.Application was not authenticated. Failure message: Unprotect ticket failed
+2024-02-02 23:06:40.085 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.AccountController.Login (FunFox.PortalSystem)'
+2024-02-02 23:06:40.094 +05:00 [INF] Route matched with {action = "Login", controller = "Account", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(FunFox.PortalSystem.Domain.ViewModels.Accounts.LoginViewModel, System.String) on controller FunFox.PortalSystem.Controllers.AccountController (FunFox.PortalSystem).
+2024-02-02 23:06:40.125 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-02-02 23:06:40.135 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-02-02 23:06:40.254 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__user_Id_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[Id], [a].[ClaimType], [a].[ClaimValue], [a].[UserId]
+FROM [AspNetUserClaims] AS [a]
+WHERE [a].[UserId] = @__user_Id_0
+2024-02-02 23:06:40.313 +05:00 [INF] Executed DbCommand (2ms) [Parameters=[@__userId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0
+2024-02-02 23:06:40.338 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0
+2024-02-02 23:06:40.366 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__role_Id_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[ClaimType], [a].[ClaimValue]
+FROM [AspNetRoleClaims] AS [a]
+WHERE [a].[RoleId] = @__role_Id_0
+2024-02-02 23:06:40.381 +05:00 [INF] AuthenticationScheme: Identity.Application signed in.
+2024-02-02 23:06:40.387 +05:00 [INF] User logged in.
+2024-02-02 23:06:40.395 +05:00 [INF] Executing LocalRedirectResult, redirecting to /.
+2024-02-02 23:06:40.402 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.AccountController.Login (FunFox.PortalSystem) in 304.0075ms
+2024-02-02 23:06:40.408 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.AccountController.Login (FunFox.PortalSystem)'
+2024-02-02 23:06:40.413 +05:00 [INF] HTTP POST /Account/Login responded 302 in 335.1926 ms
+2024-02-02 23:06:40.417 +05:00 [INF] Request finished HTTP/2 POST https://localhost:7154/Account/Login?returnurl=%2F application/x-www-form-urlencoded 227 - 302 0 - 351.8949ms
+2024-02-02 23:06:40.420 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/ - -
+2024-02-02 23:06:40.426 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.DashboardsController.Dashboard_1 (FunFox.PortalSystem)'
+2024-02-02 23:06:40.429 +05:00 [INF] Route matched with {action = "Dashboard_1", controller = "Dashboards", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Dashboard_1() on controller FunFox.PortalSystem.Controllers.DashboardsController (FunFox.PortalSystem).
+2024-02-02 23:06:40.433 +05:00 [INF] Executing ViewResult, running view Dashboard_1.
+2024-02-02 23:06:40.504 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-02-02 23:06:40.514 +05:00 [INF] Executed DbCommand (2ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-02-02 23:06:40.627 +05:00 [INF] Executed ViewResult - view Dashboard_1 executed in 194.6573ms.
+2024-02-02 23:06:40.638 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.DashboardsController.Dashboard_1 (FunFox.PortalSystem) in 205.5019ms
+2024-02-02 23:06:40.641 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.DashboardsController.Dashboard_1 (FunFox.PortalSystem)'
+2024-02-02 23:06:40.645 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - -
+2024-02-02 23:06:40.648 +05:00 [INF] HTTP GET / responded 200 in 225.2318 ms
+2024-02-02 23:06:40.653 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_vs/browserLink - -
+2024-02-02 23:06:40.649 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - - - 200 13794 application/javascript;+charset=utf-8 4.2104ms
+2024-02-02 23:06:40.656 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/ - - - 200 - text/html;+charset=utf-8 235.7736ms
+2024-02-02 23:06:40.673 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 19.6402ms
+2024-02-02 23:06:53.831 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/Popper/popper.min.js.map - -
+2024-02-02 23:06:53.834 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/dataTables/pdfmake.min.js.map - -
+2024-02-02 23:06:53.838 +05:00 [INF] HTTP GET /lib/Popper/popper.min.js.map responded 404 in 1.2819 ms
+2024-02-02 23:06:53.838 +05:00 [INF] HTTP GET /lib/dataTables/pdfmake.min.js.map responded 404 in 0.5694 ms
+2024-02-02 23:06:53.844 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/Popper/popper.min.js.map - - - 404 0 - 12.2901ms
+2024-02-02 23:06:53.847 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/dataTables/pdfmake.min.js.map - - - 404 0 - 12.3813ms
+2024-02-02 23:07:21.926 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/ - -
+2024-02-02 23:07:21.948 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.DashboardsController.Dashboard_1 (FunFox.PortalSystem)'
+2024-02-02 23:07:21.953 +05:00 [INF] Route matched with {action = "Dashboard_1", controller = "Dashboards", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Dashboard_1() on controller FunFox.PortalSystem.Controllers.DashboardsController (FunFox.PortalSystem).
+2024-02-02 23:07:21.957 +05:00 [INF] Executing ViewResult, running view Dashboard_1.
+2024-02-02 23:07:21.962 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-02-02 23:07:21.967 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-02-02 23:07:21.974 +05:00 [INF] Executed ViewResult - view Dashboard_1 executed in 17.1061ms.
+2024-02-02 23:07:21.976 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.DashboardsController.Dashboard_1 (FunFox.PortalSystem) in 19.6509ms
+2024-02-02 23:07:21.979 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.DashboardsController.Dashboard_1 (FunFox.PortalSystem)'
+2024-02-02 23:07:21.982 +05:00 [INF] HTTP GET / responded 200 in 42.0955 ms
+2024-02-02 23:07:21.985 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/ - - - 200 - text/html;+charset=utf-8 59.0644ms
+2024-02-02 23:07:21.994 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_vs/browserLink - -
+2024-02-02 23:07:21.994 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - -
+2024-02-02 23:07:22.000 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - - - 200 13794 application/javascript;+charset=utf-8 6.2453ms
+2024-02-02 23:07:22.007 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 13.1017ms
+2024-02-02 23:07:22.086 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/Popper/popper.min.js.map - -
+2024-02-02 23:07:22.090 +05:00 [INF] HTTP GET /lib/Popper/popper.min.js.map responded 404 in 0.6811 ms
+2024-02-02 23:07:22.094 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/Popper/popper.min.js.map - - - 404 0 - 7.2837ms
+2024-02-02 23:07:22.102 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/Popper/popper.min.js.map - -
+2024-02-02 23:07:22.105 +05:00 [INF] HTTP GET /lib/Popper/popper.min.js.map responded 404 in 0.6218 ms
+2024-02-02 23:07:22.109 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/Popper/popper.min.js.map - - - 404 0 - 7.0296ms
+2024-02-02 23:07:22.164 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/dataTables/pdfmake.min.js.map - -
+2024-02-02 23:07:22.167 +05:00 [INF] HTTP GET /lib/dataTables/pdfmake.min.js.map responded 404 in 0.6833 ms
+2024-02-02 23:07:22.171 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/dataTables/pdfmake.min.js.map - - - 404 0 - 6.9490ms
+2024-02-02 23:07:52.957 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/ - -
+2024-02-02 23:07:52.975 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.DashboardsController.Dashboard_1 (FunFox.PortalSystem)'
+2024-02-02 23:07:52.979 +05:00 [INF] Route matched with {action = "Dashboard_1", controller = "Dashboards", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Dashboard_1() on controller FunFox.PortalSystem.Controllers.DashboardsController (FunFox.PortalSystem).
+2024-02-02 23:07:52.983 +05:00 [INF] Executing ViewResult, running view Dashboard_1.
+2024-02-02 23:07:52.986 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-02-02 23:07:52.991 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-02-02 23:07:52.998 +05:00 [INF] Executed ViewResult - view Dashboard_1 executed in 15.5027ms.
+2024-02-02 23:07:53.002 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.DashboardsController.Dashboard_1 (FunFox.PortalSystem) in 19.3583ms
+2024-02-02 23:07:53.005 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.DashboardsController.Dashboard_1 (FunFox.PortalSystem)'
+2024-02-02 23:07:53.009 +05:00 [INF] HTTP GET / responded 200 in 33.9944 ms
+2024-02-02 23:07:53.013 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/ - - - 200 - text/html;+charset=utf-8 55.9674ms
+2024-02-02 23:07:53.019 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - -
+2024-02-02 23:07:53.023 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_vs/browserLink - -
+2024-02-02 23:07:53.027 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - - - 200 13794 application/javascript;+charset=utf-8 8.1573ms
+2024-02-02 23:07:53.038 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 15.0752ms
+2024-02-02 23:07:53.132 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/Popper/popper.min.js.map - -
+2024-02-02 23:07:53.137 +05:00 [INF] HTTP GET /lib/Popper/popper.min.js.map responded 404 in 0.6528 ms
+2024-02-02 23:07:53.141 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/Popper/popper.min.js.map - - - 404 0 - 9.3162ms
+2024-02-02 23:07:53.157 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/Popper/popper.min.js.map - -
+2024-02-02 23:07:53.160 +05:00 [INF] HTTP GET /lib/Popper/popper.min.js.map responded 404 in 0.4653 ms
+2024-02-02 23:07:53.164 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/Popper/popper.min.js.map - - - 404 0 - 6.5886ms
+2024-02-02 23:07:53.223 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/dataTables/pdfmake.min.js.map - -
+2024-02-02 23:07:53.226 +05:00 [INF] HTTP GET /lib/dataTables/pdfmake.min.js.map responded 404 in 0.4614 ms
+2024-02-02 23:07:53.230 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/dataTables/pdfmake.min.js.map - - - 404 0 - 6.5471ms
+2024-02-02 23:08:20.077 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/ - -
+2024-02-02 23:08:20.086 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.DashboardsController.Dashboard_1 (FunFox.PortalSystem)'
+2024-02-02 23:08:20.091 +05:00 [INF] Route matched with {action = "Dashboard_1", controller = "Dashboards", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Dashboard_1() on controller FunFox.PortalSystem.Controllers.DashboardsController (FunFox.PortalSystem).
+2024-02-02 23:08:20.095 +05:00 [INF] Executing ViewResult, running view Dashboard_1.
+2024-02-02 23:08:20.100 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-02-02 23:08:20.107 +05:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-02-02 23:08:20.114 +05:00 [INF] Executed ViewResult - view Dashboard_1 executed in 19.4863ms.
+2024-02-02 23:08:20.118 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.DashboardsController.Dashboard_1 (FunFox.PortalSystem) in 23.3847ms
+2024-02-02 23:08:20.123 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.DashboardsController.Dashboard_1 (FunFox.PortalSystem)'
+2024-02-02 23:08:20.126 +05:00 [INF] HTTP GET / responded 200 in 40.3560 ms
+2024-02-02 23:08:20.130 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/ - - - 200 - text/html;+charset=utf-8 53.6302ms
+2024-02-02 23:08:20.136 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - -
+2024-02-02 23:08:20.144 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_vs/browserLink - -
+2024-02-02 23:08:20.148 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - - - 200 13794 application/javascript;+charset=utf-8 12.0417ms
+2024-02-02 23:08:20.159 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 15.5263ms
+2024-02-02 23:08:20.231 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/Popper/popper.min.js.map - -
+2024-02-02 23:08:20.235 +05:00 [INF] HTTP GET /lib/Popper/popper.min.js.map responded 404 in 0.7922 ms
+2024-02-02 23:08:20.240 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/Popper/popper.min.js.map - - - 404 0 - 9.6045ms
+2024-02-02 23:08:20.258 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/Popper/popper.min.js.map - -
+2024-02-02 23:08:20.261 +05:00 [INF] HTTP GET /lib/Popper/popper.min.js.map responded 404 in 0.5959 ms
+2024-02-02 23:08:20.264 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/Popper/popper.min.js.map - - - 404 0 - 6.1946ms
+2024-02-02 23:08:20.326 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/dataTables/pdfmake.min.js.map - -
+2024-02-02 23:08:20.329 +05:00 [INF] HTTP GET /lib/dataTables/pdfmake.min.js.map responded 404 in 0.5831 ms
+2024-02-02 23:08:20.332 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/dataTables/pdfmake.min.js.map - - - 404 0 - 6.3409ms
+2024-02-02 23:53:28.397 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/ - -
+2024-02-02 23:53:28.496 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-02-02 23:53:28.676 +05:00 [INF] Executed DbCommand (21ms) [Parameters=[@__p_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[Id] = @__p_0
+2024-02-02 23:53:28.720 +05:00 [INF] Executed DbCommand (7ms) [Parameters=[@__user_Id_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[Id], [a].[ClaimType], [a].[ClaimValue], [a].[UserId]
+FROM [AspNetUserClaims] AS [a]
+WHERE [a].[UserId] = @__user_Id_0
+2024-02-02 23:53:28.746 +05:00 [INF] Executed DbCommand (12ms) [Parameters=[@__userId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0
+2024-02-02 23:53:28.763 +05:00 [INF] Executed DbCommand (6ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0
+2024-02-02 23:53:28.781 +05:00 [INF] Executed DbCommand (6ms) [Parameters=[@__role_Id_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[ClaimType], [a].[ClaimValue]
+FROM [AspNetRoleClaims] AS [a]
+WHERE [a].[RoleId] = @__role_Id_0
+2024-02-02 23:53:28.802 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.DashboardsController.Dashboard_1 (FunFox.PortalSystem)'
+2024-02-02 23:53:28.811 +05:00 [INF] Route matched with {action = "Dashboard_1", controller = "Dashboards", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Dashboard_1() on controller FunFox.PortalSystem.Controllers.DashboardsController (FunFox.PortalSystem).
+2024-02-02 23:53:28.821 +05:00 [INF] Executing ViewResult, running view Dashboard_1.
+2024-02-02 23:53:28.841 +05:00 [INF] Executed DbCommand (9ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-02-02 23:53:28.862 +05:00 [INF] Executed ViewResult - view Dashboard_1 executed in 43.7028ms.
+2024-02-02 23:53:28.868 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.DashboardsController.Dashboard_1 (FunFox.PortalSystem) in 50.0577ms
+2024-02-02 23:53:28.876 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.DashboardsController.Dashboard_1 (FunFox.PortalSystem)'
+2024-02-02 23:53:28.881 +05:00 [INF] HTTP GET / responded 200 in 394.4016 ms
+2024-02-02 23:53:28.891 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/ - - - 200 - text/html;+charset=utf-8 493.0753ms
+2024-02-02 23:53:28.899 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - -
+2024-02-02 23:53:28.903 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_vs/browserLink - -
+2024-02-02 23:53:28.910 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - - - 200 13794 application/javascript;+charset=utf-8 11.7420ms
+2024-02-02 23:53:28.932 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 30.6421ms
+2024-02-02 23:53:32.136 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Plant/Index - -
+2024-02-02 23:53:32.160 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.PlantController.Index (FunFox.PortalSystem)'
+2024-02-02 23:53:32.177 +05:00 [INF] Route matched with {action = "Index", controller = "Plant", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] Index() on controller FunFox.PortalSystem.Controllers.PlantController (FunFox.PortalSystem).
+2024-02-02 23:53:32.517 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-02-02 23:53:32.541 +05:00 [INF] Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[Id], [a].[Category], [a].[Code], [a].[CommonName], [a].[ImportedOn], [a].[LatinName]
+FROM [AllPlants] AS [a]
+2024-02-02 23:53:32.624 +05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[Id], [a].[Category], [a].[Code], [a].[CommonName], [a].[ImportedOn], [a].[LatinName]
+FROM [AllPlants] AS [a]
+2024-02-02 23:53:32.654 +05:00 [INF] Executing ViewResult, running view Index.
+2024-02-02 23:53:32.737 +05:00 [INF] Executed DbCommand (2ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-02-02 23:53:32.761 +05:00 [INF] Executed ViewResult - view Index executed in 108.1659ms.
+2024-02-02 23:53:32.766 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.PlantController.Index (FunFox.PortalSystem) in 574.3725ms
+2024-02-02 23:53:32.773 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.PlantController.Index (FunFox.PortalSystem)'
+2024-02-02 23:53:32.781 +05:00 [INF] HTTP GET /Plant/Index responded 200 in 622.9433 ms
+2024-02-02 23:53:32.789 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Plant/Index - - - 200 - text/html;+charset=utf-8 652.7641ms
+2024-02-02 23:53:32.796 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - -
+2024-02-02 23:53:32.811 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/css/StyleNew/StyleNew.css - -
+2024-02-02 23:53:32.812 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_vs/browserLink - -
+2024-02-02 23:53:32.824 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - - - 200 13794 application/javascript;+charset=utf-8 28.3752ms
+2024-02-02 23:53:32.838 +05:00 [INF] HTTP GET /css/StyleNew/StyleNew.css responded 404 in 1.0548 ms
+2024-02-02 23:53:32.850 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 37.8169ms
+2024-02-02 23:53:32.853 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/css/StyleNew/StyleNew.css - - - 404 0 - 39.4057ms
+2024-02-02 23:53:36.049 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/css/StyleNew/StyleNew.css - -
+2024-02-02 23:53:36.063 +05:00 [INF] HTTP GET /css/StyleNew/StyleNew.css responded 404 in 0.8763 ms
+2024-02-02 23:53:36.070 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/css/StyleNew/StyleNew.css - - - 404 0 - 20.0851ms
+2024-02-02 23:53:36.318 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/Popper/popper.min.js.map - -
+2024-02-02 23:53:36.322 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/dataTables/pdfmake.min.js.map - -
+2024-02-02 23:53:36.327 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/blueimp-gallery/js/popper.min.js.map - -
+2024-02-02 23:53:36.333 +05:00 [INF] HTTP GET /lib/Popper/popper.min.js.map responded 404 in 0.9403 ms
+2024-02-02 23:53:36.339 +05:00 [INF] HTTP GET /lib/dataTables/pdfmake.min.js.map responded 404 in 1.0583 ms
+2024-02-02 23:53:36.347 +05:00 [INF] HTTP GET /lib/blueimp-gallery/js/popper.min.js.map responded 404 in 3.5948 ms
+2024-02-02 23:53:36.353 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/Popper/popper.min.js.map - - - 404 0 - 35.3865ms
+2024-02-02 23:53:36.364 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/dataTables/pdfmake.min.js.map - - - 404 0 - 42.4260ms
+2024-02-02 23:53:36.375 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/blueimp-gallery/js/popper.min.js.map - - - 404 0 - 48.2444ms
+2024-02-02 23:54:25.055 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Plant/Index - -
+2024-02-02 23:54:25.103 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.PlantController.Index (FunFox.PortalSystem)'
+2024-02-02 23:54:25.111 +05:00 [INF] Route matched with {action = "Index", controller = "Plant", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] Index() on controller FunFox.PortalSystem.Controllers.PlantController (FunFox.PortalSystem).
+2024-02-02 23:54:25.120 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-02-02 23:54:25.135 +05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[Id], [a].[Category], [a].[Code], [a].[CommonName], [a].[ImportedOn], [a].[LatinName]
+FROM [AllPlants] AS [a]
+2024-02-02 23:54:25.151 +05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[Id], [a].[Category], [a].[Code], [a].[CommonName], [a].[ImportedOn], [a].[LatinName]
+FROM [AllPlants] AS [a]
+2024-02-02 23:54:25.161 +05:00 [INF] Executing ViewResult, running view Index.
+2024-02-02 23:54:25.177 +05:00 [INF] Executed DbCommand (3ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-02-02 23:54:25.197 +05:00 [INF] Executed ViewResult - view Index executed in 36.1105ms.
+2024-02-02 23:54:25.208 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.PlantController.Index (FunFox.PortalSystem) in 88.8591ms
+2024-02-02 23:54:25.216 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.PlantController.Index (FunFox.PortalSystem)'
+2024-02-02 23:54:25.225 +05:00 [INF] HTTP GET /Plant/Index responded 200 in 126.2511 ms
+2024-02-02 23:54:25.243 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - -
+2024-02-02 23:54:25.237 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_vs/browserLink - -
+2024-02-02 23:54:25.231 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/css/StyleNew/StyleNew.css - -
+2024-02-02 23:54:25.266 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - - - 200 13794 application/javascript;+charset=utf-8 22.8466ms
+2024-02-02 23:54:25.259 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Plant/Index - - - 200 - text/html;+charset=utf-8 204.3788ms
+2024-02-02 23:54:25.275 +05:00 [INF] HTTP GET /css/StyleNew/StyleNew.css responded 404 in 1.7801 ms
+2024-02-02 23:54:25.283 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/css/StyleNew/StyleNew.css - - - 404 0 - 51.6168ms
+2024-02-02 23:54:25.307 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 69.8428ms
+2024-02-02 23:54:25.422 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/blueimp-gallery/js/popper.min.js.map - -
+2024-02-02 23:54:25.431 +05:00 [INF] HTTP GET /lib/blueimp-gallery/js/popper.min.js.map responded 404 in 1.4339 ms
+2024-02-02 23:54:25.439 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/blueimp-gallery/js/popper.min.js.map - - - 404 0 - 16.6555ms
+2024-02-02 23:54:25.443 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/Popper/popper.min.js.map - -
+2024-02-02 23:54:25.450 +05:00 [INF] HTTP GET /lib/Popper/popper.min.js.map responded 404 in 1.0708 ms
+2024-02-02 23:54:25.458 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/Popper/popper.min.js.map - - - 404 0 - 14.6033ms
+2024-02-02 23:54:25.541 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/Popper/popper.min.js.map - -
+2024-02-02 23:54:25.550 +05:00 [INF] HTTP GET /lib/Popper/popper.min.js.map responded 404 in 1.2527 ms
+2024-02-02 23:54:25.558 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/Popper/popper.min.js.map - - - 404 0 - 16.2375ms
+2024-02-02 23:54:25.640 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/dataTables/pdfmake.min.js.map - -
+2024-02-02 23:54:25.647 +05:00 [INF] HTTP GET /lib/dataTables/pdfmake.min.js.map responded 404 in 1.0324 ms
+2024-02-02 23:54:25.657 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/dataTables/pdfmake.min.js.map - - - 404 0 - 17.2261ms
+2024-02-02 23:55:20.946 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Plant/Index - -
+2024-02-02 23:55:20.974 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.PlantController.Index (FunFox.PortalSystem)'
+2024-02-02 23:55:20.984 +05:00 [INF] Route matched with {action = "Index", controller = "Plant", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] Index() on controller FunFox.PortalSystem.Controllers.PlantController (FunFox.PortalSystem).
+2024-02-02 23:55:20.999 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-02-02 23:55:21.014 +05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[Id], [a].[Category], [a].[Code], [a].[CommonName], [a].[ImportedOn], [a].[LatinName]
+FROM [AllPlants] AS [a]
+2024-02-02 23:55:21.029 +05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[Id], [a].[Category], [a].[Code], [a].[CommonName], [a].[ImportedOn], [a].[LatinName]
+FROM [AllPlants] AS [a]
+2024-02-02 23:55:21.039 +05:00 [INF] Executing ViewResult, running view Index.
+2024-02-02 23:55:21.058 +05:00 [INF] Executed DbCommand (4ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-02-02 23:55:21.078 +05:00 [INF] Executed ViewResult - view Index executed in 39.4338ms.
+2024-02-02 23:55:21.087 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.PlantController.Index (FunFox.PortalSystem) in 90.7033ms
+2024-02-02 23:55:21.095 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.PlantController.Index (FunFox.PortalSystem)'
+2024-02-02 23:55:21.105 +05:00 [INF] HTTP GET /Plant/Index responded 200 in 131.2816 ms
+2024-02-02 23:55:21.112 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Plant/Index - - - 200 - text/html;+charset=utf-8 165.9598ms
+2024-02-02 23:55:21.121 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - -
+2024-02-02 23:55:21.138 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_vs/browserLink - -
+2024-02-02 23:55:21.141 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/css/StyleNew/StyleNew.css - -
+2024-02-02 23:55:21.160 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - - - 200 13794 application/javascript;+charset=utf-8 38.5006ms
+2024-02-02 23:55:21.182 +05:00 [INF] HTTP GET /css/StyleNew/StyleNew.css responded 404 in 2.1089 ms
+2024-02-02 23:55:21.196 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/css/StyleNew/StyleNew.css - - - 404 0 - 57.7755ms
+2024-02-02 23:55:21.198 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 60.1974ms
+2024-02-02 23:55:21.261 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/blueimp-gallery/js/popper.min.js.map - -
+2024-02-02 23:55:21.270 +05:00 [INF] HTTP GET /lib/blueimp-gallery/js/popper.min.js.map responded 404 in 1.6925 ms
+2024-02-02 23:55:21.279 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/blueimp-gallery/js/popper.min.js.map - - - 404 0 - 17.7615ms
+2024-02-02 23:55:21.322 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/Popper/popper.min.js.map - -
+2024-02-02 23:55:21.328 +05:00 [INF] HTTP GET /lib/Popper/popper.min.js.map responded 404 in 1.1099 ms
+2024-02-02 23:55:21.339 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/Popper/popper.min.js.map - - - 404 0 - 17.1118ms
+2024-02-02 23:55:21.405 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/Popper/popper.min.js.map - -
+2024-02-02 23:55:21.411 +05:00 [INF] HTTP GET /lib/Popper/popper.min.js.map responded 404 in 0.7932 ms
+2024-02-02 23:55:21.421 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/Popper/popper.min.js.map - - - 404 0 - 16.2894ms
+2024-02-02 23:55:21.531 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/dataTables/pdfmake.min.js.map - -
+2024-02-02 23:55:21.539 +05:00 [INF] HTTP GET /lib/dataTables/pdfmake.min.js.map responded 404 in 1.5116 ms
+2024-02-02 23:55:21.568 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/dataTables/pdfmake.min.js.map - - - 404 0 - 37.4796ms
+2024-02-02 23:58:59.736 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Plant/Index - -
+2024-02-02 23:58:59.789 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.PlantController.Index (FunFox.PortalSystem)'
+2024-02-02 23:58:59.797 +05:00 [INF] Route matched with {action = "Index", controller = "Plant", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] Index() on controller FunFox.PortalSystem.Controllers.PlantController (FunFox.PortalSystem).
+2024-02-02 23:58:59.806 +05:00 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: QuerySplittingBehavior=SplitQuery 
+2024-02-02 23:58:59.820 +05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[Id], [a].[Category], [a].[Code], [a].[CommonName], [a].[ImportedOn], [a].[LatinName]
+FROM [AllPlants] AS [a]
+2024-02-02 23:58:59.837 +05:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[Id], [a].[Category], [a].[Code], [a].[CommonName], [a].[ImportedOn], [a].[LatinName]
+FROM [AllPlants] AS [a]
+2024-02-02 23:58:59.845 +05:00 [INF] Executing ViewResult, running view Index.
+2024-02-02 23:58:59.869 +05:00 [INF] Executed DbCommand (8ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-02-02 23:58:59.900 +05:00 [INF] Executed ViewResult - view Index executed in 55.4526ms.
+2024-02-02 23:58:59.936 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.PlantController.Index (FunFox.PortalSystem) in 130.7198ms
+2024-02-02 23:58:59.947 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/css/StyleNew/StyleNew.css - -
+2024-02-02 23:58:59.966 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.PlantController.Index (FunFox.PortalSystem)'
+2024-02-02 23:58:59.964 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - -
+2024-02-02 23:58:59.982 +05:00 [INF] HTTP GET /css/StyleNew/StyleNew.css responded 404 in 2.6631 ms
+2024-02-02 23:58:59.987 +05:00 [INF] HTTP GET /Plant/Index responded 200 in 199.2675 ms
+2024-02-02 23:58:59.995 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - - - 200 13794 application/javascript;+charset=utf-8 30.8688ms
+2024-02-02 23:59:00.002 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/css/StyleNew/StyleNew.css - - - 404 0 - 55.1194ms
+2024-02-02 23:58:59.975 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_vs/browserLink - -
+2024-02-02 23:59:00.010 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Plant/Index - - - 200 - text/html;+charset=utf-8 275.3406ms
+2024-02-02 23:59:00.055 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 79.8193ms
+2024-02-02 23:59:00.115 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/blueimp-gallery/js/popper.min.js.map - -
+2024-02-02 23:59:00.120 +05:00 [INF] HTTP GET /lib/blueimp-gallery/js/popper.min.js.map responded 404 in 0.8619 ms
+2024-02-02 23:59:00.131 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/blueimp-gallery/js/popper.min.js.map - - - 404 0 - 15.9631ms
+2024-02-02 23:59:00.172 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/Popper/popper.min.js.map - -
+2024-02-02 23:59:00.180 +05:00 [INF] HTTP GET /lib/Popper/popper.min.js.map responded 404 in 0.8765 ms
+2024-02-02 23:59:00.193 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/Popper/popper.min.js.map - - - 404 0 - 20.6688ms
+2024-02-02 23:59:00.257 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/Popper/popper.min.js.map - -
+2024-02-02 23:59:00.269 +05:00 [INF] HTTP GET /lib/Popper/popper.min.js.map responded 404 in 0.9674 ms
+2024-02-02 23:59:00.280 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/Popper/popper.min.js.map - - - 404 0 - 22.4092ms
+2024-02-02 23:59:00.420 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/dataTables/pdfmake.min.js.map - -
+2024-02-02 23:59:00.428 +05:00 [INF] HTTP GET /lib/dataTables/pdfmake.min.js.map responded 404 in 0.9511 ms
+2024-02-02 23:59:00.436 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/dataTables/pdfmake.min.js.map - - - 404 0 - 16.7410ms

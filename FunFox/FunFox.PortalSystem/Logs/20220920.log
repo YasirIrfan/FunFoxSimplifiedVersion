@@ -1,0 +1,232 @@
+2022-09-20 12:47:29.517 +05:00 [INF] User profile is available. Using 'C:\Users\YasirIrfan\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-09-20 12:47:31.061 +05:00 [INF] Now listening on: https://localhost:7154
+2022-09-20 12:47:31.068 +05:00 [INF] Now listening on: http://localhost:5204
+2022-09-20 12:47:31.084 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-20 12:47:31.088 +05:00 [INF] Hosting environment: Development
+2022-09-20 12:47:31.093 +05:00 [INF] Content root path: C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\
+2022-09-20 12:47:37.789 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/ - -
+2022-09-20 12:47:38.022 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.DashboardsController.Dashboard_1 (FunFox.PortalSystem)'
+2022-09-20 12:47:38.070 +05:00 [INF] Route matched with {action = "Dashboard_1", controller = "Dashboards"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Dashboard_1() on controller FunFox.PortalSystem.Controllers.DashboardsController (FunFox.PortalSystem).
+2022-09-20 12:47:38.116 +05:00 [INF] Executing ViewResult, running view Dashboard_1.
+2022-09-20 12:47:39.613 +05:00 [INF] Executed ViewResult - view Dashboard_1 executed in 1500.5004ms.
+2022-09-20 12:47:39.642 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.DashboardsController.Dashboard_1 (FunFox.PortalSystem) in 1564.3623ms
+2022-09-20 12:47:39.652 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.DashboardsController.Dashboard_1 (FunFox.PortalSystem)'
+2022-09-20 12:47:39.669 +05:00 [INF] HTTP GET / responded 200 in 1743.4954 ms
+2022-09-20 12:47:39.966 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/ - - - 200 - text/html;+charset=utf-8 2189.2503ms
+2022-09-20 12:47:39.970 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/bootstrap/dist/css/bootstrap.css - -
+2022-09-20 12:47:39.970 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/font-awesome/css/font-awesome.css - -
+2022-09-20 12:47:39.976 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/css/style.css?v=1VcVdl9qxagrO13A7Uu4lsnMcHtbiF2qA_bR6VmGxSk - -
+2022-09-20 12:47:39.970 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/css/animate.css - -
+2022-09-20 12:47:40.167 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/jquery/dist/jquery.js - -
+2022-09-20 12:47:40.189 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/Popper/popper.min.js - -
+2022-09-20 12:47:40.229 +05:00 [INF] Sending file. Request path: '/lib/font-awesome/css/font-awesome.css'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\lib\font-awesome\css\font-awesome.css'
+2022-09-20 12:47:40.247 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/bootstrap/dist/js/bootstrap.js - -
+2022-09-20 12:47:40.254 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/metisMenu/dist/jquery.metisMenu.js - -
+2022-09-20 12:47:40.261 +05:00 [INF] HTTP GET /lib/font-awesome/css/font-awesome.css responded 200 in 179.5871 ms
+2022-09-20 12:47:40.307 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/slimScroll/jquery.slimscroll.js - -
+2022-09-20 12:47:40.315 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/pace/pace.js - -
+2022-09-20 12:47:40.323 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/js/script.js?v=ejsjEJgVpOlGCnoCig86koGMDeT97csAvW4FVvUO7Kw - -
+2022-09-20 12:47:40.348 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/flot/jquery.flot.js - -
+2022-09-20 12:47:40.378 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/flot/jquery.flot.tooltip.min.js - -
+2022-09-20 12:47:40.347 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/js/skin.config.js - -
+2022-09-20 12:47:40.386 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/flot/jquery.flot.resize.js - -
+2022-09-20 12:47:40.395 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/flot/jquery.flot.pie.js - -
+2022-09-20 12:47:40.455 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/flot/jquery.flot.time.js - -
+2022-09-20 12:47:40.455 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/flot/jquery.flot.spline.js - -
+2022-09-20 12:47:40.473 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/sparkline/jquery.sparkline.min.js - -
+2022-09-20 12:47:40.497 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/chartJs/Chart.min.js - -
+2022-09-20 12:47:40.547 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/peity/jquery.peity.js - -
+2022-09-20 12:47:40.551 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - -
+2022-09-20 12:47:40.573 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Images/profile_small.jpg - -
+2022-09-20 12:47:40.585 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Images/a7.jpg - -
+2022-09-20 12:47:40.593 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Images/a4.jpg - -
+2022-09-20 12:47:40.612 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Images/profile.jpg - -
+2022-09-20 12:47:40.631 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Images/a3.jpg - -
+2022-09-20 12:47:40.620 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Images/a2.jpg - -
+2022-09-20 12:47:40.644 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Images/a5.jpg - -
+2022-09-20 12:47:40.665 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Images/a1.jpg - -
+2022-09-20 12:47:40.675 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Images/a8.jpg - -
+2022-09-20 12:47:40.675 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_vs/browserLink - -
+2022-09-20 12:47:40.750 +05:00 [INF] Sending file. Request path: '/lib/Popper/popper.min.js'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\lib\Popper\popper.min.js'
+2022-09-20 12:47:40.764 +05:00 [INF] Sending file. Request path: '/Images/a1.jpg'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\images\a1.jpg'
+2022-09-20 12:47:40.786 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/font-awesome/css/font-awesome.css - - - 200 39751 text/css 815.8452ms
+2022-09-20 12:47:40.778 +05:00 [INF] Sending file. Request path: '/Images/a8.jpg'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\images\a8.jpg'
+2022-09-20 12:47:40.803 +05:00 [INF] HTTP GET /Images/a1.jpg responded 200 in 130.0565 ms
+2022-09-20 12:47:40.809 +05:00 [INF] Sending file. Request path: '/Images/a7.jpg'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\images\a7.jpg'
+2022-09-20 12:47:40.815 +05:00 [INF] HTTP GET /Images/a8.jpg responded 200 in 123.6205 ms
+2022-09-20 12:47:40.821 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Images/a1.jpg - - - 200 3497 image/jpeg 156.0842ms
+2022-09-20 12:47:40.827 +05:00 [INF] HTTP GET /Images/a7.jpg responded 200 in 229.9031 ms
+2022-09-20 12:47:40.834 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Images/a8.jpg - - - 200 9593 image/jpeg 159.6498ms
+2022-09-20 12:47:40.840 +05:00 [INF] Sending file. Request path: '/lib/flot/jquery.flot.tooltip.min.js'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\lib\flot\jquery.flot.tooltip.min.js'
+2022-09-20 12:47:40.849 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Images/a7.jpg - - - 200 11361 image/jpeg 263.3311ms
+2022-09-20 12:47:40.855 +05:00 [INF] Sending file. Request path: '/css/animate.css'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\css\animate.css'
+2022-09-20 12:47:40.863 +05:00 [INF] HTTP GET /lib/flot/jquery.flot.tooltip.min.js responded 200 in 470.8724 ms
+2022-09-20 12:47:40.869 +05:00 [INF] Sending file. Request path: '/lib/flot/jquery.flot.pie.js'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\lib\flot\jquery.flot.pie.js'
+2022-09-20 12:47:40.876 +05:00 [INF] HTTP GET /css/animate.css responded 200 in 791.1470 ms
+2022-09-20 12:47:40.884 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/flot/jquery.flot.tooltip.min.js - - - 200 3941 application/javascript 505.5726ms
+2022-09-20 12:47:40.890 +05:00 [INF] HTTP GET /lib/flot/jquery.flot.pie.js responded 200 in 483.5154 ms
+2022-09-20 12:47:40.908 +05:00 [INF] Sending file. Request path: '/lib/flot/jquery.flot.resize.js'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\lib\flot\jquery.flot.resize.js'
+2022-09-20 12:47:40.923 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/flot/jquery.flot.pie.js - - - 200 24629 application/javascript 528.0408ms
+2022-09-20 12:47:40.934 +05:00 [INF] HTTP GET /lib/flot/jquery.flot.resize.js responded 200 in 533.5737 ms
+2022-09-20 12:47:40.939 +05:00 [INF] Sending file. Request path: '/Images/a3.jpg'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\images\a3.jpg'
+2022-09-20 12:47:40.951 +05:00 [INF] Sending file. Request path: '/Images/a4.jpg'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\images\a4.jpg'
+2022-09-20 12:47:40.899 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/css/animate.css - - - 200 69082 text/css 928.3133ms
+2022-09-20 12:47:40.954 +05:00 [INF] HTTP GET /Images/a3.jpg responded 200 in 305.4671 ms
+2022-09-20 12:47:40.961 +05:00 [INF] HTTP GET /Images/a4.jpg responded 200 in 361.8461 ms
+2022-09-20 12:47:40.966 +05:00 [INF] Sending file. Request path: '/Images/profile_small.jpg'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\images\profile_small.jpg'
+2022-09-20 12:47:40.973 +05:00 [INF] Sending file. Request path: '/lib/peity/jquery.peity.js'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\lib\peity\jquery.peity.js'
+2022-09-20 12:47:40.797 +05:00 [INF] HTTP GET /lib/Popper/popper.min.js responded 200 in 556.6366 ms
+2022-09-20 12:47:40.989 +05:00 [INF] HTTP GET /lib/peity/jquery.peity.js responded 200 in 433.9165 ms
+2022-09-20 12:47:40.995 +05:00 [INF] Sending file. Request path: '/lib/flot/jquery.flot.spline.js'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\lib\flot\jquery.flot.spline.js'
+2022-09-20 12:47:40.984 +05:00 [INF] HTTP GET /Images/profile_small.jpg responded 200 in 390.9784 ms
+2022-09-20 12:47:41.006 +05:00 [INF] Sending file. Request path: '/js/skin.config.js'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\js\skin.config.js'
+2022-09-20 12:47:41.012 +05:00 [INF] HTTP GET /lib/flot/jquery.flot.spline.js responded 200 in 509.8802 ms
+2022-09-20 12:47:41.019 +05:00 [INF] Sending file. Request path: '/js/script.js'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\js\script.js'
+2022-09-20 12:47:41.023 +05:00 [INF] HTTP GET /js/skin.config.js responded 200 in 623.6764 ms
+2022-09-20 12:47:41.029 +05:00 [INF] Sending file. Request path: '/lib/slimScroll/jquery.slimscroll.js'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\lib\slimScroll\jquery.slimscroll.js'
+2022-09-20 12:47:41.034 +05:00 [INF] HTTP GET /js/script.js responded 200 in 662.1611 ms
+2022-09-20 12:47:41.040 +05:00 [INF] Sending file. Request path: '/lib/metisMenu/dist/jquery.metisMenu.js'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\lib\metisMenu\dist\jquery.metisMenu.js'
+2022-09-20 12:47:41.047 +05:00 [INF] HTTP GET /lib/slimScroll/jquery.slimscroll.js responded 200 in 724.9491 ms
+2022-09-20 12:47:41.065 +05:00 [INF] HTTP GET /lib/metisMenu/dist/jquery.metisMenu.js responded 200 in 785.9893 ms
+2022-09-20 12:47:41.082 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/slimScroll/jquery.slimscroll.js - - - 200 14306 application/javascript 775.5957ms
+2022-09-20 12:47:41.096 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/js/script.js?v=ejsjEJgVpOlGCnoCig86koGMDeT97csAvW4FVvUO7Kw - - - 200 8113 application/javascript 773.4327ms
+2022-09-20 12:47:41.104 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/metisMenu/dist/jquery.metisMenu.js - - - 200 13431 application/javascript 850.4974ms
+2022-09-20 12:47:41.113 +05:00 [INF] Sending file. Request path: '/lib/sparkline/jquery.sparkline.min.js'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\lib\sparkline\jquery.sparkline.min.js'
+2022-09-20 12:47:41.121 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/js/skin.config.js - - - 200 6881 application/javascript 773.4191ms
+2022-09-20 12:47:41.144 +05:00 [INF] HTTP GET /lib/sparkline/jquery.sparkline.min.js responded 200 in 640.4790 ms
+2022-09-20 12:47:41.001 +05:00 [INF] Sending file. Request path: '/lib/flot/jquery.flot.time.js'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\lib\flot\jquery.flot.time.js'
+2022-09-20 12:47:41.150 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/flot/jquery.flot.spline.js - - - 200 6464 application/javascript 695.1584ms
+2022-09-20 12:47:41.163 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/sparkline/jquery.sparkline.min.js - - - 200 43255 application/javascript 690.1219ms
+2022-09-20 12:47:41.168 +05:00 [INF] HTTP GET /lib/flot/jquery.flot.time.js responded 200 in 695.2621 ms
+2022-09-20 12:47:41.174 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Images/profile_small.jpg - - - 200 5181 image/jpeg 600.8996ms
+2022-09-20 12:47:41.183 +05:00 [INF] Sending file. Request path: '/lib/pace/pace.js'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\lib\pace\pace.js'
+2022-09-20 12:47:41.193 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/flot/jquery.flot.time.js - - - 200 12200 application/javascript 738.1782ms
+2022-09-20 12:47:41.201 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/peity/jquery.peity.js - - - 200 9274 application/javascript 653.5019ms
+2022-09-20 12:47:41.207 +05:00 [INF] HTTP GET /lib/pace/pace.js responded 200 in 861.3559 ms
+2022-09-20 12:47:41.219 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/Popper/popper.min.js - - - 200 19191 application/javascript 1030.4217ms
+2022-09-20 12:47:40.913 +05:00 [INF] Sending file. Request path: '/Images/a5.jpg'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\images\a5.jpg'
+2022-09-20 12:47:41.228 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/pace/pace.js - - - 200 27501 application/javascript 913.5628ms
+2022-09-20 12:47:41.238 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - - - 200 12028 application/javascript;+charset=utf-8 686.6459ms
+2022-09-20 12:47:41.251 +05:00 [INF] Sending file. Request path: '/lib/flot/jquery.flot.js'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\lib\flot\jquery.flot.js'
+2022-09-20 12:47:41.256 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Images/a4.jpg - - - 200 5916 image/jpeg 663.7516ms
+2022-09-20 12:47:41.267 +05:00 [INF] HTTP GET /lib/flot/jquery.flot.js responded 200 in 882.2150 ms
+2022-09-20 12:47:41.273 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Images/a3.jpg - - - 200 6790 image/jpeg 641.4218ms
+2022-09-20 12:47:41.280 +05:00 [INF] Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.js'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\lib\bootstrap\dist\js\bootstrap.js'
+2022-09-20 12:47:41.290 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/flot/jquery.flot.js - - - 200 126139 application/javascript 942.0086ms
+2022-09-20 12:47:41.296 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/flot/jquery.flot.resize.js - - - 200 3373 application/javascript 910.1155ms
+2022-09-20 12:47:41.302 +05:00 [INF] HTTP GET /lib/bootstrap/dist/js/bootstrap.js responded 200 in 1035.2938 ms
+2022-09-20 12:47:41.312 +05:00 [INF] Sending file. Request path: '/Images/profile.jpg'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\images\profile.jpg'
+2022-09-20 12:47:41.317 +05:00 [INF] Sending file. Request path: '/Images/a2.jpg'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\images\a2.jpg'
+2022-09-20 12:47:41.332 +05:00 [INF] HTTP GET /Images/profile.jpg responded 200 in 686.2198 ms
+2022-09-20 12:47:41.343 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/bootstrap/dist/js/bootstrap.js - - - 200 127709 application/javascript 1096.5724ms
+2022-09-20 12:47:41.356 +05:00 [INF] HTTP GET /Images/a2.jpg responded 200 in 705.1796 ms
+2022-09-20 12:47:41.370 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Images/profile.jpg - - - 200 27806 image/jpeg 758.0216ms
+2022-09-20 12:47:41.388 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Images/a2.jpg - - - 200 19568 image/jpeg 767.5801ms
+2022-09-20 12:47:41.245 +05:00 [INF] HTTP GET /Images/a5.jpg responded 200 in 592.5656 ms
+2022-09-20 12:47:41.406 +05:00 [INF] Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+2022-09-20 12:47:41.432 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Images/a5.jpg - - - 200 4240 image/jpeg 788.0846ms
+2022-09-20 12:47:41.404 +05:00 [INF] Sending file. Request path: '/lib/chartJs/Chart.min.js'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\lib\chartJs\Chart.min.js'
+2022-09-20 12:47:41.450 +05:00 [INF] HTTP GET /lib/bootstrap/dist/css/bootstrap.css responded 200 in 1444.3472 ms
+2022-09-20 12:47:41.462 +05:00 [INF] HTTP GET /lib/chartJs/Chart.min.js responded 200 in 957.5508 ms
+2022-09-20 12:47:41.471 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/bootstrap/dist/css/bootstrap.css - - - 200 182626 text/css 1501.5339ms
+2022-09-20 12:47:41.479 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/chartJs/Chart.min.js - - - 200 139403 application/javascript 981.2055ms
+2022-09-20 12:47:41.445 +05:00 [INF] Sending file. Request path: '/css/style.css'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\css\style.css'
+2022-09-20 12:47:41.519 +05:00 [INF] Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\lib\jquery\dist\jquery.js'
+2022-09-20 12:47:41.580 +05:00 [INF] HTTP GET /css/style.css responded 200 in 1496.5606 ms
+2022-09-20 12:47:41.617 +05:00 [INF] HTTP GET /lib/jquery/dist/jquery.js responded 200 in 1442.2943 ms
+2022-09-20 12:47:41.643 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/css/style.css?v=1VcVdl9qxagrO13A7Uu4lsnMcHtbiF2qA_bR6VmGxSk - - - 200 208028 text/css 1667.2126ms
+2022-09-20 12:47:41.720 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/jquery/dist/jquery.js - - - 200 273841 application/javascript 1547.7110ms
+2022-09-20 12:47:41.724 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 1049.2288ms
+2022-09-20 12:47:42.316 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/css/patterns/header-profile.png - -
+2022-09-20 12:47:42.338 +05:00 [INF] Sending file. Request path: '/css/patterns/header-profile.png'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\css\patterns\header-profile.png'
+2022-09-20 12:47:42.346 +05:00 [INF] HTTP GET /css/patterns/header-profile.png responded 200 in 23.5286 ms
+2022-09-20 12:47:42.354 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/css/patterns/header-profile.png - - - 200 5877 image/png 37.2332ms
+2022-09-20 12:47:42.704 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0 - -
+2022-09-20 12:47:42.729 +05:00 [INF] Sending file. Request path: '/lib/font-awesome/fonts/fontawesome-webfont.woff2'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\lib\font-awesome\fonts\fontawesome-webfont.woff2'
+2022-09-20 12:47:42.738 +05:00 [INF] HTTP GET /lib/font-awesome/fonts/fontawesome-webfont.woff2 responded 200 in 22.8635 ms
+2022-09-20 12:47:42.754 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0 - - - 200 77160 font/woff2 49.3130ms
+2022-09-20 12:47:43.380 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/favicon.ico - -
+2022-09-20 12:47:43.404 +05:00 [INF] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\favicon.ico'
+2022-09-20 12:47:43.421 +05:00 [INF] HTTP GET /favicon.ico responded 200 in 34.6943 ms
+2022-09-20 12:47:43.432 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/favicon.ico - - - 200 5430 image/x-icon 52.2329ms
+2022-09-20 12:48:10.929 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Mailbox/Inbox - -
+2022-09-20 12:48:10.988 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.MailboxController.Inbox (FunFox.PortalSystem)'
+2022-09-20 12:48:11.004 +05:00 [INF] Route matched with {action = "Inbox", controller = "Mailbox"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Inbox() on controller FunFox.PortalSystem.Controllers.MailboxController (FunFox.PortalSystem).
+2022-09-20 12:48:11.018 +05:00 [INF] Executing ViewResult, running view Inbox.
+2022-09-20 12:48:11.082 +05:00 [INF] Executed ViewResult - view Inbox executed in 66.6215ms.
+2022-09-20 12:48:11.088 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.MailboxController.Inbox (FunFox.PortalSystem) in 73.402ms
+2022-09-20 12:48:11.095 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.MailboxController.Inbox (FunFox.PortalSystem)'
+2022-09-20 12:48:11.100 +05:00 [INF] HTTP GET /Mailbox/Inbox responded 200 in 122.9562 ms
+2022-09-20 12:48:11.136 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Mailbox/Inbox - - - 200 - text/html;+charset=utf-8 207.3653ms
+2022-09-20 12:48:11.207 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/iCheck/custom.css - -
+2022-09-20 12:48:11.234 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/iCheck/icheck.min.js - -
+2022-09-20 12:48:11.237 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - -
+2022-09-20 12:48:11.247 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_vs/browserLink - -
+2022-09-20 12:48:11.254 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - - - 200 12028 application/javascript;+charset=utf-8 16.8227ms
+2022-09-20 12:48:11.278 +05:00 [INF] Sending file. Request path: '/lib/iCheck/custom.css'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\lib\iCheck\custom.css'
+2022-09-20 12:48:11.292 +05:00 [INF] HTTP GET /lib/iCheck/custom.css responded 200 in 43.2416 ms
+2022-09-20 12:48:11.302 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/iCheck/custom.css - - - 200 1456 text/css 94.4147ms
+2022-09-20 12:48:11.321 +05:00 [INF] Sending file. Request path: '/lib/iCheck/icheck.min.js'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\lib\iCheck\icheck.min.js'
+2022-09-20 12:48:11.346 +05:00 [INF] HTTP GET /lib/iCheck/icheck.min.js responded 200 in 93.7835 ms
+2022-09-20 12:48:11.350 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 103.4381ms
+2022-09-20 12:48:11.368 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/iCheck/icheck.min.js - - - 200 4998 application/javascript 134.5515ms
+2022-09-20 12:48:11.677 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/lib/iCheck/green.png - -
+2022-09-20 12:48:11.699 +05:00 [INF] Sending file. Request path: '/lib/iCheck/green.png'. Physical path: 'C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\wwwroot\lib\iCheck\green.png'
+2022-09-20 12:48:11.707 +05:00 [INF] HTTP GET /lib/iCheck/green.png responded 200 in 24.1664 ms
+2022-09-20 12:48:11.715 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/lib/iCheck/green.png - - - 200 5064 image/png 38.3382ms
+2022-09-20 12:48:28.648 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Mailbox/Inbox - -
+2022-09-20 12:48:28.699 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.MailboxController.Inbox (FunFox.PortalSystem)'
+2022-09-20 12:48:28.709 +05:00 [INF] Route matched with {action = "Inbox", controller = "Mailbox"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Inbox() on controller FunFox.PortalSystem.Controllers.MailboxController (FunFox.PortalSystem).
+2022-09-20 12:49:00.893 +05:00 [INF] Executing ViewResult, running view Inbox.
+2022-09-20 12:49:02.130 +05:00 [INF] Executed ViewResult - view Inbox executed in 1445.6877ms.
+2022-09-20 12:49:02.142 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.MailboxController.Inbox (FunFox.PortalSystem) in 33425.7902ms
+2022-09-20 12:49:02.150 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.MailboxController.Inbox (FunFox.PortalSystem)'
+2022-09-20 12:49:02.157 +05:00 [INF] HTTP GET /Mailbox/Inbox responded 200 in 33475.1823 ms
+2022-09-20 12:49:02.326 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - -
+2022-09-20 12:49:02.327 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Mailbox/Inbox - - - 200 - text/html;+charset=utf-8 33681.0548ms
+2022-09-20 12:49:02.365 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_vs/browserLink - -
+2022-09-20 12:49:02.374 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - - - 200 12028 application/javascript;+charset=utf-8 50.0402ms
+2022-09-20 12:49:02.476 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 111.7779ms
+2022-09-20 12:51:36.140 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Ecommerce/ProductsGrid - -
+2022-09-20 12:51:36.202 +05:00 [INF] Executing endpoint 'FunFox.PortalSystem.Controllers.EcommerceController.ProductsGrid (FunFox.PortalSystem)'
+2022-09-20 12:51:36.240 +05:00 [INF] Route matched with {action = "ProductsGrid", controller = "Ecommerce"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult ProductsGrid() on controller FunFox.PortalSystem.Controllers.EcommerceController (FunFox.PortalSystem).
+2022-09-20 12:51:36.256 +05:00 [INF] Executing ViewResult, running view ProductsGrid.
+2022-09-20 12:51:36.296 +05:00 [INF] Executed ViewResult - view ProductsGrid executed in 41.2504ms.
+2022-09-20 12:51:36.302 +05:00 [INF] Executed action FunFox.PortalSystem.Controllers.EcommerceController.ProductsGrid (FunFox.PortalSystem) in 48.2528ms
+2022-09-20 12:51:36.311 +05:00 [INF] Executed endpoint 'FunFox.PortalSystem.Controllers.EcommerceController.ProductsGrid (FunFox.PortalSystem)'
+2022-09-20 12:51:36.317 +05:00 [INF] HTTP GET /Ecommerce/ProductsGrid responded 200 in 116.5759 ms
+2022-09-20 12:51:36.348 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Ecommerce/ProductsGrid - - - 200 - text/html;+charset=utf-8 215.2588ms
+2022-09-20 12:51:36.395 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - -
+2022-09-20 12:51:36.397 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/_vs/browserLink - -
+2022-09-20 12:51:36.404 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_framework/aspnetcore-browser-refresh.js - - - 200 12028 application/javascript;+charset=utf-8 8.8334ms
+2022-09-20 12:51:36.448 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 51.2672ms
+2022-09-20 13:48:37.975 +05:00 [INF] User profile is available. Using 'C:\Users\YasirIrfan\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-09-20 13:48:38.889 +05:00 [INF] Now listening on: https://localhost:7154
+2022-09-20 13:48:38.899 +05:00 [INF] Now listening on: http://localhost:5204
+2022-09-20 13:48:38.916 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-20 13:48:38.924 +05:00 [INF] Hosting environment: Development
+2022-09-20 13:48:38.931 +05:00 [INF] Content root path: C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\
+2022-09-20 13:48:40.317 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/ - -
+2022-09-20 13:48:40.559 +05:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2022-09-20 13:48:40.633 +05:00 [INF] AuthenticationScheme: Identity.Application was challenged.
+2022-09-20 13:48:40.645 +05:00 [INF] HTTP GET / responded 302 in 189.2543 ms
+2022-09-20 13:48:40.718 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/ - - - 302 0 - 399.2386ms
+2022-09-20 13:48:40.728 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Identity/Account/Login?ReturnUrl=%2F - -
+2022-09-20 13:48:40.748 +05:00 [INF] HTTP GET /Identity/Account/Login responded 404 in 5.5948 ms
+2022-09-20 13:48:40.767 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Identity/Account/Login?ReturnUrl=%2F - - - 404 0 - 39.8464ms
+2022-09-20 17:20:11.334 +05:00 [INF] User profile is available. Using 'C:\Users\YasirIrfan\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-09-20 17:20:13.070 +05:00 [INF] Now listening on: https://localhost:7154
+2022-09-20 17:20:13.082 +05:00 [INF] Now listening on: http://localhost:5204
+2022-09-20 17:20:13.094 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-20 17:20:13.101 +05:00 [INF] Hosting environment: Development
+2022-09-20 17:20:13.107 +05:00 [INF] Content root path: C:\Users\YasirIrfan\source\repos\proposal-management\FunFox.PortalSystem\
+2022-09-20 17:20:14.444 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/ - -
+2022-09-20 17:20:14.650 +05:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2022-09-20 17:20:14.753 +05:00 [INF] AuthenticationScheme: Identity.Application was challenged.
+2022-09-20 17:20:14.772 +05:00 [INF] HTTP GET / responded 302 in 199.5199 ms
+2022-09-20 17:20:14.952 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/ - - - 302 0 - 520.4414ms
+2022-09-20 17:20:15.000 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7154/Identity/Account/Login?ReturnUrl=%2F - -
+2022-09-20 17:20:15.043 +05:00 [INF] HTTP GET /Identity/Account/Login responded 404 in 9.1988 ms
+2022-09-20 17:20:15.088 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7154/Identity/Account/Login?ReturnUrl=%2F - - - 404 0 - 87.1942ms

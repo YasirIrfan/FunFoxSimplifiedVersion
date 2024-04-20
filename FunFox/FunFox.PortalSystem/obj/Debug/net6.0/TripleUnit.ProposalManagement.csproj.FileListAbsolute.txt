@@ -1,0 +1,1195 @@
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\appsettings.json
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.staticwebassets.runtime.json
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.exe
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.deps.json
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.runtimeconfig.json
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.pdb
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\WebOptimizer.Core.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\NUglify.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Serilog.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.Application.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.Common.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.Domain.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.Application.pdb
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.Common.pdb
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.Domain.pdb
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.pdb
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.csproj.AssemblyReference.cache
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.AssemblyInfoInputs.cache
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.AssemblyInfo.cs
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.csproj.CoreCompileInputs.cache
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.RazorAssemblyInfo.cache
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.RazorAssemblyInfo.cs
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\scopedcss\bundle\TripleUnit.ProposalManagement.styles.css
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\scopedcss\projectbundle\TripleUnit.ProposalManagement.bundle.scp.css
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.csproj.CopyComplete
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\refint\TripleUnit.ProposalManagement.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.pdb
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.genruntimeconfig.cache
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\ref\TripleUnit.ProposalManagement.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Humanizer.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\MessagePack.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\YasirIrfan\source\repos\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\appsettings.json
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.staticwebassets.runtime.json
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.exe
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.deps.json
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.runtimeconfig.json
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.pdb
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Humanizer.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\WebOptimizer.Core.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\MessagePack.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\NUglify.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Serilog.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.Application.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.Common.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.Domain.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.pdb
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.Application.pdb
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.Common.pdb
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.Domain.pdb
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.AssemblyInfo.cs
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.RazorAssemblyInfo.cache
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.RazorAssemblyInfo.cs
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\staticwebassets\msbuild.TripleUnit.ProposalManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.TripleUnit.ProposalManagement.props
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TripleUnit.ProposalManagement.props
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TripleUnit.ProposalManagement.props
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\scopedcss\bundle\TripleUnit.ProposalManagement.styles.css
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\scopedcss\projectbundle\TripleUnit.ProposalManagement.bundle.scp.css
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.csproj.CopyComplete
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\refint\TripleUnit.ProposalManagement.dll
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.pdb
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.genruntimeconfig.cache
+C:\Users\HP\Desktop\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\ref\TripleUnit.ProposalManagement.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\appsettings.Development.json
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\appsettings.json
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.staticwebassets.runtime.json
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.exe
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.deps.json
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.runtimeconfig.json
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.pdb
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\AutoMapper.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Humanizer.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\WebOptimizer.Core.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\MessagePack.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.Build.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\NuGet.Common.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\NUglify.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Serilog.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Serilog.AspNetCore.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Serilog.Sinks.File.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.Application.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.Common.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.Domain.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.pdb
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.Application.pdb
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.Common.pdb
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.Domain.pdb
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.csproj.AssemblyReference.cache
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.AssemblyInfoInputs.cache
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.AssemblyInfo.cs
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.csproj.CoreCompileInputs.cache
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.MvcApplicationPartsAssemblyInfo.cs
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.RazorAssemblyInfo.cache
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.RazorAssemblyInfo.cs
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\staticwebassets.build.json
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\staticwebassets.development.json
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\staticwebassets\msbuild.TripleUnit.ProposalManagement.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.TripleUnit.ProposalManagement.props
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TripleUnit.ProposalManagement.props
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TripleUnit.ProposalManagement.props
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\staticwebassets.pack.json
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\scopedcss\bundle\TripleUnit.ProposalManagement.styles.css
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\scopedcss\projectbundle\TripleUnit.ProposalManagement.bundle.scp.css
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.csproj.CopyComplete
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\refint\TripleUnit.ProposalManagement.dll
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.pdb
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.genruntimeconfig.cache
+D:\PORTFOLIO\Running Portfolio\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\ref\TripleUnit.ProposalManagement.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\appsettings.Development.json
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\appsettings.json
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.staticwebassets.runtime.json
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.exe
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.deps.json
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.runtimeconfig.json
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.pdb
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\AutoMapper.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Humanizer.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\WebOptimizer.Core.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\MessagePack.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.Build.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\NuGet.Common.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\NUglify.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Serilog.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Serilog.AspNetCore.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\Serilog.Sinks.File.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.Application.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.Common.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.Domain.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.Infrastructure.pdb
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.Application.pdb
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.Common.pdb
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\bin\Debug\net6.0\TripleUnit.ProposalManagement.Domain.pdb
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.csproj.AssemblyReference.cache
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.AssemblyInfoInputs.cache
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.AssemblyInfo.cs
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.csproj.CoreCompileInputs.cache
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.MvcApplicationPartsAssemblyInfo.cs
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.MvcApplicationPartsAssemblyInfo.cache
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.RazorAssemblyInfo.cache
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.RazorAssemblyInfo.cs
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\staticwebassets.build.json
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\staticwebassets.development.json
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\staticwebassets\msbuild.TripleUnit.ProposalManagement.Microsoft.AspNetCore.StaticWebAssets.props
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.TripleUnit.ProposalManagement.props
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TripleUnit.ProposalManagement.props
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TripleUnit.ProposalManagement.props
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\staticwebassets.pack.json
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\scopedcss\bundle\TripleUnit.ProposalManagement.styles.css
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\scopedcss\projectbundle\TripleUnit.ProposalManagement.bundle.scp.css
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.csproj.CopyComplete
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\refint\TripleUnit.ProposalManagement.dll
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.pdb
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\TripleUnit.ProposalManagement.genruntimeconfig.cache
+E:\TechnicalTasks\proposal-management\TripleUnit.ProposalManagement\obj\Debug\net6.0\ref\TripleUnit.ProposalManagement.dll

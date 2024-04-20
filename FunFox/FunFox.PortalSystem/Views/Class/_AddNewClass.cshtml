@@ -1,0 +1,150 @@
+﻿
+@model FunFox.PortalSystem.Domain.ViewModels.Class.AddorEditClassViewModel
+<div class="modal fade ModalGrid ModalGridSubCard ModalSelect2" id="NewEmployeeModal" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true" data-backdrop="static" data-keyboard="false">
+    <div class="modal-dialog modal-dialog-centered" role="document" style="max-width: 60%;">
+        <div class="modal-content" style="background-color:#f1f1f1">
+            <div class="modal-header text-left">
+                <h4 class="modal-title w-100 font-weight-bold">Add New Employee</h4>
+            </div>
+            <form class="my-form" id="AddNewEmployeeForm">
+                <div class="modal-body mx-3">
+                    <div class="row " style="margin-bottom: -2px;">
+                        <div class="col-12">
+                            <div class="subCard BoxBorder">
+                                <h4 class="TitleBox">
+                                    Class Informations
+                                </h4>
+                                <div class="TicketContent TabsBlock addMrB">
+                                    <div class="row addMrB ">
+                                        <div class="col-lg pl-lg-0">
+                                            <div class="row">
+                                                <div class="col pl-lg-4">
+                                                    <label data-error="wrong" data-success="right" for="form34">Grade Level:</label>
+                                                    <input type="text" id="form34" class="form-control " asp-for="@Model.GradeLevel">
+                                                    <span class="ValidationError " asp-validation-for="@Model.GradeLevel"></span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg">
+                                            <div class="row">
+                                                <div class="col pl-lg-0">
+                                                    <label data-error="wrong" data-success="right" for="form34">Program Details:</label>
+                                                    <input type="text" id="form29" class="form-control" asp-for="@Model.ProgramDetails">
+                                                    <span class="ValidationError" asp-validation-for="@Model.ProgramDetails"></span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row addMrB">
+                                        <div class="col-lg pl-lg-0">
+                                            <div class="row">
+                                                <div class="col pl-lg-4">
+                                                    <label data-error="wrong" data-success="right" for="form34">Email:</label>
+                                                    <input type="text" id="form29" class="form-control " asp-for="@Model.ClassStartTime">
+                                                    <span class="ValidationError" asp-validation-for="@Model.ClassStartTime"></span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg">
+                                            <div class="row">
+                                                <div class="col pl-lg-0">
+                                                    <label data-error="wrong" data-success="right" for="form34">Mobile:</label>
+                                                    <input type="text" id="form29" class="form-control" asp-for="@Model.ClassEndTime">
+                                                    <span class="ValidationError" asp-validation-for="@Model.ClassEndTime"></span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row addMrB">
+                                        <div class="col-lg pl-lg-0">
+                                            <div class="row ">
+                                                <div class="col pl-lg-4">
+                                                    <label data-error="wrong" data-success="right" for="form34">Address Line1:</label>
+                                                    <input type="text" id="form29" class="form-control " asp-for="@Model.MaxClassSize">
+                                                    <span class="ValidationError" asp-validation-for="@Model.MaxClassSize"></span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        @* <div class="col-lg ">
+                                            <div class="row ">
+                                                <div class="col pl-lg-0">
+                                                    <label data-error="wrong" data-success="right" for="form34">Address Line2:</label>
+                                                    <input type="text" id="form29" class="form-control" asp-for="@Model.AddressLine2">
+                                                    <span class="ValidationError" asp-validation-for="@Model.AddressLine2"></span>
+                                                </div>
+                                            </div>
+                                        </div> *@
+
+                                    </div>
+                                   @*  <div class="row addMrB">
+                                        <div class="col-lg pl-lg-0 ">
+                                            <div class="row">
+                                                <div class="col pl-lg-4">
+                                                    <label data-error="wrong" data-success="right" for="form34">City:</label>
+                                                    <input type="text" id="form29" class="form-control " asp-for="@Model.City">
+                                                    <span class="ValidationError" asp-validation-for="@Model.City"></span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg">
+                                            <div class="row ">
+                                                <div class="col pl-lg-0">
+                                                    <label data-error="wrong" data-success="right" for="form34">PostCode:</label>
+                                                    <input type="text" id="form29" class="form-control " asp-for="@Model.Postcode">
+                                                    <span class="ValidationError" asp-validation-for="@Model.Postcode"></span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row addMrB ">
+                                        <div class="col-lg pl-lg-0 ">
+                                            <div class="row ">
+                                                <div class="col pl-lg-4">
+                                                    <label data-error="wrong" data-success="right" for="form34">State:</label>
+                                                    <input type="text" id="form29" class="form-control" asp-for="@Model.State">
+                                                    <span class="ValidationError" asp-validation-for="@Model.State"></span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg ">
+                                            <div class="row">
+                                                <div class="col pl-lg-0">
+                                                    <label data-error="wrong" data-success="right" for="form34">Country:</label>
+                                                    <input type="text" id="form29" class="form-control " asp-for="@Model.Country">
+                                                    <span class="ValidationError" asp-validation-for="@Model.Country"></span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+ *@
+                                    @*<div class="row addMrB">
+                                    <div class="col-lg pl-lg-0 ">
+                                    <div class="row ">
+                                    <div class="col pl-lg-4">
+                                    <label data-error="wrong" data-success="right" for="form34">Company Name:</label>
+                                    <select class="form-control Select2Width" id="companyId"  asp-for="@Model.CompanyId"  >
+                                    <option value="">Select Company</option>
+                                    @foreach (var item in ViewBag.Companies?? new List<LoadCompaniesViewModal>())
+                                    {
+                                    <option value="@item.CompanyId">@item.CompanyName</option>
+                                    }
+                                    </select>
+                                    <span class="ValidationError comapnyErrorMessage" asp-validation-for="@Model.CompanyId"></span>
+                                    </div>
+                                    </div>
+                                    </div>
+                                    </div>*@
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer d-flex justify-content-right">
+                    <button type="button" class="btn btn-secondary" id="btnAddNewEmployee">Add <i class="fa fa-paper-plane-o ml-1"></i></button>
+                    <button type="reset" class="btn btn-danger" data-dismiss="modal" aria-label="Close" onclick="resetForm()">Cancel <i class="fa fa-times ml-1"></i></button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
